@@ -200,6 +200,7 @@
 * https://github.com/bionus/imgbrd-grabber –
 * http://sourceforge.net/projects/tumblone – 
  * http://www.jzab.de/content/tumbltwo – 
+* http://www.michelstevelmans.com/sone-image-downloader – 
 
 #####Мобильные клиенты#####
 * **E621 mobile**: https://play.google.com/store/apps/details?id=info.beastarman.e926 –
