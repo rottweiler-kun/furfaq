@@ -179,7 +179,6 @@
 * http://hola.org –
 
 > [Сервис Hola для обхода блокировок использовали в качестве ботнета](https://tjournal.ru/p/hola-botnet)
-
 > [VPN-расширение Hola продает пользовательский трафик и содержит уязвимости удаленного выполнения кода](http://habrahabr.ru/post/259177/)
 
 * https://www.torproject.org/download/download-easy.html.en –
