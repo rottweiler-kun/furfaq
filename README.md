@@ -145,6 +145,7 @@
 * http://e621.net/help/cheatsheet –
  * https://e621.net/post/index/1/width:%3E1920%20height:%3E1080%20rating:safe%20-mlp –
 * http://iqdb.harry.lu – реверсивный поиск по E621. Для тех, кому влом искать на самом глутамате по MD5-хэшу.
+* http://e621.ml/ - Версия, адоптированная под браузеры мобильных/портативных устройств
 
 ###Pixiv###
 
@@ -213,5 +214,5 @@
 * http://www.michelstevelmans.com/sone-image-downloader – тулза для скачивания картинок с Twitter и Instagram. Не умеет работать с приватными аккаунтами, умеет искать картинки только в первых трёх тысячах твитов (автор, видимо, не знает о существовании страницы "Media"). Давно не обновлялось, но пока что исправно работает.
 
 #####Мобильные клиенты#####
-* **E621 mobile**: https://play.google.com/store/apps/details?id=info.beastarman.e926 –
+* **E621 mobile для android**: https://play.google.com/store/apps/details?id=info.beastarman.e926 –
 * **SoFurry App beta**: ~~https://play.google.com/store/apps/details?id=com.sofurry~~ – обещают вот-вот запилить новую бета-версию вместо безнадёжно устаревшей.
