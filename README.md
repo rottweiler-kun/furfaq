@@ -46,6 +46,7 @@
 * [Bad Dragon](http://bad-dragon.com) – **ПЁСЬИ КОНСКИЕ ДРОКОНЬИ ХУЙЦЫ И ПЁЗДЫ В АССОРТИМЕНТЕ ~~ДЁШЕВО~~!** Они самые, всех [мастей](https://i.imgur.com/T2jY4GQ.jpg), [форм](https://i.imgur.com/azj44Zy.jpg) и [размеров](https://i.imgur.com/40pJgN4.jpg). Предмет охуевания одных и неистового фапа других. Могут слепить и раскрасить конскую дилду, подходящую под твой анус. Стоят *дорого*, в Духовную не высылаются (только через посредников-дропшипперов). 
  * Имеют (в прямом и переносном смысле) [немногочисленных конкурентов](http://www.zoofur.com), [не умеющих в ориджинал контент](https://yiffytoys.de/shop).
  * [Есть и отечественные аналоги](http://erasexa.com/category/zooerotika).
+ * Гайды и советы по заказу дилд в Интернет-магазинах ищите в [FAQ треда анальной блажи](https://2ch.hk/hc/catalog.html)
 
 ##1.2. MLP, драконы, азеркины и прочая фауна##
 
@@ -215,5 +216,5 @@
 * http://www.michelstevelmans.com/sone-image-downloader – тулза для скачивания картинок с Twitter и Instagram. Не умеет работать с приватными аккаунтами, умеет искать картинки только в первых трёх тысячах твитов (автор, видимо, не знает о существовании страницы "Media"). Давно не обновлялось, но пока что исправно работает.
 
 #####Мобильные клиенты#####
-* **E621 mobile для android**: https://play.google.com/store/apps/details?id=info.beastarman.e926 –
+* **E621 mobile (Android)**: https://play.google.com/store/apps/details?id=info.beastarman.e926 –
 * **SoFurry App beta**: ~~https://play.google.com/store/apps/details?id=com.sofurry~~ – обещают вот-вот запилить новую бета-версию вместо безнадёжно устаревшей.
