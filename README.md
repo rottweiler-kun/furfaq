@@ -107,6 +107,7 @@
 * http://wildcritters.ws –
 * http://cubcentral.org –
 * http://yaoi.in –
+* [yiff.party](https://yiff.party) – рипы ~~рака, убивающего фурри-арт~~~ аккаунтов попрошаек с [Patreon](https://www.patreon.com)-а. Можно слать админу реквесты по e-mail или отписываться в соотвествюущем треде на инфинитаче, а также скачивать рипы в виде архивов. 
 
 ####Исторический музей####
 
@@ -235,8 +236,12 @@
 * [Tumblr Image Downloader](http://sourceforge.net/projects/tumblrimagedown) – менее функциональное кроссплатфоменное поделие для граббинга тумблеров, написанное на Java. Иногда умудряется вытягивать картинки с галерей, которые не по зубам TumblOne/TumblTwo. 
 * [Sone Image Dowloader](http://www.michelstevelmans.com/sone-image-downloader) – тулза для скачивания картинок с Twitter и Instagram. Не умеет работать с приватными аккаунтами, умеет искать картинки только в первых трёх тысячах твитов (ограничения API самого Твиттера). Давно не обновлялось, но пока что исправно работает.
 * [Hydrus](http://hydrusnetwork.github.io/hydrus/) – многофункциональный граббер и каталогизатор картинок с имиджборд и галерей. Умеет выкачивать по тегам, ~~майнить в ботнете~~ создавать и анонимно расшаривать собственные коллекции и ещё дохрена чего.
+* [T621](http://hotsurface.de/iso/t621.rar ) – минималистичный граббер каритнок с глутамата на основании определённого набора тегов.
 
 #####Мобильные клиенты#####
-* **E621 mobile (Android)**: https://play.google.com/store/apps/details?id=info.beastarman.e926 –
-* **SoFurry App beta**: ~~https://play.google.com/store/apps/details?id=com.sofurry~~ – обещают вот-вот запилить новую бета-версию вместо безнадёжно устаревшей.
+* На форуме e621 есть целая [ветка](https://e621.net/forum?category=9) с поделками разной степени работоспособности, из них  наиболее продвинутый и активно пилящийся клиент **E621 mobile for Android** от *beastarman*  
+  * http://beastarman.info/android/app/e621Mobile/latest.apk (NSFW)
+ * https://play.google.com/store/apps/details?id=info.beastarman.e926 (SFW) 
+   * Версию с Google Play можно научить показывать прон путём смены в настройках адреса хоста на "https://e621.net".
+* **SoFurry App beta**: ~~https://play.google.com/store/apps/details?id=com.sofurry~~ https://www.sofurry.com/static/app/android/app.apk – рабочая актуальная бета-версия клиента для SoFurry.
 
