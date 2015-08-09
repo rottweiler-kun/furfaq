@@ -115,6 +115,7 @@
  * На Пиратской бухте лежит рип оригинальной галереи за 2002 год: [ссылка](https://thepiratebay.vg/torrent/3776429/), magnet-хэш AC3FC21E7C319264FC79F1B6F76E11DF30A351C0.
 * [Miavir's index of anthro stories](http://furry.de/miavir/stories/index.html) – предтеча этих ваших YiffStar-ов и SoFurry-ей, каталог фурёвых рассказиков, размазанных по интернету. Составитель каталога уже давно принял ислам, большая часть ссылок дохлая, хотя кое-что можно вытянуть через archive.org (см. ниже [в разделе 3.1](#Неспецифические)).
 * [VCL](http://us.vclart.net/vcl/) – ещё один архив из эпохи WEB 1.0 с примитивной навигацией, натянутой на FTP-сервер. Можно отыскать старый арт неактивных более художников.
+* [Yiffstar SiteRIP](https://www.dropbox.com/s/hs9ujephaegu50e/yiffstar.rar) – дамп Yiffstar (предшественника SoFurry) от 2007 года.
 
 ###Борды (зарубжные)###
 * [LULZ.NET](http://lulz.net/furi) – уютный забугорный пушистый двачик. Содержимое - лютый микс ***/fur*** и ***/b***, тематика обсуждений практически не ограничивается. Есть свои рисовач-треды, иногда проскальзывает пиратская годнота.
@@ -236,12 +237,11 @@
 * [Tumblr Image Downloader](http://sourceforge.net/projects/tumblrimagedown) – менее функциональное кроссплатфоменное поделие для граббинга тумблеров, написанное на Java. Иногда умудряется вытягивать картинки с галерей, которые не по зубам TumblOne/TumblTwo. 
 * [Sone Image Dowloader](http://www.michelstevelmans.com/sone-image-downloader) – тулза для скачивания картинок с Twitter и Instagram. Не умеет работать с приватными аккаунтами, умеет искать картинки только в первых трёх тысячах твитов (ограничения API самого Твиттера). Давно не обновлялось, но пока что исправно работает.
 * [Hydrus](http://hydrusnetwork.github.io/hydrus/) – многофункциональный граббер и каталогизатор картинок с имиджборд и галерей. Умеет выкачивать по тегам, ~~майнить в ботнете~~ создавать и анонимно расшаривать собственные коллекции и ещё дохрена чего.
-* [T621](http://hotsurface.de/iso/t621.rar ) – минималистичный граббер каритнок с глутамата на основании определённого набора тегов.
+* [T621](http://hotsurface.de/iso/t621.rar) – минималистичный граббер каритнок с глутамата на основании набора тегов.
 
 #####Мобильные клиенты#####
-* На форуме e621 есть целая [ветка](https://e621.net/forum?category=9) с поделками разной степени работоспособности, из них  наиболее продвинутый и активно пилящийся клиент **E621 mobile for Android** от *beastarman*  
-  * http://beastarman.info/android/app/e621Mobile/latest.apk (NSFW)
- * https://play.google.com/store/apps/details?id=info.beastarman.e926 (SFW) 
-   * Версию с Google Play можно научить показывать прон путём смены в настройках адреса хоста на "https://e621.net".
-* **SoFurry App beta**: ~~https://play.google.com/store/apps/details?id=com.sofurry~~ https://www.sofurry.com/static/app/android/app.apk – рабочая актуальная бета-версия клиента для SoFurry.
+* На форуме e621 есть целая [ветка](https://e621.net/forum?category=9) с поделками разной степени работоспособности, из них  наиболее продвинутый и активно пилящийся клиент **E621 mobile** (Android) от *beastarman*  
+ * https://play.google.com/store/apps/details?id=info.beastarman.e926 (SFW) – можно научить показывать прон путём смены в настройках адреса хоста на "https://e621.net".
+ * http://beastarman.info/android/app/e621Mobile/latest.apk (NSFW) – версияб ез цензуры.
+* **SoFurry App beta** (Android): ~~https://play.google.com/store/apps/details?id=com.sofurry~~ https://www.sofurry.com/static/app/android/app.apk – рабочая актуальная бета-версия клиента для SoFurry.
 
