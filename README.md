@@ -240,8 +240,8 @@
 * [T621](http://hotsurface.de/iso/t621.rar) – минималистичный граббер каритнок с глутамата на основании набора тегов.
 
 #####Мобильные клиенты#####
-* На форуме e621 есть целая [ветка](https://e621.net/forum?category=9) с поделками разной степени работоспособности, из них  наиболее продвинутый и активно пилящийся клиент **E621 mobile** (Android) от *beastarman*  
- * https://play.google.com/store/apps/details?id=info.beastarman.e926 (SFW) – можно научить показывать прон путём смены в настройках адреса хоста на "https://e621.net".
- * http://beastarman.info/android/app/e621Mobile/latest.apk (NSFW) – версия без цензуры.
-* **SoFurry App beta** (Android): ~~https://play.google.com/store/apps/details?id=com.sofurry~~ https://www.sofurry.com/static/app/android/app.apk – рабочая актуальная бета-версия клиента для SoFurry.
+* На форуме e621 есть целая [ветка с поделками разной степени работоспособности](https://e621.net/forum?category=9), из них  наиболее продвинутый и активно пилящийся клиент **E621 mobile** (Android) от *beastarman*:
+ * [**SFW** (Google Play)](https://play.google.com/store/apps/details?id=info.beastarman.e926) – показывает прон после смены в настройках адреса хоста на "https://e621.net";
+ * [**NSFW** (официалный сайт)](http://beastarman.info/android/app/e621Mobile/latest.apk) – версия без цензуры.
+* [SoFurry App beta](https://www.sofurry.com/static/app/android/app.apk) (Android) – официальная бета-версия клиента для SoFurry. ~~[Google Play](https://play.google.com/store/apps/details?id=com.sofurry)~~  
 
