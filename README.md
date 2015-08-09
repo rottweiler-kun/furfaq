@@ -242,6 +242,6 @@
 #####Мобильные клиенты#####
 * На форуме e621 есть целая [ветка](https://e621.net/forum?category=9) с поделками разной степени работоспособности, из них  наиболее продвинутый и активно пилящийся клиент **E621 mobile** (Android) от *beastarman*  
  * https://play.google.com/store/apps/details?id=info.beastarman.e926 (SFW) – можно научить показывать прон путём смены в настройках адреса хоста на "https://e621.net".
- * http://beastarman.info/android/app/e621Mobile/latest.apk (NSFW) – версияб ез цензуры.
+ * http://beastarman.info/android/app/e621Mobile/latest.apk (NSFW) – версия без цензуры.
 * **SoFurry App beta** (Android): ~~https://play.google.com/store/apps/details?id=com.sofurry~~ https://www.sofurry.com/static/app/android/app.apk – рабочая актуальная бета-версия клиента для SoFurry.
 
