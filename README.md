@@ -220,7 +220,7 @@
 
 > ___Anon says___: Нужно ещё нормальный VPN подыскать. Имел неосторожность лохануться, купив VPN-сервис с проходящим через рашку траффиком (автоматически выбирается наиболее близкий и скоростной), после чего лицезрел на сайте ту же самую заглушку _другого_ провайдера. Рекомендую для начала ознакомиться: http://torrentfreak.com/anonymous-vpn-service-provider-review-2015-150228/ (обзоры PIA и BTGuard проплачены, ибо спонсоры сайта).
 
-Юзеры с reddit-а подготовили и активно обновляют архиполезную [сравнительную таблицу по всем основным VPN-провайдерам](https://docs.google.com/spreadsheets/d/1FJTvWT5RHFSYuEoFVpAeQjuQPU4BVzbOigT0xebxTOw)
+> ___Anon says___: Юзеры с reddit-а подготовили и активно обновляют архиполезную [сравнительную таблицу по всем основным VPN-провайдерам](https://docs.google.com/spreadsheets/d/1FJTvWT5RHFSYuEoFVpAeQjuQPU4BVzbOigT0xebxTOw). 
 
 
 ##4.2. Просто полезные тулзы##
@@ -230,9 +230,10 @@
 * http://andrewneo.github.io/faextender – скрипт для добавления новых функций на FA, таких как сохранение оригналов картинок и открытие всех файлов галереи в отдельных вкладках (чем может запросто отправить браузер в нокаут). Есть версия для [Хрома](http://andrewneo.github.io/faextender-chrome).  Функционалом вышеуказанных юзерскриптов перекрывается чуть менее чем полностью.
 * http://lulzcatalog.cu.cc/lulzplus ([зеркало](http://pastebin.com/Y5abM2jR))– скрипты для улучшения юзабилити [Lulz.NET](https://lulz.net). Проект заброшен.
 * Мастхэв-троица святой скрипоты для Твиттера:
- * [Twitter Show Hidden Content](https://raw.githubusercontent.com/Ede123/userscripts/) – вытаскивает картинки и видео из-под спойлеров, предупреждающих о возможных непортебствах.
+ * [Twitter Show Hidden Content](https://github.com/Ede123/userscripts/) – вытаскивает картинки и видео из-под спойлеров, предупреждающих о возможных непортебствах.
  * [Twitter Image Maximizer](https://openuserjs.org/scripts/aycabta/Twitter_Image_Maximizer) – разворачивает наборы-мозаики превьюшек в ленте твитов до обычных картинок.
- * [:orig Promoter](https://greasyfork.org/ru/scripts/9510), [Twitter image URL replacement](https://greasyfork.org/ru/scripts/13590) – открывают картинки в оригинальном максимально возможном разрешении, а не в пережатом и оптимизированном для мобильных устройств виде. Это можно сделать вручную, дописав в конце URL "*:orig*".
+ * [Twitter image URL replacement](https://greasyfork.org/ru/scripts/13590), [:orig Promoter](https://greasyfork.org/ru/scripts/9510) – открывают картинки в оригинальном максимально возможном разрешении, а не в пережатом и оптимизированном для мобильных устройств виде. Рекомендуется использовать оба, т.к. по отдельности порой на некторых пикчах тупят.
+  * Полноразмерную картинку на твиттере можно получитить из любой другой, дописав в конце URL *:orig*.
 
 #####Аддоны для лисы и хрома#####
 * https://addons.mozilla.org/en-US/firefox/addon/furaffinity-download-addon/ –
