@@ -233,7 +233,7 @@
  * [Twitter Show Hidden Content](https://github.com/Ede123/userscripts/) – вытаскивает картинки и видео из-под спойлеров, предупреждающих о возможных непортебствах.
  * [Twitter Image Maximizer](https://openuserjs.org/scripts/aycabta/Twitter_Image_Maximizer) – разворачивает наборы-мозаики превьюшек в ленте твитов до обычных картинок.
  * [Twitter image URL replacement](https://greasyfork.org/ru/scripts/13590), [:orig Promoter](https://greasyfork.org/ru/scripts/9510) – открывают картинки в оригинальном максимально возможном разрешении, а не в пережатом и оптимизированном для мобильных устройств виде. Рекомендуется использовать оба, т.к. по отдельности порой на некторых пикчах тупят.
-  * Полноразмерную картинку на твиттере можно получитить из любой другой, дописав в конце URL *:orig*.
+   * Полноразмерную картинку на твиттере можно получитить из любой другой, дописав в конце URL *:orig*.
 
 #####Аддоны для лисы и хрома#####
 * https://addons.mozilla.org/en-US/firefox/addon/furaffinity-download-addon/ –
