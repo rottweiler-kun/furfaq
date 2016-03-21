@@ -272,11 +272,13 @@
    * Полноразмерную картинку на твиттере можно получитить из любой другой, дописав в конце URL *:orig*.
 
 #####Аддоны для лисы и хрома#####
-* https://addons.mozilla.org/en-US/firefox/addon/furaffinity-download-addon/ –
- * https://chrome.google.com/webstore/detail/furaffinity-downloader/nmcffcaebiikdmiklndccpkagmllckkh/ –
-* https://addons.mozilla.org/en-US/firefox/addon/furaffinity-extender/ –
-* https://addons.mozilla.org/en-US/firefox/addon/weasyl-enhancer/ –
- * https://chrome.google.com/webstore/detail/weasyl-enhancer/cebpdikfnkboikhaeoeniojhhkondccl –
+
+В большинстве своём малофункциональны и редко остаются работоспособными после очередной смены интерфейса, но попробовать можно:
+
+* **~~FurAffinity Extender~~ [FF](https://addons.mozilla.org/en-US/firefox/addon/furaffinity-extender/)** – граббер, устарел.
+* **~~FurAffinity Download extension~~ [FF](https://addons.mozilla.org/en-US/firefox/addon/furaffinity-download-addon/)** – граббер, устарел.
+* **~~FurAffinity Downloader~~ [Chrome](https://chrome.google.com/webstore/detail/furaffinity-downloader/nmcffcaebiikdmiklndccpkagmllckkh/)** – граббер, с февраля 2016 года практически неработоспособен.
+* **Weasyl Enhancer [FF](https://addons.mozilla.org/en-US/firefox/addon/weasyl-enhancer/)  [Chrome](https://chrome.google.com/webstore/detail/weasyl-enhancer/cebpdikfnkboikhaeoeniojhhkondccl)** – всплывающие превьюшки а-ля SoFurry, мелкие фиксы и твики интерфейса.
 
 #####Грабберы#####
 * [NekoPaw](https://code.google.com/p/nekopaw) – няшная котолапка, граббер картинок с галерей, артдампов и имиджборд.
