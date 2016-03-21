@@ -170,6 +170,7 @@
 >6. FUKKEN SAVED!
 
 **tl;dr**: Хочется найти все творения **somefurryartist**? Открываем [страницу поиска] (https://www.furaffinity.net/search/) и вписываем в строку поиска: _(**somefurryartist** | icon**somefurryartist** | **somefurryartist**icon | link**somefurryartist**)_. Если интересуют только те арты, которых нет у него в галерее (комишшны, гифты), то дописываем в конец ещё _-(@lower **somefurryartist**)_. Не забываем указывать режим сортировки (*Sort by*: **Date**, *in the*: **Descending order**/**Ascending order**), не гнушаемся чтением справки с примерами на той же самой странице поиска, шлём лучи поноса Dragoneer-у за лимит в 2000 результатов поисковой выдачи.
+Пример: *[(zaush | iconzaush | zaushicon | linkzaush) -@lower zaush](https://www.furaffinity.net/search/%28zaush%20%7C%20iconzaush%20%7C%20zaushicon%20%7C%20linkzaush%29%20-@lower%20zaush?&order-by=date&order-direction=desc&type-art=0&type-flash=0&type-photo=0&type-music=0&type-poetry=0&type-story=0&mode=extended)* (помимо искомого, находится куча левой поебени).
 
 ###SoFurry###
 Поиск на SF осуществляется по тегам, коих два вида: официальные (определённый стандартный перечень, описывающий кто кого куда и как) и неофициальные (всякая ерунда, которую добавляет автор). Со временем неофициальные теги переводят в статус официальных - например, если появляется много правила 34 [по очередной франшизе](https://www.sofurry.com/browse/search?search=Zootopia).
