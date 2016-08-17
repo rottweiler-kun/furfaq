@@ -309,7 +309,7 @@
  * [**NSFW** (официальный сайт)](http://beastarman.info/android/app/e621Mobile/latest.apk) – версия без цензуры.
 * [SoFurry App beta](https://www.sofurry.com/static/app/android/app.apk) (Android) – официальная бета-версия клиента для SoFurry. ~~[Google Play](https://play.google.com/store/apps/details?id=com.sofurry)~~  
 
-#5. Стафф# 
+#5. Стафф#
 
 Если у анона вдруг завалялась лишняя пара ~~тысяч~~ ~~сотен~~ ~~десятков~~ денежных единиц в иностранной валюте и они жгут ему карман, услужливое пушистое сообщество всегда предложит подходящий вариант их потратить.
 
