@@ -388,4 +388,6 @@
 
 * RACK, R2CK
 * Sexy Mad Science ([HTML5](http://sms.furry.science))
+* Kemo Coliseum
+* Night Attack Beast Warrior
 * Corruption of Champions
