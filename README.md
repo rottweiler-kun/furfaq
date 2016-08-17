@@ -333,14 +333,59 @@
 #6. NO GAEMZ#
 
 
-##6.1. Исторический музей ##
+##6.1. Ъ-фурёвый игорь ##
+
+* Inherit the Earth: Quest for Orb
+* Conker's Bad Fur Day
+
+##6.2. Моды и дополнения##
 
 
-##6.2. Моды и дополнения к играм##
+##6.3. VN##
+
+### Общая информация ###
+
+* [Kemono Visual Novels] (http://mgchan.org/kvn/)
+* [Visual Novels Directory – Furry] (https://vndb.org/g752)
+
+### Отдельные представители ###
+
+#### Morenatsu ####
+* [DL](https://voat.co/v/Morenatsu/comments/190128)
+* http://morenatsu.tewi.tk/
+* ~~https://u18chan.com/gfur/topic/1119624~~
+
+#### BlackGate ####
+* [DL](https://www.patreon.com/blackgategame)
+* https://twitter.com/blackgate_vn
+* ~~https://u18chan.com/gfur/topic/1355645~~
 
 
-##6.3. VN-ки##
+#### Repeat ####
+* [DL](https://www.patreon.com/shirokoi?ty=h)
+* ~~https://u18chan.com/gfur/topic/1411540~~
+
+#### Echo ####
+* [DL](https://www.patreon.com/EchoGame)
+* ~~https://u18chan.com/gfur/topic/1389196~~
+
+#### Lagoon Lounge ####
+* [Lagoon Lounge 1](http://www.mediafire.com/download/hq2cal6kzgr7fdg/ll.zip)
+* [Lagoon Lounge 2](http://www.mediafire.com/download/cxef8w6qtm1dd6j/ll2.rar)
+* ~~https://u18chan.com/gc/topic/1224014~~
+
+#### Four Letter Word ####
+* [Комикс](https://www.furaffinity.net/view/12463117)
+* [DL](https://www.patreon.com/Kho)
+* [DL](https://www.furaffinity.net/view/19062705/)
+
+#### Laika Dosha ####
+* http://www.laikadosha.com/
+* [DL](https://www.patreon.com/LaikaDosha)
 
 
 ##6.4. Онлайн- и оффлайн-дрочильни##
 
+* RACK, R2CK
+* Sexy Mad Science ([HTML5](http://sms.furry.science))
+* Corruption of Champions
