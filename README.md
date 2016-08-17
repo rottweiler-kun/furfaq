@@ -323,6 +323,15 @@
 
 ##5.3. Анонимно поняшиться##
 
+> ___Anon says___:
+>Собрал тут ссылок, которые могут быть полезны желающим приобрести фурсьют.
+>* [Список профи мейкеров](https://docs.google.com/spreadsheets/d/1Up_uD5CWzD8FhZG6c-F7xUglB0DMmr7yCEcz9-lQ59U/edit#gid=0). В этом листе только те, кто имеет не менее 10 выполненных работ.
+>* [Весьма старый список, но тоже может быть полезен](http://fursuitswag.tumblr.com/post/80068980806/fursuit-maker-list).
+>* [Еще один лист](https://forums.furaffinity.net/threads/list-of-fursuit-makers.1373068/). Здесь преимущественно мейкеры из США.
+>* [Список мейкеров из России и стран СНГ](http://fursuit.ru/i-want-fursuit/fursuit-makers-list). Сам по себе [сайт](https://fursuit.ru) так же содержит много ответов на простые вопросы
+>* [Довольно большой список с тегами и фотками работ](http://makersdatabase.tumblr.com/).
+>* [Книга жалоб и предложений](http://www.furaffinity.net/user/fursuitcritique/), [отзывы о фурсьютах и мейкерах](http://fursuitreview.com/).
+>* [Группа самоделкиных ВК](https://vk.com/moonclanfur)
 
 
 ##5.4. Подёргать анус##
