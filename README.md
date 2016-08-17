@@ -313,13 +313,18 @@
 
 Если у анона вдруг завалялась лишняя пара ~~тысяч~~ ~~сотен~~ ~~десятков~~ денежных единиц в иностранной валюте и они жгут ему карман, услужливое пушистое сообщество всегда предложит подходящий вариант их потратить.
 
-##5.1. Полюбоваться собой##
+##5.1. Заказать портрет##
 
 
 
-##5.2. Пофапать на чужой труд##
+##5.2. Пофапать на буковки и картинки##
 
-
+* [Rabbit Valley](https://www.rabbitvalley.com/)
+* [SofaWolf Press](https://www.sofawolf.com/shop)
+* [Furplanet](https://furplanet.com/shop)
+* [BlackPaw](https://www.blackpaw.de)
+* [Fusselschwarm](https://www.fusselschwarm.net/)
+ * [Maennerschwarm](http://www.maennerschwarm.de/Laden/htdocs/index.php?option=com_content&view=article&id=484&Itemid=108)
 
 ##5.3. Анонимно поняшиться##
 
