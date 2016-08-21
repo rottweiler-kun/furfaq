@@ -283,17 +283,6 @@
  * [Twitter image URL replacement](https://greasyfork.org/ru/scripts/13590), [:orig Promoter](https://greasyfork.org/ru/scripts/9510) – открывают картинки в оригинальном максимально возможном разрешении, а не в пережатом и оптимизированном для мобильных устройств виде. Рекомендуется использовать оба, т.к. по отдельности порой на некторых пикчах тупят.
    * Полноразмерную картинку на твиттере можно получитить из любой другой, дописав в конце URL *:orig*.
 
-##4.3. Получение доступа к yiff.party##
-
-При переходе по прямой ссылке на [yiff.party](https://yiff.party) показывают ~~хуй~~ заглушку, дабы отвадить копирастов, гуглботов и прочих мимокрокодилов. Для получния доступа к контенту следует выполнить небольшой квест: зайти фурёвую доску окточана, открыть официальный тред yiff.party и щёлкнуть по специальной ссылке, дабы перейти на сайт с определённым реферрером.
-Проблема в том, что официальный тред был бесславно просран и улетел в бамплимит, а админ, настроив автоматический граббер, грозиться стать мухожуком и не торопится фиксить проверку рефера. 
-Однако при наличии прямых лап и пары дополненй до браузера добраться до вожделенного архива всё же можно благодаря [гайду в неофициальном треде](https://8ch.net/furry/res/580157.html#q600981).
-Также можно добавить нужный cookiee вручную - с помощью встроенных средств (*Dragonfly* в **Opera 12**) или расширений браузера (*[Cookies Manager+ или Advanced Cookie Manager](https://addons.mozilla.org/ru/firefox/tag/edit%20cookie)* для **FireFox**, *[Cookie Manager](https://chrome.google.com/webstore/detail/cookie-manager/kbnfbcpkiaganjpcanopcgeoehkleeck)* или *[EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)* для **Chrome**) - следующего содержания:
-* *Сервер:* **yiff.party**
-* *Имя:* **party**
-* *Значение:* **eyJfcGVybWFuZW50Ijp0cnVlLCJsb2dnZWRfaW4iOnRydWUsImxvZ2luX3N0YWdlIjp7IiBiIjoiWTI5dGNHeGxkR1U9In0sInVpZCI6Nn0.Cpr_kw.cy9c_rsETAUSj6d4KjAdgyxtYTs**
-* *Истекает:* установить срок подольше, на пару лет
-
 #####Аддоны для лисы и хрома#####
 
 В большинстве своём малофункциональны и редко остаются работоспособными после очередной смены интерфейса, но попробовать можно:
@@ -320,6 +309,17 @@
  * [**SFW** (Google Play)](https://play.google.com/store/apps/details?id=info.beastarman.e926) – показывает прон после смены в настройках адреса хоста на "https://e621.net";
  * [**NSFW** (официальный сайт)](http://beastarman.info/android/app/e621Mobile/latest.apk) – версия без цензуры.
 * [SoFurry App beta](https://www.sofurry.com/static/app/android/app.apk) (Android) – официальная бета-версия клиента для SoFurry. ~~[Google Play](https://play.google.com/store/apps/details?id=com.sofurry)~~  
+
+##4.3. Получение доступа к yiff.party##
+
+При переходе по прямой ссылке на [yiff.party](https://yiff.party) показывают ~~хуй~~ заглушку, дабы отвадить копирастов, гуглботов и прочих мимокрокодилов. Для получния доступа к контенту следует выполнить небольшой квест: зайти фурёвую доску окточана, открыть официальный тред yiff.party и щёлкнуть по специальной ссылке, дабы перейти на сайт с определённым реферрером.
+Проблема в том, что официальный тред был бесславно просран и улетел в бамплимит, а админ, настроив автоматический граббер, грозиться стать мухожуком и не торопится фиксить проверку рефера. 
+Однако при наличии прямых лап и пары дополненй до браузера добраться до вожделенного архива всё же можно благодаря [гайду в неофициальном треде](https://8ch.net/furry/res/580157.html#q600981).
+Также можно добавить нужный cookiee вручную - с помощью встроенных средств (*Dragonfly* в **Opera 12**) или расширений браузера (*[Cookies Manager+ или Advanced Cookie Manager](https://addons.mozilla.org/ru/firefox/tag/edit%20cookie)* для **FireFox**, *[Cookie Manager](https://chrome.google.com/webstore/detail/cookie-manager/kbnfbcpkiaganjpcanopcgeoehkleeck)* или *[EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)* для **Chrome**) - следующего содержания:
+* *Сервер:* **yiff.party**
+* *Имя:* **party**
+* *Значение:* **eyJfcGVybWFuZW50Ijp0cnVlLCJsb2dnZWRfaW4iOnRydWUsImxvZ2luX3N0YWdlIjp7IiBiIjoiWTI5dGNHeGxkR1U9In0sInVpZCI6Nn0.Cpr_kw.cy9c_rsETAUSj6d4KjAdgyxtYTs**
+* *Истекает:* установить срок подольше, на пару лет
 
 #5. Стафф#
 
