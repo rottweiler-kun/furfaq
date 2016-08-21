@@ -313,9 +313,12 @@
 ##4.3. Получение доступа к yiff.party##
 
 При переходе по прямой ссылке на [yiff.party](https://yiff.party) показывают ~~хуй~~ заглушку, дабы отвадить копирастов, гуглботов и прочих мимокрокодилов. Для получния доступа к контенту следует выполнить небольшой квест: зайти фурёвую доску окточана, открыть официальный тред yiff.party и щёлкнуть по специальной ссылке, дабы перейти на сайт с определённым реферрером.
+
 Проблема в том, что официальный тред был бесславно просран и улетел в бамплимит, а админ, настроив автоматический граббер, грозиться стать мухожуком и не торопится фиксить проверку рефера. 
-Однако при наличии прямых лап и пары дополненй до браузера добраться до вожделенного архива всё же можно благодаря [гайду в неофициальном треде](https://8ch.net/furry/res/580157.html#q600981).
-Также можно добавить нужный cookiee вручную - с помощью встроенных средств (*Dragonfly* в **Opera 12**) или расширений браузера (*[Cookies Manager+ или Advanced Cookie Manager](https://addons.mozilla.org/ru/firefox/tag/edit%20cookie)* для **FireFox**, *[Cookie Manager](https://chrome.google.com/webstore/detail/cookie-manager/kbnfbcpkiaganjpcanopcgeoehkleeck)* или *[EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)* для **Chrome**) - следующего содержания:
+
+Однако при наличии прямых лап до вожделенного архива всё же можно благодаря [гайду в неофициальном треде](https://8ch.net/furry/res/580157.html#q600981). 
+
+Также можно вручную добавить нужный cookiee - с помощью встроенных средств (*Dragonfly* в **Opera 12**) или расширений браузера (*[Cookies Manager+ или Advanced Cookie Manager](https://addons.mozilla.org/ru/firefox/tag/edit%20cookie)* для **FireFox**, *[Cookie Manager](https://chrome.google.com/webstore/detail/cookie-manager/kbnfbcpkiaganjpcanopcgeoehkleeck)* или *[EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)* для **Chrome**) - следующего содержания:
 * *Сервер:* **yiff.party**
 * *Имя:* **party**
 * *Значение:* **eyJfcGVybWFuZW50Ijp0cnVlLCJsb2dnZWRfaW4iOnRydWUsImxvZ2luX3N0YWdlIjp7IiBiIjoiWTI5dGNHeGxkR1U9In0sInVpZCI6Nn0.Cpr_kw.cy9c_rsETAUSj6d4KjAdgyxtYTs**
