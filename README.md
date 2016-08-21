@@ -439,7 +439,7 @@
 
 ##6.4. Онлайн- и оффлайн-дрочильни##
 
-* RACK, R2CK
+* RACK, R2CK ([HTML5 Demo](http://furry.science))
 * Sexy Mad Science ([HTML5](http://sms.furry.science))
 * Kemo Coliseum
 * Night Attack Beast Warrior
