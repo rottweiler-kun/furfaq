@@ -269,7 +269,7 @@
 
 > ___Anon says___:
 
-> Юзеры с reddit-а подготовили и активно обновляют архиполезную [сравнительную таблицу по всем основным VPN-провайдерам](https://docs.google.com/spreadsheets/d/1FJTvWT5RHFSYuEoFVpAeQjuQPU4BVzbOigT0xebxTOw). 
+> [Юзеры с reddit-а](https://redd.it/4iho8e) подготовили и активно обновляют архиполезную [сравнительную таблицу по всем основным VPN-провайдерам](https://thatoneprivacysite.net/). 
 
 
 ##4.2. Просто полезные тулзы##
