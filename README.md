@@ -433,3 +433,10 @@
 * Kemo Coliseum
 * Night Attack Beast Warrior
 * Corruption of Champions
+* My Very Own Lith
+* Fall of Eden
+* TiTS
+* Ball Brawl (осторожно, кастрация)
+* Flexible Survival
+* Redscale's Adventure
+* Yiffalicious
