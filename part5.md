@@ -72,6 +72,7 @@
 
 В большинстве своём малофункциональны и редко остаются работоспособными после очередного редизайна сайтов, но попробовать можно:
 
+* **RaccoonyWebEx [FF/Chrome](https://github.com/Simon-Tesla/RaccoonyWebEx)** – расширение для туевой хучи фурёвых (и не только) сайтов, добавляющее хоткеи, массовое скачивание и прочий функционал. Написан под движки современных браузеров и регулярно обновляется.
 * **~~FurAffinity Extender~~ [FF](https://addons.mozilla.org/en-US/firefox/addon/furaffinity-extender/)** – граббер, устарел.
 * **~~FurAffinity Download extension~~ [FF](https://addons.mozilla.org/en-US/firefox/addon/furaffinity-download-addon/)** – граббер, устарел.
 * **~~FurAffinity Downloader~~ [Chrome](https://chrome.google.com/webstore/detail/furaffinity-downloader/nmcffcaebiikdmiklndccpkagmllckkh/)** – граббер, с февраля 2016 года практически неработоспособен.
