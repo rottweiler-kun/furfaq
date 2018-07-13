@@ -35,6 +35,7 @@
 * **Делать архивы тредов**.
   * С помощью менеджеров закачек или расширений для браузера (за подробностями – в [/s](https://2ch.hk/s)) скачивать фуллсайз-картинки, собирать их в ZIP/RAR/7Z-архивы и заливать их на файлообменники с большим сроком хранения ([MEGA](https://mega.co.nz), [MediaFire](https://mediafire.com)). Не страдающие паранойей ~~и просто долбоёбы~~ могут также использовать [GoogleDrive](https://www.google.com/drive), [Яндекс.Диск](https://disk.yandex.com), [Облако Mail.RU](https://cloud.mail.ru), [DropBox](https://dropbox.com) или [OneDrive](https://onedrive.live.com).
   * Внутритредовый срач можно выкладывать плайнтекстом на [PasteBin](http://pastebin.com) или воспользоваться архиватором для веб-страниц - [archive.is](https://archive.is), но лучше всего это делать с помощью специализированного архиватора тредов имиджборд - [Архивача](https://arhivach.cfg/?tags=1331).
+  * Используй ~~силу, Люк~~ функционал мобильных приложений для двачевания капчи (таких как [Dashchan](https://github.com/Mishiranu/Dashchan)).
 
 ---
 
