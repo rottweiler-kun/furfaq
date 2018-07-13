@@ -1,0 +1,8 @@
+# FurFAQ: ~~FAQ~~ Гайд для раздела /fur на Дваче
+
+![Welcome](img/banner_small.jpg)
+---
+
+[Общий FAQ](part0.md) | [Вводный курс](part1.md) | [Терминология](part2.md) | [Сайты](part3.md) | [Поиск контента](part4.md) | [Технические вопросы](part5.md) | [Стафф и мерч](part6.md) | [GAEMZ](part7.md)
+
+---
