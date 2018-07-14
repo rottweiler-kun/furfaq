@@ -74,9 +74,10 @@
 
 * **RaccoonyWebEx [FF/Chrome](https://github.com/Simon-Tesla/RaccoonyWebEx)** – расширение для туевой хучи фурёвых (и не только) сайтов, добавляющее хоткеи, массовое скачивание и прочий функционал. Написан под движки современных браузеров и регулярно обновляется.
 * **~~FurAffinity Extender~~ [FF](https://addons.mozilla.org/en-US/firefox/addon/furaffinity-extender/)** – граббер, устарел.
-* **~~FurAffinity Download extension~~ [FF](https://addons.mozilla.org/en-US/firefox/addon/furaffinity-download-addon/)** – граббер, устарел.
+* **~~FurAffinity Download extension~~ [FF](https://addons.mozilla.org/firefox/addon/furaffinity-download-addon/)** – граббер, устарел.
 * **~~FurAffinity Downloader~~ [Chrome](https://chrome.google.com/webstore/detail/furaffinity-downloader/nmcffcaebiikdmiklndccpkagmllckkh/)** – граббер, с февраля 2016 года практически неработоспособен.
-* **Weasyl Enhancer [FF](https://addons.mozilla.org/en-US/firefox/addon/weasyl-enhancer/)  [Chrome](https://chrome.google.com/webstore/detail/weasyl-enhancer/cebpdikfnkboikhaeoeniojhhkondccl)** – всплывающие превьюшки а-ля SoFurry, мелкие фиксы и твики интерфейса.
+* **Weasyl Enhancer [FF](https://addons.mozilla.org/firefox/addon/weasyl-enhancer/)  [Chrome](https://chrome.google.com/webstore/detail/weasyl-enhancer/cebpdikfnkboikhaeoeniojhhkondccl)** – всплывающие превьюшки а-ля SoFurry, мелкие фиксы и твики интерфейса.
+* **Ank Pixiv Tool [FF](https://addons.mozilla.org/firefox/addon/ank-pixiv-tool/)** – расширение для сохранения картинок с Pixiv  в максимальном (исходном) разрешении, с возможностью автоматической замены имени файла по шаблону.
 
 #### Грабберы
 * [NekoPaw](https://github.com/catgirlfighter/nekopaw) – няшная котолапка, граббер картинок с галерей, артдампов и имиджборд.
@@ -96,7 +97,7 @@
 * На форуме e621 есть целая [ветка с поделками разной степени работоспособности](https://e621.net/forum?category=9), из них  наиболее продвинутый и активно пилящийся клиент **E621 mobile** (Android) от *beastarman*:
   * [**SFW** (Google Play)](https://play.google.com/store/apps/details?id=info.beastarman.e926) – показывает прон после смены в настройках адреса хоста на "https://e621.net";
   * [**NSFW** (официальный сайт)](http://beastarman.info/android/app/e621Mobile/latest.apk) – версия без цензуры.
-* [SoFurry App beta](https://www.sofurry.com/static/app/android/app.apk) (Android) – официальная бета-версия клиента для SoFurry. ~~[Google Play](https://play.google.com/store/apps/details?id=com.sofurry)~~  
+* [SoFurry App beta](https://www.sofurry.com/static/app/android/app.apk) (Android) – официальная бета-версия клиента для SoFurry. ~~[Google Play](https://play.google.com/store/apps/details?id=com.sofurry)~~  [Зеркало](http://rga.la/sfapp)
 
 ---
 
