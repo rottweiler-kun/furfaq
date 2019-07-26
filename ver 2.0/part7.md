@@ -1,12 +1,12 @@
 # 7. GAEMZ
 
+*Under construction*
+
 ---
 
 [Общий FAQ](part0.md) | [Вводный курс](part1.md) | [Терминология](part2.md) | [Сайты](part3.md) | [Поиск контента](part4.md) | [Технические вопросы](part5.md) | [Стафф и мерч](part6.md) | **GAEMZ**
 
 ---
-
-*Under construction*
 
 ## 7.1. Ъ-фурёвый игорь 
 
