@@ -45,7 +45,7 @@
   * [Аналогичный сервис для Укрнета](https://zaborona.help/).
 * **[GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI)** – программа для обхода _некоторых_ видов блокировок по DPI путём модификации заголовка. Для ленивых есть возможность установить её как службу Windows. 
   * Определить тип используемого DPI можно утилитой [BlockCheck](https://github.com/ValdikSS/blockcheck) от того же разработчика.
-* **[DNS-over-HTTPS](https://www.comss.ru/page.php?id=4950)** – описание и инструкции по настройке [поддержки ротокола](https://ru.wikipedia.org/wiki/DNS_%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85_HTTPS) в _FireFox_. В теории усложняет анализ DPI и блокировку DNS-запросов к сайтам. [Алсо: DoT](https://ru.wikipedia.org/wiki/DNS_%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85_TLS).
+* **[DNS-over-HTTPS](https://www.comss.ru/page.php?id=4950)** – описание и инструкции по настройке [поддержки ротокола](https://ru.wikipedia.org/wiki/DNS_%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85_HTTPS) в _FireFox_. В теории усложняет анализ DPI и блокировку DNS-запросов к сайтам. Алсо: [DoT](https://ru.wikipedia.org/wiki/DNS_%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85_TLS).
 
 #### Платные VPN/VDS
 
@@ -63,7 +63,7 @@
 
 * **[PrivacyTools.ru](https://www.privacytools.ru/)** – общие рекомендации для тех, кто хочет ~~более лучше одеваться~~~ повысить грамотность в области информационной безопасности. Представяет интерес общие рекомендации по выбору VPN, правильной его настройке и использованию и прочим нюансам.
   * **[PrivacyTools.io](https://www.privacytools.io/)** – основной англоязычный сайт, чуть более оперативно обновляющийся
-* [Проект SAFE](https://safe.roskomsvoboda.org/) – похожий справочник от РосКомСвободы с общими рекомендациями и подробными инструкциями (с картинками!) по настройке и юзанию софта.
+* **[Проект SAFE](https://safe.roskomsvoboda.org/)** – похожий справочник от РосКомСвободы с общими рекомендациями и подробными инструкциями (с картинками!) по настройке и юзанию софта.
 
 ## Просто полезные тулзы
 
@@ -107,7 +107,7 @@
   * iOS: **[Kochan](https://testflight.apple.com/join/s7ILWqYT)**.
   * Windows 10: **[2ch4you]( https://www.microsoft.com/ru-ru/p/2ch4you/9nzft4ns8t79)** или **[2ch4ever]( https://www.microsoft.com/ru-ru/p/2ch4ever/9nmfh0wm5d8m)**.
 * На форуме e621 есть целая [ветка с поделками разной степени работоспособности](https://e621.net/forum?category=9), из них наиболее функциональный на данный момент **[m621](https://e621.net/forum/show/257629)** от *ErrorFerret*.
-* **[SoFurry App beta ](https://www.sofurry.com/static/app/android/app.apk)** – официальная бета-версия Android-клиента для SoFurry. [Зеркало](http://rga.la/sfapp).
+* **[SoFurry App beta ](https://www.sofurry.com/static/app/android/app.apk) ([зеркало](http://rga.la/sfapp))** – официальная бета-версия Android-клиента для SoFurry.
 
 ---
 
