@@ -45,7 +45,7 @@
   * [Аналогичный сервис для Укрнета](https://zaborona.help/).
 * **[GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI)** – программа для обхода _некоторых_ видов блокировок по DPI путём модификации заголовка. Для ленивых есть возможность установить её как службу Windows. 
   * Определить тип используемого DPI можно утилитой [BlockCheck](https://github.com/ValdikSS/blockcheck) от того же разработчика.
-* [Настройка DSN-over-HTTPS в FireFox](https://www.comss.ru/page.php?id=4950) – описание и инструкции. В теории усложняет анализ DPI и блокировку DNS-запросов к сайтам.
+* **[DNS-over-HTTPS](https://www.comss.ru/page.php?id=4950)** – описание и инструкции по настройке [поддержки ротокола](https://ru.wikipedia.org/wiki/DNS_%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85_HTTPS) в _FireFox_. В теории усложняет анализ DPI и блокировку DNS-запросов к сайтам. [Алсо: DoT](https://ru.wikipedia.org/wiki/DNS_%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85_TLS).
 
 #### Платные VPN/VDS
 
