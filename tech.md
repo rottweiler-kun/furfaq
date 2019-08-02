@@ -115,6 +115,14 @@
 * **[SoFurry App beta ](https://www.sofurry.com/static/app/android/app.apk) ([зеркало](http://rga.la/sfapp))** – официальная бета-версия Android-клиента для SoFurry.
 * **[FlexBooru](https://github.com/flexbooru/flexbooru)** – буровой клиент под Android (**[Google Play](https://play.google.com/store/apps/details?id=onlymash.flexbooru.play)**).
 
+#### Для творцов
+
+Разнообразные программы и сервисы, которые могут пригодиться тем, кто регулярно заливает свой ~~и чужой~~ контент на сайты. 
+
+* **[PostyBirb](http://www.postybirb.com) [GitHub](https://github.com/mvdicarlo/postybirb/tree/PB-Next)** – программа для одновременного заливания работы сразу на несколько сайтов (пушистые и нетематические галереи, социалочки, буры, мессенджеры, монетизираторы) с автоматической подстройкой под каждый из них (теги, описания, форматы и пр.). Умеет работать по расписанию, писать журналы и ещё много чего. Есть клиенты под разные платформы.
+  * Написан на JavaScript и работает под Electron, поэтому не отличается шустротой. `пруфы?`
+* **[Furry Art Multiuploader](https://beta.multiupload.us)** – веб-сервис, выполняющий аналогичные функции. Список поддерживаемых сайтов скромнее, зато функционал чуть побогаче. 
+
 ---
 
 [Общий FAQ](faq.md) | [Вводный курс](intro.md) | [Терминология](gloss.md) | [Сайты](sites.md) | [Поиск контента](content.md) | **Технические вопросы** | [Стафф и мерч](stuff.md) | [GAEMZ](gaemz.md) | [Медиа](media.md) 
