@@ -75,7 +75,8 @@
   * **[View Full Twitter Image](https://greasyfork.org/ru/scripts/25169-view-full-twitter-image)** – открывает оригинальные (в максимально возможном разрешении) картинки и позволяет сохранять их с нормальным именем файла.
     * Полноразмерную картинку можно получить из любой другой, дописав в конце URL *:orig*.
   * **[Twitter Uncropped thumbnails](https://greasyfork.org/ru/scripts/376120-twitter-clickable-links-to-images-and-show-uncropped-thumbnails)** – выводит в ленте необрезанные превьюшки.
-* **[Image Glutton]( https://greasyfork.org/ru/scripts/4713-eza-s-image-glutton)** – переход сразу к полноразмерной картинке, минуя страницу с превьюшкой, комментариями и прочим (работает для множества разных галерей и бур, включая фурёвые).
+* **[Image Glutton](https://greasyfork.org/ru/scripts/4713-eza-s-image-glutton)** – переход сразу к полноразмерной картинке, минуя страницу с превьюшкой, комментариями и прочим (работает для множества разных галерей и бур, включая фурёвые).
+* **[eSix Extend](https://xch3l-a1c67.firebaseapp.com/userscripts/eSix_Extend.user.js)** – дополнительные твики интерфейса e621.net.
 
 #### Аддоны для браузеров
 
