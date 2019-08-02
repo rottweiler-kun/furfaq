@@ -35,12 +35,12 @@
 > * [VPN-расширение Hola продает пользовательский трафик и содержит уязвимости удаленного выполнения кода](https://habr.com/post/259177/)
 > * [Разработчиков Hola VPN взломали](https://xakep.ru/2018/07/11/hola-vpn-vs-mew/)
 
-* **[TOR Browser]( https://www.torproject.org/ru/download/)** – браузер с интегрированным TOR-ом. Для пущей анонимности и безопасности по умолчанию отключены скрипты, Flash и прочие привычные вещи, так что многие сайты перестают нормально работать.
+* **[TOR Browser](https://www.torproject.org/ru/download/)** – браузер с интегрированным TOR-ом. Для пущей анонимности и безопасности по умолчанию отключены скрипты, Flash и прочие привычные вещи, так что многие сайты перестают нормально работать.
 
 * **[АнтиЗапрет.ProstoVPN](https://antizapret.prostovpn.org)** – ~~дешёвый и сердитый~~ бесплатный способ заворачивать траффик к заблокированным ресурсам ~~вместе с паролями и номерами кредиток~~ на внешний прокси прописыванием настроек в браузере.
-  * [Аналогичный сервис для Укрнета](https://zaborona.help/).
+  * Аналогичный сервис для **[Укрнета](https://zaborona.help/)**.
 * **[GoodByeDPI](https://github.com/ValdikSS/GoodbyeDPI)** – программа для обхода _некоторых_ видов блокировок по DPI путём модификации заголовка. Для ленивых есть возможность установить её как службу Windows. 
-  * Определить тип используемого DPI можно утилитой [BlockCheck](https://github.com/ValdikSS/blockcheck) от того же разработчика.
+  * Определить тип используемого DPI можно утилитой **[BlockCheck](https://github.com/ValdikSS/blockcheck)** от того же разработчика.
 * **[DNS-over-HTTPS](https://www.comss.ru/page.php?id=4950)** – описание и инструкции по настройке [поддержки ротокола](https://ru.wikipedia.org/wiki/DNS_%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85_HTTPS) в _FireFox_. В теории усложняет анализ DPI и блокировку DNS-запросов к сайтам. Алсо: [DoT](https://ru.wikipedia.org/wiki/DNS_%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85_TLS).
 
 #### Платные VPN/VDS
@@ -65,18 +65,18 @@
 
 Изменяют сайты, маниупулируя отдельными элементами страницы (скрывая, перемещая или изменяя размеры отдельных элементов) или добавляя ранее отсутствующий функционал (группировка изображений, дополнительные кнопки навигации).
 Для работы обычно требуется установленное в браузере расширение – менеджер юзерскриптов, такой как **[TamperMonkey](https://www.tampermonkey.net)**, **[ViolentMonkey](https://violentmonkey.github.io)** или **[GreaseMonkey](https://www.greasespot.net)**. 
-Сами скрипты можно устанавливать из предложенных автором файлов, скачивать со специализированных сайтов (***[OpenUserJS](https://openuserjs.org)***, ***[GreasyFork](https://greasyfork.org)***/***[SleazyFork](https://sleazyfork.org)***, ***[Stylish](https://userstyles.org/categories/site)***) или писать самостоятельно.
+Сами скрипты можно устанавливать из предложенных автором файлов, скачивать со специализированных сайтов (*[OpenUserJS](https://openuserjs.org)*, *[GreasyFork](https://greasyfork.org)* / *[SleazyFork](https://sleazyfork.org)*, *[Stylish](https://userstyles.org/categories/site)*) или писать самостоятельно.
 
 * **[LulzScripts](https://pastebin.com/u/lulzScript)** – коллекция юзерскриптов для наиболее популярных галерей (FA, DA, IB). Самая полезная их функция - возможность конгломерации галерей (составление прямых ссылок на картинки для последующей закачки).
   * После кардинального редизайна или внесения изменений работу сайтов некоторые скрипты перестают работать, поэтому время от времени стоит вручную проверять changelog и обновлять скрипты.
-* **[LulzPlus](http://pastebin.com/Y5abM2jR)** – скрипт для улучшения юзабилити *[lulz.NET](https://lulz.net)*. Проект давно заброшен, но скрипт работает.
+* **[LulzPlus](http://pastebin.com/Y5abM2jR)** – скрипт для улучшения юзабилити *[lulz.net](https://lulz.net)*. Разработка заброшена много лет назад, но на ещё более древнем движке сайта скрипт до сих пор исправно работает .
 * После обновления интерфейса _**Twitter**_ большая часть ранее написанных для него скриптов корректно работать перестали, но тем не менее мастхэв-троицу святой скриптоты порекомендовать можно:
   * **[Twitter Show Hidden Content](https://github.com/Ede123/userscripts/)** – вытаскивает картинки и видео из-под спойлеров, предупреждающих о возможных непотребствах.
   * **[View Full Twitter Image](https://greasyfork.org/ru/scripts/25169-view-full-twitter-image)** – открывает оригинальные (в максимально возможном разрешении) картинки и позволяет сохранять их с нормальным именем файла.
     * Полноразмерную картинку можно получить из любой другой, дописав в конце URL *:orig*.
   * **[Twitter Uncropped thumbnails](https://greasyfork.org/ru/scripts/376120-twitter-clickable-links-to-images-and-show-uncropped-thumbnails)** – выводит в ленте необрезанные превьюшки.
 * **[Image Glutton](https://greasyfork.org/ru/scripts/4713-eza-s-image-glutton)** – переход сразу к полноразмерной картинке, минуя страницу с превьюшкой, комментариями и прочим (работает для множества разных галерей и бур, включая фурёвые).
-* **[eSix Extend](https://xch3l-a1c67.firebaseapp.com/userscripts/eSix_Extend.user.js)** – дополнительные твики интерфейса e621.net.
+* **[eSix Extend](https://xch3l-a1c67.firebaseapp.com/userscripts/eSix_Extend.user.js)** – дополнительные твики интерфейса **621.net*.
 
 #### Аддоны для браузеров
 
@@ -85,8 +85,8 @@
 * **RaccoonyWebEx [FF/Chrome](https://github.com/Simon-Tesla/RaccoonyWebEx)** – расширение для туевой хучи фурёвых (и не только) сайтов, добавляющее хоткеи, массовое скачивание и прочий функционал. Написан под движки современных браузеров и регулярно обновляется.
 * **FurAffiniy Extender [FF/Chrome](https://cheeplusplus.github.io/faextender-chrome)** – обогащает FA новыми функциями, такими как хоткеи, сохранение оригналов картинок и открытие всех файлов галереи в отдельных вкладках (чем может запросто отправить браузер в нокаут).
 * **FurAffinity Downloader [Chrome](https://chrome.google.com/webstore/detail/furaffinity-downloader/nmcffcaebiikdmiklndccpkagmllckkh/)** – примитивный граббер, поочерёдно открывающий каждую страницу и добавляющий изображения в zip-файл.
-* **Weasyl Enhancer [FF](https://addons.mozilla.org/firefox/addon/weasyl-enhancer/) [Chrome](https://chrome.google.com/webstore/detail/weasyl-enhancer/cebpdikfnkboikhaeoeniojhhkondccl)** – всплывающие превьюшки а-ля SoFurry, мелкие фиксы и твики интерфейса.
-* **Ank Pixiv Tool [FF](https://addons.mozilla.org/firefox/addon/ank-pixiv-tool/)** – сохранение картинок с Pixiv  в максимальном (исходном) разрешении, с возможностью автоматической замены имени файла по шаблону.
+* **Weasyl Enhancer [FF](https://addons.mozilla.org/firefox/addon/weasyl-enhancer/) [Chrome](https://chrome.google.com/webstore/detail/weasyl-enhancer/cebpdikfnkboikhaeoeniojhhkondccl)** – всплывающие превьюшки а-ля *SoFurry*, мелкие фиксы и твики интерфейса.
+* **Ank Pixiv Tool [FF](https://addons.mozilla.org/firefox/addon/ank-pixiv-tool/)** – сохранение картинок с *Pixiv* в максимальном (исходном) разрешении, с возможностью автоматической замены имени файла по шаблону.
 * **Mini Pixiv [FF](https://addons.mozilla.org/en-US/firefox/addon/mini-pixiv/)** – облегчённый интерфейс, убирающий лишние элементы и отключающий тяжеловесные скрипты.
 
 #### Грабберы
@@ -95,12 +95,12 @@
 
 * **[NekoPaw](https://github.com/catgirlfighter/nekopaw)** – няшная котолапка, граббер картинок с галерей, артдампов и имиджборд. Не обновляется.
 * **[imgbrd grabber](https://github.com/bionus/imgbrd-grabber)** – не такой няшный, но более серьёзный и функциональный граббер с кучей дополнительных возможностей.
-* **[YChan](https://github.com/mhetralla/YChan)** – многопоточный граббер с 8ch и 4chan. Не обновляется.
+* **[YChan](https://github.com/mhetralla/YChan)** – многопоточный граббер с *8ch* и *4chan*. Не обновляется.
 * **[TumblThree](https://github.com/TumblThreeApp/TumblThree)** – зело полезная утилита для скачивания tumblr-галерей и поддержания локальной копии в актуальном состоянии. ~~Активно развивается и обрастает свистелками и перделками фичами и интерфейсом.~~
 * **[Hydrus](http://hydrusnetwork.github.io/hydrus/)** – многофункциональный граббер и каталогизатор картинок с имиджборд и галерей. Умеет выкачивать по тегам, ~~майнить в ботнете~~ создавать и анонимно расшаривать собственные коллекции и ещё дохрена чего. Требует нехилых скиллов для первоначальной настройки. 
 * **[T621](http://hotsurface.de/iso/t621.rar)** – минималистичный граббер каритнок с глутамата на основании набора тегов.
 * **[pixiv downloader](https://github.com/Nandaka/PixivUtil2)** – граббер пикч с пиксива по списку тегов с кучей настроек. Написан на Python, требует определённого уровня нердизма на начальном этапе настройки. Активно и оперативно допиливается.
-* **[Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader-issues)** – однокнопочный граббер с Hitomi, в котором требуется только указать ссылку на галерею. Теоретически поддерживает скачивание и с других ресурсов, реализованное через плагины и скрипты.
+* **[Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader-issues)** – однокнопочный граббер с *Hitomi*, в котором требуется только указать ссылку на галерею. Теоретически поддерживает скачивание и с других ресурсов, реализованное через плагины и скрипты.
 * **[RipMe](https://github.com/RipMeApp/ripme)** – простой мультиплатформенный граббер галерей с различных фотохостингов и артархивов.
 
 #### Мобильные клиенты
@@ -112,14 +112,14 @@
   * iOS: **[Kochan](https://testflight.apple.com/join/s7ILWqYT)**.
   * Windows 10: **[2ch4you]( https://www.microsoft.com/ru-ru/p/2ch4you/9nzft4ns8t79)** или **[2ch4ever]( https://www.microsoft.com/ru-ru/p/2ch4ever/9nmfh0wm5d8m)**.
 * На форуме e621 есть целая [ветка с поделками разной степени работоспособности](https://e621.net/forum?category=9), из них наиболее функциональный на данный момент **[m621](https://e621.net/forum/show/257629)** от *ErrorFerret*.
-* **[SoFurry App beta ](https://www.sofurry.com/static/app/android/app.apk) ([зеркало](http://rga.la/sfapp))** – официальная бета-версия Android-клиента для SoFurry.
+* **[SoFurry App beta ](https://www.sofurry.com/static/app/android/app.apk) ([зеркало](http://rga.la/sfapp))** – официальная бета-версия Android-клиента для *SoFurry*.
 * **[FlexBooru](https://github.com/flexbooru/flexbooru)** – буровой клиент под Android (**[Google Play](https://play.google.com/store/apps/details?id=onlymash.flexbooru.play)**).
 
 #### Для творцов
 
 Разнообразные программы и сервисы, которые могут пригодиться тем, кто регулярно заливает свой ~~и чужой~~ контент на сайты. 
 
-* **[PostyBirb](http://www.postybirb.com) [GitHub](https://github.com/mvdicarlo/postybirb/tree/PB-Next)** – программа для одновременного заливания работы сразу на несколько сайтов (пушистые и нетематические галереи, социалочки, буры, мессенджеры, монетизираторы) с автоматической подстройкой под каждый из них (теги, описания, форматы и пр.). Умеет работать по расписанию, писать журналы и ещё много чего. Есть клиенты под разные платформы.
+* **[PostyBirb](http://www.postybirb.com) ([GitHub](https://github.com/mvdicarlo/postybirb/tree/PB-Next))** – программа для одновременного заливания работы сразу на несколько сайтов (пушистые и нетематические галереи, социалочки, буры, мессенджеры, монетизираторы) с автоматической подстройкой под каждый из них (теги, описания, форматы и пр.). Умеет работать по расписанию, писать журналы и ещё много чего. Есть клиенты под разные платформы.
   * Написан на JavaScript и работает под Electron, поэтому не отличается шустротой. `пруфы?`
 * **[Furry Art Multiuploader](https://beta.multiupload.us)** – веб-сервис, выполняющий аналогичные функции. Список поддерживаемых сайтов скромнее, зато функционал чуть побогаче. 
 
