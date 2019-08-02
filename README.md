@@ -2,7 +2,7 @@
 
 ---
 
-[Общий FAQ](ver%202.0/part0.md) | [Вводный курс](ver%202.0/part1.md) | [Терминология](ver%202.0/part2.md) | [Сайты](ver%202.0/part3.md) | [Поиск контента](ver%202.0/part4.md) | [Технические вопросы](ver%202.0/part5.md) | [Стафф и мерч](ver%202.0/part6.md) | [GAEMZ](ver%202.0/part7.md)
+[Общий FAQ](faq.md) | [Вводный курс](intro.md) | [Терминология](gloss.md) | [Сайты](sites.md) | [Поиск контента](content.md) | [Технические вопросы](tech.md) | [Стафф и мерч](stuff.md) | [GAEMZ](gaemz.md) | [Медиа](media.md) 
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-[Общий FAQ](ver%202.0/part0.md) | [Вводный курс](ver%202.0/part1.md) | [Терминология](ver%202.0/part2.md) | [Сайты](ver%202.0/part3.md) | [Поиск контента](ver%202.0/part4.md) | [Технические вопросы](ver%202.0/part5.md) | [Стафф и мерч](ver%202.0/part6.md) | [GAEMZ](ver%202.0/part7.md)
+[Общий FAQ](faq.md) | [Вводный курс](intro.md) | [Терминология](gloss.md) | [Сайты](sites.md) | [Поиск контента](content.md) | [Технические вопросы](tech.md) | [Стафф и мерч](stuff.md) | [GAEMZ](gaemz.md) | [Медиа](media.md) 
 
 ---
 
