@@ -63,7 +63,9 @@
 
 #### Юзерскрипты
 
-Изменяют функционал сайтов, изменяя отдельные элементы (скрывая, перемещая или изменяя размеры отдельных элементов) или добавляя ранее отсутствующий функционал (группировка изображений, дополнительные кнопки навигации). Для работы обычно требуется установленное в браузере расширение – менеджер юзерскриптов, такой как **[TamperMonkey](https://www.tampermonkey.net)**, **[ViolentMonkey](https://violentmonkey.github.io)** или **[GreaseMonkey](https://www.greasespot.net)**. Сами скрипты можно устанавливать из предложенных автором файлов, скачивать со специализированных сайтов (*[OpenUserJS](https://openuserjs.org)*, *[GreasyFork](https://greasyfork.org)*/*[SleazyFork](https://sleazyfork.org)*, *[Stylish](https://userstyles.org/categories/site)*) или писать самостоятельно.
+Изменяют сайты, маниупулируя отдельными элементами страницы (скрывая, перемещая или изменяя размеры отдельных элементов) или добавляя ранее отсутствующий функционал (группировка изображений, дополнительные кнопки навигации).
+Для работы обычно требуется установленное в браузере расширение – менеджер юзерскриптов, такой как **[TamperMonkey](https://www.tampermonkey.net)**, **[ViolentMonkey](https://violentmonkey.github.io)** или **[GreaseMonkey](https://www.greasespot.net)**. 
+Сами скрипты можно устанавливать из предложенных автором файлов, скачивать со специализированных сайтов (***[OpenUserJS](https://openuserjs.org)***, ***[GreasyFork](https://greasyfork.org)***/***[SleazyFork](https://sleazyfork.org)***, ***[Stylish](https://userstyles.org/categories/site)***) или писать самостоятельно.
 
 * **[LulzScripts](https://pastebin.com/u/lulzScript)** – коллекция юзерскриптов для наиболее популярных галерей (FA, DA, IB). Самая полезная их функция - возможность конгломерации галерей (составление прямых ссылок на картинки для последующей закачки).
   * После кардинального редизайна или внесения изменений работу сайтов некоторые скрипты перестают работать, поэтому время от времени стоит вручную проверять changelog и обновлять скрипты.
@@ -110,7 +112,7 @@
   * Windows 10: **[2ch4you]( https://www.microsoft.com/ru-ru/p/2ch4you/9nzft4ns8t79)** или **[2ch4ever]( https://www.microsoft.com/ru-ru/p/2ch4ever/9nmfh0wm5d8m)**.
 * На форуме e621 есть целая [ветка с поделками разной степени работоспособности](https://e621.net/forum?category=9), из них наиболее функциональный на данный момент **[m621](https://e621.net/forum/show/257629)** от *ErrorFerret*.
 * **[SoFurry App beta ](https://www.sofurry.com/static/app/android/app.apk) ([зеркало](http://rga.la/sfapp))** – официальная бета-версия Android-клиента для SoFurry.
-* **[FlexBooru](https://github.com/flexbooru/flexbooru)** – буровой клиент под Android ([Google Play](https://play.google.com/store/apps/details?id=onlymash.flexbooru.play)).
+* **[FlexBooru](https://github.com/flexbooru/flexbooru)** – буровой клиент под Android (**[Google Play](https://play.google.com/store/apps/details?id=onlymash.flexbooru.play)**).
 
 ---
 
