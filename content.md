@@ -4,6 +4,8 @@
 
 [Общий FAQ](faq.md) | [Вводный курс](intro.md) | [Терминология](gloss.md) | [Сайты](sites.md) | **Поиск контента** | [Технические вопросы](tech.md) | [Стафф и мерч](stuff.md) | [GAEMZ](gaemz.md) | [Медиа](media.md) 
 
+*[СОУСПЛИЗ!](#соусплиз)* | *[FurAffinity](#furaffinity)* | *[SoFurry](#sofurry)* | *[e621](#e621)* | *[InkBunny](#inkbunny)* | *[Weasyl](#weasyl)* | *[Furry Network](#furry-network)* | *[Pixiv](#pixiv)* | *[DeviantArt](#deviantart)* | *[Неспецифические](#неспецифические)* 
+
 ---
 
 ### СОУСПЛИЗ!
@@ -108,12 +110,6 @@
   * **[fox animated male/male oral –scalie cum_on_back](https://e621.net/post/index/1/fox%20animated%20male%25-2Fmale%20oral%20-scalie%20cum_on_back)**
 * ...О, нашлось!
 
-### Pixiv
-
-Тащемта основы предельно ясно описаны в [хелпе](https://www.pixiv.help/hc/en-us#3-3) и не отличаются от поиска на любой пикчепомойке.
-Засада в том, что гордые самураи практически не используют англоязычные теги, поэтому залогом успеха является знание мунспика. Если выучить что "**ケモノ**" это [фурри](https://en-dic.pixiv.net/a/furry) ещё как-то можно, то для других тегов придётся прибегать к специальным словарям навроде [такого](https://naughtyjester.tumblr.com/post/119904403350/list-of-pixiv-tags), [эдакого](https://graphicsexualhorror.tumblr.com/post/51023977906/ref-list-of-kinknsfw-related-pixiv-tags) или [разэдакого](https://www.reddit.com/r/LearnJapanese/comments/6vog8a/list_of_sexual_terms_and_fetishes/), и даже [с картинками](https://ohnoanime.moe/blog/2018/8/13/hentai-terminology-101-extremely-nsfw) как в букваре.
-Стоит также снять запрет на отображение adult-контента в [настойках аккаунта](https://www.pixiv.net/setting_user.php).
-
 ### InkBunny
 
 Все настройки собраны на одной отдельной [странице](https://inkbunny.net/search.php). Поиск ведётся как по тегам (при вводе работают подсказки), так и по названию/описанию и MD5-хешу. Можно настроить что искать (тип контента и рейтинг) и как искать (AND, OR или точная фраза). Особенность результатов поиска в том, что находятся не только отдельные работы, но и сеты (в правом нижнем углу у них стоит количество входящих в сет работ).
@@ -121,6 +117,16 @@
 ### Weasyl
 
 Примеры поисковых запросов приведены в [справке](https://www.weasyl.com/help/searching). Поиск с минимумом функционала: используются логические операторы и модификаторы поиска (тип работы, рейтинг контента, указание определённого пользователя), сортировки результатов нет.
+
+### Furry Network
+
+*Under construction*.
+
+### Pixiv
+
+Тащемта основы предельно ясно описаны в [хелпе](https://www.pixiv.help/hc/en-us#3-3) и не отличаются от поиска на любой пикчепомойке.
+Засада в том, что гордые самураи практически не используют англоязычные теги, поэтому залогом успеха является знание мунспика. Если выучить что "**ケモノ**" это [фурри](https://en-dic.pixiv.net/a/furry) ещё как-то можно, то для других тегов придётся прибегать к специальным словарям навроде [такого](https://naughtyjester.tumblr.com/post/119904403350/list-of-pixiv-tags), [эдакого](https://graphicsexualhorror.tumblr.com/post/51023977906/ref-list-of-kinknsfw-related-pixiv-tags) или [разэдакого](https://www.reddit.com/r/LearnJapanese/comments/6vog8a/list_of_sexual_terms_and_fetishes/), и даже [с картинками](https://ohnoanime.moe/blog/2018/8/13/hentai-terminology-101-extremely-nsfw) как в букваре.
+Стоит также снять запрет на отображение adult-контента в [настойках аккаунта](https://www.pixiv.net/setting_user.php).
 
 ### DeviantArt
 
@@ -136,6 +142,8 @@
   * Аналогичные архивы для [4chan](https://desuarchive.org/trash) и [8chan](https://8ch.net/fur/archive/index.html).
 
 ---
+
+*[СОУСПЛИЗ!](#соусплиз)* | *[FurAffinity](#furaffinity)* | *[SoFurry](#sofurry)* | *[e621](#e621)* | *[InkBunny](#inkbunny)* | *[Weasyl](#weasyl)* | *[Furry Network](#furry-network)* | *[Pixiv](#pixiv)* | *[DeviantArt](#deviantart)* | *[Неспецифические](#неспецифические)* 
 
 [Общий FAQ](faq.md) | [Вводный курс](intro.md) | [Терминология](gloss.md) | [Сайты](sites.md) | **Поиск контента** | [Технические вопросы](tech.md) | [Стафф и мерч](stuff.md) | [GAEMZ](gaemz.md) | [Медиа](media.md) 
 
