@@ -12,15 +12,6 @@
 
 ---
 
-### Ghost of a Tale
-**[Сайт](https://www.ghostofatale.com)** | **[Wiki](https://en.wikipedia.org/wiki/Ghost_of_a_Tale)** *(en)* | **[Торрент](https://rutracker.org/forum/viewtopic.php?t=5370300)**
-
-![Ghost of a Tale screenshot](/img/screenshots/GOAT.jpg "Ghost of a Tale screenshot")
-
-*Скриншоты: [New Game Network](https://www.newgamenetwork.com/gallery/1760/ghost-of-a-tale-screenshots)*
-
----
-
 ### Armello
 **[Сайт](https://armello.com)** | **[Wiki](https://ru.wikipedia.org/wiki/Armello)** | **[Торрент]( https://rutracker.org/forum/tracker.php?nm=Armello)**
 
@@ -30,21 +21,49 @@
 
 ---
 
-### Seasons after Fall
-**[Сайт](http://www.seasonsafterfall.com)** | **[Wiki](https://en.wikipedia.org/wiki/Seasons_After_Fall)** (en) | **[Торрент](https://rutracker.org/forum/viewtopic.php?t=5747739)**
+### Brutal: Paws of Fury [DOS / Amiga / SMD / SNES]
+**[Wiki](https://ru.wikipedia.org/wiki/Brutal:_Paws_of_Fury)** | **[WikiFur](https://ru.wikifur.com/wiki/Brutal:_Paws_of_Fury)** | **[OGRU](https://www.old-games.ru/game/944.html)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!wg1DHYga)**
 
-![Seasons after Fall screenshot](/img/screenshots/SAF.jpg "Seasons after Fall screenshot") 
+![Brutal: Paws of Fury screenshot](/img/screenshots/BPoF.gif "Brutal: Paws of Fury ")
 
-*Скриншоты: [Канобу](https://kanobu.ru/games/seasons-after-fall/screenshots)*
+*Скриншоты: [MobyGames](https://www.mobygames.com/game/brutal-paws-of-fury/screenshots)*
 
 ---
 
-### Tooth & Tail
-**[Сайт]( http://www.toothandtailgame.com)** | **[Wiki](https://ru.wikipedia.org/wiki/Tooth_and_Tail)** | **[Торрент](https://rutracker.org/forum/viewtopic.php?t=5452689)** 
+### Conker's Bad Fur Day [Nintendo 64]
+**[Wiki](https://ru.wikipedia.org/wiki/Conker%E2%80%99s_Bad_Fur_Day)** | **[WikiFur](https://ru.wikifur.com/wiki/Conker%27s_Bad_Fur_Day)** | **[ROM](http://www.emu-land.net/consoles/n64/roms?act=showonly&id=65)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!Y8FEmAgS)**
 
-![Tooth & Tail screenshot](/img/screenshots/TnT.jpg "Tooth & Tail screenshot") 
 
-*Скриншоты: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Tooth_and_Tail)*
+![Conker's Bad Fur Day screenshot](/img/screenshots/CBFD.jpg "Conker's Bad Fur Day screenshot") 
+
+*Скриншоты: [GameFAQs](https://gamefaqs.gamespot.com/n64/196973-conkers-bad-fur-day/images)*
+
+---
+
+### Conker: Live & Reloaded [XBOX]
+**[XBOX Live](https://www.microsoft.com/ru-ru/p/conker-live-and-reloaded/bvfb8cbs75r6)** | **[Wiki]( https://en.wikipedia.org/wiki/Conker:_Live_%26_Reloaded)** (en) | **[Торрент](https://rutracker.org/forum/tracker.php?f=510,887&nm=Conker)** 
+
+![Conker: Live & Reloaded screenshot](/img/screenshots/CLnR.jpg "Conker: Live & Reloaded screenshot") 
+
+*Скриншоты: [ModDB](https://www.moddb.com/games/conker-live-and-reloaded/images), [NeutralX2](https://neutralx2.com/2006/12/26/conker-live-and-reloaded)*
+
+---
+
+### Ghost of a Tale
+**[Сайт](https://www.ghostofatale.com)** | **[Wiki](https://en.wikipedia.org/wiki/Ghost_of_a_Tale)** *(en)* | **[Торрент](https://rutracker.org/forum/viewtopic.php?t=5370300)**
+
+![Ghost of a Tale screenshot](/img/screenshots/GOAT.jpg "Ghost of a Tale screenshot")
+
+*Скриншоты: [New Game Network](https://www.newgamenetwork.com/gallery/1760/ghost-of-a-tale-screenshots)*
+
+---
+
+### Inherit the Earth: Quest for Orb [DOS / AMIGA] [SCUMMVM]
+**[Сайт](http://www.wyrmkeep.com/ite/)** | **[Steam](https://store.steampowered.com/app/257260/Inherit_the_Earth_Quest_for_the_Orb/)** | **[Wiki](https://ru.wikipedia.org/wiki/Inherit_the_Earth:_Quest_for_the_Orb)** | **[WikiFur](https://ru.wikifur.com/wiki/Inherit_the_Earth:_Quest_for_the_Orb)** | **[OGRU](https://www.old-games.ru/game/2547.html)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!8kkA0JDI)**
+
+![Inherit the Earth: Quest for Orb screenshot](/img/screenshots/ITE.jpg "Inherit the Earth: Quest for Orb screenshot") 
+
+*Скриншоты: [MobyGames](https://www.mobygames.com/game/inherit-the-earth-quest-for-the-orb/screenshots/)*
 
 ---
 
@@ -57,6 +76,15 @@
 
 ---
 
+### Night in the Woods
+**[Сайт](http://www.nightinthewoods.com)** | **[Wiki](https://ru.wikipedia.org/wiki/Night_in_the_Woods)** | **[Торрент](https://rutracker.org/forum/tracker.php?f=1992,53,537&nm=woods)** 
+
+![Night in the Woods screenshot](/img/screenshots/NITW.jpg "Night in the Woods screenshot") 
+
+*Скриншоты: [Infinite Fall](http://www.nightinthewoods.com)*
+
+---
+
 ### Overgrowth
 **[Сайт](https://www.wolfire.com/overgrowth)** | **[Wiki](https://ru.wikipedia.org/wiki/Overgrowth)** | **[Торрент](https://rutracker.org/forum/tracker.php?f=1992,646&nm=Overgrowth)**
 
@@ -66,12 +94,12 @@
 
 ---
 
-### Night in the Woods
-**[Сайт](http://www.nightinthewoods.com)** | **[Wiki](https://ru.wikipedia.org/wiki/Night_in_the_Woods)** | **[Торрент](https://rutracker.org/forum/tracker.php?f=1992,53,537&nm=woods)** 
+### Seasons after Fall
+**[Сайт](http://www.seasonsafterfall.com)** | **[Wiki](https://en.wikipedia.org/wiki/Seasons_After_Fall)** (en) | **[Торрент](https://rutracker.org/forum/viewtopic.php?t=5747739)**
 
-![Night in the Woods screenshot](/img/screenshots/NITW.jpg "Night in the Woods screenshot") 
+![Seasons after Fall screenshot](/img/screenshots/SAF.jpg "Seasons after Fall screenshot") 
 
-*Скриншоты: [Infinite Fall](http://www.nightinthewoods.com)*
+*Скриншоты: [Канобу](https://kanobu.ru/games/seasons-after-fall/screenshots)*
 
 ---
 
@@ -84,50 +112,871 @@
 
 ---
 
-### Conker's Bad Fur Day [Nintendo 64]
-**[Wiki](https://ru.wikipedia.org/wiki/Conker%E2%80%99s_Bad_Fur_Day)** | **[WikiFur](https://ru.wikifur.com/wiki/Conker%27s_Bad_Fur_Day)** | **[ROM](http://www.emu-land.net/consoles/n64/roms?act=showonly&id=65)** 
+### Tooth & Tail
+**[Сайт]( http://www.toothandtailgame.com)** | **[Wiki](https://ru.wikipedia.org/wiki/Tooth_and_Tail)** | **[Торрент](https://rutracker.org/forum/viewtopic.php?t=5452689)** 
 
+![Tooth & Tail screenshot](/img/screenshots/TnT.jpg "Tooth & Tail screenshot") 
 
-![Conker's Bad Fur Day screenshot](/img/screenshots/CBFD.jpg "Conker's Bad Fur Day screenshot") 
-
-*Скриншоты: [GameFAQs](https://gamefaqs.gamespot.com/n64/196973-conkers-bad-fur-day/images)*
-
----
-
-### Conker: Live & Reloaded [XBOX]
-**[XBOX Live](https://www.microsoft.com/ru-ru/p/conker-live-and-reloaded/bvfb8cbs75r6)** | **[Wiki]( https://en.wikipedia.org/wiki/Conker:_Live_%26_Reloaded)** (en) | **[Торрент](https://rutracker.org/forum/tracker.php?f=510,887&nm=Conker)**
-
-![Conker: Live & Reloaded screenshot](/img/screenshots/CLnR.jpg "Conker: Live & Reloaded screenshot") 
-
-*Скриншоты: [ModDB](https://www.moddb.com/games/conker-live-and-reloaded/images), [NeutralX2](https://neutralx2.com/2006/12/26/conker-live-and-reloaded)*
-
----
-
-### Inherit the Earth: Quest for Orb [DOS / AMIGA] [SCUMMVM]
-**[Сайт](http://www.wyrmkeep.com/ite/)** | **[Steam](https://store.steampowered.com/app/257260/Inherit_the_Earth_Quest_for_the_Orb/)** | **[Wiki](https://ru.wikipedia.org/wiki/Inherit_the_Earth:_Quest_for_the_Orb)** | **[WikiFur](https://ru.wikifur.com/wiki/Inherit_the_Earth:_Quest_for_the_Orb)** | **[OGRU](https://www.old-games.ru/game/2547.html)**
-
-![Inherit the Earth: Quest for Orb screenshot](/img/screenshots/ITE.jpg "Inherit the Earth: Quest for Orb screenshot") 
-
-*Скриншоты: [MobyGames](https://www.mobygames.com/game/inherit-the-earth-quest-for-the-orb/screenshots/)*
-
----
-
-### Brutal: Paws of Fury [DOS / Amiga / SMD / SNES]
-**[Wiki](https://ru.wikipedia.org/wiki/Brutal:_Paws_of_Fury)** | **[WikiFur](https://ru.wikifur.com/wiki/Brutal:_Paws_of_Fury)** | **[OGRU](https://www.old-games.ru/game/944.html)**
-
-![Brutal: Paws of Fury screenshot](/img/screenshots/BPoF.gif "Brutal: Paws of Fury ")
-
-*Скриншоты: [MobyGames](https://www.mobygames.com/game/brutal-paws-of-fury/screenshots)*
+*Скриншоты: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Tooth_and_Tail)*
 
 ---
 
 ## Моды и аддоны
 
---------
+---
 
 ## VN
 
 ### Общая информация
+
+* [Visual Novels Directory: Furry](https://vndb.org/g752) – база данных VN-ок с антропоморфными персонажами. Перечень игр не исчерпывающий, на сайте можно найти и другие игры с фурёвыми персонажами, которые почему-то не включены в данную категорию. 
+* [List of furry visual novels](http://en.wikifur.com/wiki/List_of_furry_visual_novels) – спискота на WikiFur.
+* [Visual Novel - TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/VisualNovel) – статья на со спискотой, в том числе с выделением игр в типичные и нетипичные Троповские подкатегории, коих тут с полсотни.
+* [MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw) – архив VN-ок, собранный и регулярно обновляемый ОПом игротреда на */fur*, за что ему респект.
+  * За редкими исключениями, большая часть нижеуказанных игр взята именно из этого архива.
+
+---
+
+### AdAstra
+**[Patreon](https://www.patreon.com/EchoGame)** | **[itch.io](https://echoproject.itch.io/adastra)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!j3oxQAoa)** 
+
+Обычнокуна, уехавшего в Рим набираться уму-разуму в местных учебных заведениях, внезапно похищают алиены для ~~анального зондирования~~ дальнейшего закидывания на какую-то далёкую планету, в гущу тамошних политических интриг.
+
+![AdAstrа screenshot](/img/screenshots/AdAstra.jpg " AdAstrа screenshot ")
+
+*Скриншоты: [Patreon](https://www.patreon.com/EchoGame), [itch.io](https://echoproject.itch.io/adastra)*
+
+---
+
+### Amorous
+**[Сайт](https://www.amorousgame.com)** | **[WikiFur](http://en.wikifur.com/wiki/Amorous)** (en) | **[Steam](https://store.steampowered.com/app/778700/)** | | **[itch.io](https://teamamorous.itch.io/amorous)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Oih13aBJ)** | 
+
+Симулятор свиданий в ночном клубе с конструктором персонажей, девятью ебабельными персонажами всех мастей и полов и разнообразными мини-играми.
+
+![Amorous screenshot](/img/screenshots/Amorous.jpg "Amorous screenshot")
+
+*Скриншоты: [Steam](https://store.steampowered.com/app/778700/)*
+
+---
+
+### Angels with Scaly Wings
+**[Сайт](http://angelswithscalywings.com)** | **[WikiFur](http://en.wikifur.com/wiki/Angels_with_Scaly_Wings)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/AngelsWithScalyWings)** | **[GamePedia](https://angelswithscalywings.gamepedia.com/Angels_with_Scaly_Wings_Wiki)** (en) | **[Humble Bundle](https://www.humblebundle.com/store/angels-with-scaly-wings-digital-deluxe-edition)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!HyhzBQ7Z)** 
+
+После открытия портала из мира людишек в мир дроконов игрок, которого назначают послом, потихоньку обвыкается с тамошним бытом и пытается разобраться со странными недомолвками, за которыми скрывается ~~жоподраконский~~ заговор.
+
+![Angels with Scaly Wings screenshot](/img/screenshots/AwSW.jpg "Angels with Scaly Wings screenshot")
+
+*Скриншоты: [HumbleBundle](https://www.humblebundle.com/store/angels-with-scaly-wings-digital-deluxe-edition)*
+
+---
+
+### Blackgate
+**[Сайт](https://www.patreon.com/blackgategame)** | **[Blackgate Wiki](https://blackgate.fandom.com/wiki/Blackgate_Wiki)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Blackgate)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!f6gxVCTK)** 
+
+Однажды ночью на пустынной дороге у игрока ломается машина, после чего его арестовывает неизвестно откуда взявшийся полицейский и препровождает в ~~Зверополис~~ город, заселённый исключительно фурями и монстрами.
+
+![Blackgate screenshot](/img/screenshots/Blackgate.jpg "Blackgate screenshot")
+
+*Скриншоты: [Medium](https://forum.gamer.com.tw/C.php?page=1&bsn=60604&snA=378)*
+
+---
+
+### Changeling Tale
+**[Patreon](https://www.patreon.com/LittleNapoleon)** | **[itch.io](https://littlenapoleon.itch.io/changelingtale)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Xz5xUKJR)** | 
+
+Вернувшись с войны на гражданку и занявшись сельским хозяйством, игрок случайно узнаёт страшную тайну девок с соседской фермы, которые умеют превращаются в тёлочек, кобылочек, сучечек и далее по списку.
+
+![Changeling Tale screenshot](/img/screenshots/ChanTale.jpg "Changeling Tale screenshot")
+
+*Скриншоты: [Patreon]( https://www.patreon.com/LittleNapoleon/), [DeviantArt](https://www.deviantart.com/w4tsup)*
+
+---
+
+### Crown of Leaves, the (Корона из листьев)
+**[Steam](https://store.steampowered.com/app/604330/)** | **[itch.io](https://the-broken-horn.itch.io/the-crown-of-leaves)** | **[VK](https://vk.com/the_crown_of_leaves)** **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!q74VxALL)** 
+
+
+У игрока, зарабатывающего ювелирными подработками, некий злой дух спиздил почти готовый заказ, и тому ничего другого не остаётся как заняться поисками, заодно раскрывая странности родного Мухосранска.
+
+![The Crown of Leaves screenshot](/img/screenshots/CoL.jpg "The Crown of Leaves screenshot")
+
+*Скриншоты: [Steam](https://store.steampowered.com/app/604330/)*
+
+---
+
+### Date a Mink
+**[Patreon](https://www.patreon.com/furrgroup)** | **[itch.io](https://furrgroup.itch.io/date-a-mink)** | **[WikiFur](http://en.wikifur.com/wiki/Date_a_Mink)** (en) | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!b25DQCxb)**
+
+Игра про ~~кассира в Макдональдсе~~ баристу, который дрочит на зачастившую в кофейню норочку и пытается развести её на потрахушки.
+
+![Date a Mink screenshot](/img/screenshots/DaM.jpg "Date a Mink screenshot")
+
+*Скриншоты: [Nutaku](https://www.nutaku.net/games/download/date-a-mink/)*
+
+---
+
+### DragonDate
+**[Сайт](https://www.akemari.com/)** | **[Kickstarter](https://www.kickstarter.com/projects/2032174474/dragon-date-adult-visual-novel)** | **[Patreon](https://www.patreon.com/akemari)** | **[Демоверсия](https://drive.google.com/drive/folders/0B7oGzS46c4wTUXdKd0NDRUw0enc)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!DmgzASZK)** 
+
+Симулятор свиданий, в котором главный герой вызвался *приручить дроконов*, но все вверенные ему экземпляры на поверку обернулись ящеродевочками.
+
+![DragonDate screenshot](/img/screenshots/DDate.jpg "DragonDate screenshot")
+
+*Скриншоты: [Twitter](https://twitter.com/AkemariStudios/)*
+
+---
+
+### Dream Molder
+**[Сайт](https://indarkwaters.com/games/dream-molder.html)** | **[Patreon](https://www.patreon.com/InDarkWaters)** | **[Blogspot](https://in-dark-waters.blogspot.com/p/dream-molder-h-scene-demos.html)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!36gBhIBa)** | 
+
+Игрок, когда-то подобравший и выходивший покемона, спустя много лет вновь сталкивается с уже подросшей и эволюционировавшей тварью.
+
+![Dream Molder screenshot](/img/screenshots/DM.jpg "Dream Molder screenshot")
+
+*Скриншоты: [Blogspot](https://in-dark-waters.blogspot.com), [DeviantArt](https://www.deviantart.com/in-dark-waters/), [InDarkWaters](https://indarkwaters.com/games/dream-molder.html)*
+
+---
+
+### Drifting in Circles
+**[Patreon](https://www.patreon.com/littanana)** | **[itch.io](https://nadianova.itch.io/drifting-in-circles)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!qqwh1CYK)** | 
+
+Молодой человек собрался было покорять своим художественным талантом, но обломался, так что пришлось вернуться обратно к мамке в хату, но уже как молодой девушке.
+
+![Drifting in Circles screenshot](/img/screenshots/DiC.jpg "Drifting in Circles screenshot")
+
+*Скриншоты: [itch.io](https://nadianova.itch.io/drifting-in-circles)*
+
+---
+
+### Dungeon Tail
+**[Patreon](https://www.patreon.com/omegaozone)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!quwjSSBZ)** | 
+
+Волк-воин и зайка-маг шароёбятся по подземельям, разгадывая загадки и предаваясь непотребствам.
+
+![Dungeon Tail screenshot](/img/screenshots/DTail.jpg "Dungeon Tail screenshot")
+
+*Скриншоты: [Twitter](https://twitter.com/OzoneBoneZone), [NewsGrounds](https://omegaozone.newgrounds.com/art/)*
+
+---
+
+### Echo
+**[Patreon](https://www.patreon.com/EchoGame)** | **[WikiFur](http://en.wikifur.com/wiki/Echo_(game))** (en) | **[itch.io](https://echoproject.itch.io/echo)** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Echo)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!2mgBQKQS)** 
+
+Студент-журналист во время каникул решает встретиться со старыми друзьями в родном городе, что запускает цепочку странных событий в духе Дэвида Линча.
+
+![Echo screenshot](/img/screenshots/Echo.jpg "Echo screenshot")
+
+*Скриншоты: [itch.io](https://echoproject.itch.io/echo), [Patreon](https://www.patreon.com/EchoGame/)*
+
+---
+
+### Extracurricular Activities
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/ExtracurricularActivities)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Hmw1WQLS)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Familiar Travels
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!H25jyQTC)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Forbidden Fruit
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Pnp3lQSL)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Four-Letter Word
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA]()** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Identity
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!zqgzTQpD)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Lagoon Lounge
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/LagoonLounge)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!GiwX0KiY)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Lunar
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!TqhjGSIB)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Major\Minor
+**[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/Major%5CMinor)** (en) | **[Торрент]()** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/MajorMinor)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!XyoBjaYR)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Morenatsu [original]
+**[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/Morenatsu)** (en) | **[Wikia](https://morenatsu.fandom.com/wiki/Main_Page)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Morenatsu)** | **[Инструкция по установке и запуску](https://www.reddit.com/r/MorenatsuGame/comments/4pm6aw/)** (en) | **[GoogleDrive](https://docs.google.com/file/d/0BzjNw8YTUfDtZThNU2xmQkh3S1k)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Morenatsu Revisited
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!6v4BHKAC)** | **[Тред]()** | **[FurAffinity](https://www.furaffinity.net/view/26153752/)** | **[Ren'Py source code](https://mega.nz/#!dx4n3YRS!bUIgvEOs4jTh_ct_eTkVpDzTmNfMKx3Dd5E-C9WxGpU)**
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Nekojishi
+**[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/Nekojishi)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Nekojishi)** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!PjxnmagZ)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Notes from the Cape
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Gn5jiabS)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Occupational Hazards
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!njg3gKDK)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Peach Syrup!
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!L74zmA7A)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Project Aego
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!rqhXTaYC)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Repeat
+**[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/Repeat)** (en) | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!n6pTTC5I)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Second Chance
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!7nghlApL)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Stardust Kids (Дети звёздной пыли)
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!O7wxhKSQ)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Tennis Ace
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!PjwxAQzI)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Stardust Kids (Дети звёздной пыли)
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!KuwTUSLS)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Uncommon Breed
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Gr5VVChI)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Wolfstar: Sins and Paradise
+**[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/Wolfstar_Sins_and_Paradise)** (en) | **[itch.io](https://hyperwolfstar.itch.io/wolfstar-sins-and-paradise)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!KuwTUSLS)** | **[Тред]()** 
+
+![Wolfstar: Sins and Paradise screenshot](/img/screenshots/WSnP.jpg " Wolfstar: Sins and Paradise screenshot")
+
+*Скриншоты: [itch.io](https://hyperwolfstar.itch.io/wolfstar-sins-and-paradise)*
+
+---
+
+## Прочие игры
+
+* **[Wiki: Video games featuring anthropomorphic characters](https://en.wikipedia.org/wiki/Category:Video_games_featuring_anthropomorphic_characters)** (*en*) –
+* **[WikiFur: Список оригинальных видеоигр про антропоморфов]( https://ru.wikifur.com/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BE%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80_%D0%BF%D1%80%D0%BE_%D0%B0%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%BE%D0%B2)** – 
+* [MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg) – архив игр разных жанров, собранный и регулярно обновляемый ОПом игротреда на */fur*, за что ему респект.
+  * За редкими исключениями, большая часть нижеуказанных игр взята именно из этого архива.
+
+---
+
+### A Night with Laverne
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!BplATAYB)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### A Walk Home
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!5pFCmBRL)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Akasha's Gate
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!pxkwDSLC)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Anubis and the Buried Bone
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!w9UTDaBR)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Bare Backstreet
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!9llgTSAY)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Bedplay
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg?okcEQSKZ)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Book of Lust
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!10MwCK4D)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Breeders of the Nephelym
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!VlE1FCAJ)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Breeding Season
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!x49QhYaD)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Carnal Coup
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!UlER0YRB)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Cathouse Tale
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!gktnHZQZ)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Cloud Meadow
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!d1kFQK7Z)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Corruption of Champions
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!cgVWlQ6K)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Crowjob in Space
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!t5UWnaBD)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Debauchery in Caelia Kingdoms
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!Z4FVRSzJ)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Dragon Waifu
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!o0UUUYTA)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+### Forest of Love, the
+**[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/The_Forest_of_Love)** (en) | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!V9FjxCQI)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Furry Girl
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!JtU1WIra)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Future Love Space Machine
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!wg0jGBKJ)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Happy Heart Hell
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!8pdxAI6Z)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Happy Heart Panic
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!J0tWUS5L)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### High Tail Hall
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!BkMByI5S)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Hunt and Snare
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!cllTCagS)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Kincaid
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!J41CzIZR)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Knights of a Broken City (Naughty Shinobi)
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!pgtyWLiL)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Kobold Garden
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!M8skBCDK)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Kobold Kare
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!U4EyUSyS)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### La Bête
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!klVBlACD)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Leave2gether (Panthea)
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!Ekt2hZRT)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Legend of Krystal Rebirth
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!9xkHgL6D)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Lewd Leaf Land – Maple Tea Ecstasy
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!0oEXAICb)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Lovers of Aether
+**[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/Lovers_of_Aether)** (en) | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!0l9ClKTD)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Midnight Fireworks
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg?0kdhXIYb)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Pigglet in Mrs Big Bad Wyvern
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!MgtDWI6C)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Predation
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!410RkLjJ)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Price for Freedom Avarice
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA]()** | **[Тред](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!9h0wCL7Z)** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### RACK
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg?BgNkQZZJ)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### RACK 2
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!g9lFmYAR)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Renapet
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!UsEDBQBQ)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Sexy Mad Science
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!YtVxiJZJ)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Shades of Elysium
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!0ptmlIoD)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Something to do with Love
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!85UwAQqb)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Space Paws
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!FhFTmR7J)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Stones
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!g90SVS7C)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Teraurge
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!I0NUjZgZ)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Thirstchasm
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!cpMABAYY)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Tigress + Others
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!FgsA0QyK)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Towergirls
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!ExFRwC7Q)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Towergirls Kingdom Conquest (Princess & Conquest)
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!kl1hwawJ)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Trials in Tainted Space
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!cgVWlQ6K)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Usagi Star
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!x4MHRArC)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Valor and Glory
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!woVRCSSS)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### VR Ferals
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!s4tnHLZR)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Wild Life
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!ct1B2C6K)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Wolf Girl With You (Liru)
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!lgdl0YjD)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### Yiffalicious
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!cokFhbJJ)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
 
 ---
 
