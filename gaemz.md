@@ -273,7 +273,7 @@
 ---
 
 ### Extracurricular Activities
-**[Patreon](https://www.patreon.com/dk999)** | **[itch.io](https://dynewulf.itch.io/extracurricular-activities)** | **[Wikia](https://extracurricular-activities-game.fandom.com/wiki/Extracurricular_Activities)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/ExtracurricularActivities)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Hmw1WQLS)** | 
+**[Patreon](https://www.patreon.com/dk999)** | **[itch.io](https://dynewulf.itch.io/extracurricular-activities)** | **[Extracurricular Activities Wikia](https://extracurricular-activities-game.fandom.com/wiki/Extracurricular_Activities)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/ExtracurricularActivities)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Hmw1WQLS)** | 
 
 В теннисном клубе игрок пытается подкатить ~~мячики~~ шары к одному из пяти других игроков его команды (которые, судя по внешнему облику, перешли в лёгкую атлетику из тяжёлой).
 
@@ -306,7 +306,7 @@
 ---
 
 ### Four-Letter Word
-**[Patreon](https://www.patreon.com/Kho)** | **[Wiki]()** | **[U18Chan](https://u18chan.com/gfur/topic/1098860)** | **MediaFire [Win](https://www.mediafire.com/?9o1z9h2jsbi29bz/) [Mac](https://www.mediafire.com/?749lu7935qat38a/) [Lin](https://www.mediafire.com/?8d14dq2c4an694z/) [APK](https://www.mediafire.com/?29d7jr38gjurs87/) **
+**[Patreon](https://www.patreon.com/Kho)** | **[U18Chan](https://u18chan.com/gfur/topic/1098860)** | **MediaFire**: ***[Windows](https://www.mediafire.com/?9o1z9h2jsbi29bz/) [Mac](https://www.mediafire.com/?749lu7935qat38a/) [Linux](https://www.mediafire.com/?8d14dq2c4an694z/) [Android](https://www.mediafire.com/?29d7jr38gjurs87/) ***
 
 Продолжение одноимённого комикса про пару, цветочно-конфетный период отношений у которой уже подошёл к концу, а как и зачем дальше жить вместе – непонятно.
 
@@ -328,7 +328,7 @@
 ---
 
 ### Lagoon Lounge
-**[Сайт](http://kemono.cc/hidamaru/)** (jp)| **[Сайт](http://www.kaiju09.com/lagoonloungeEnglish/)** (HD Remake) | **[Steam](https://store.steampowered.com/app/857690/)** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/LagoonLounge)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!GiwX0KiY)** | 
+**[Сайт](http://kemono.cc/hidamaru/)** (jp) | **[Сайт](http://www.kaiju09.com/lagoonloungeEnglish/)** (HD Remake) | **[Steam](https://store.steampowered.com/app/857690/)** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/LagoonLounge)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!GiwX0KiY)** | 
 
 Игрок, выгоревший на работе, решает ~~поправить здоровье~~ сменить вид деятельности и устраивается официантом в ресторан курортного городка, где пытается на протяжении трёх игр разобраться в творящейся там мистике.
 
