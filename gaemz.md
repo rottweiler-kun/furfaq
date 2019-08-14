@@ -273,58 +273,71 @@
 ---
 
 ### Extracurricular Activities
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/ExtracurricularActivities)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Hmw1WQLS)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/dk999)** | **[itch.io](https://dynewulf.itch.io/extracurricular-activities)** | **[Wikia](https://extracurricular-activities-game.fandom.com/wiki/Extracurricular_Activities)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/ExtracurricularActivities)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Hmw1WQLS)** | 
 
+В теннисном клубе игрок пытается подкатить ~~мячики~~ шары к одному из пяти других игроков его команды (которые, судя по внешнему облику, перешли в лёгкую атлетику из тяжёлой).
 
+![Extracurricular Activities screenshot](/img/screenshots/ExtraAct.jpg "Extracurricular Activities screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [itch.io](https://dynewulf.itch.io/extracurricular-activities), [Weebly](http://dynewulf.weebly.com/extracurricular-activities.html)*
 
 ---
 
 ### Familiar Travels
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!H25jyQTC)** | **[Тред]()** 
+**[Kickstarter](https://www.kickstarter.com/projects/manaheim/welcome-to-manaheim-an-adult-furry-visual-novel)** | **[Steam](https://store.steampowered.com/app/1127070/)** (demo) | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!H25jyQTC)** | 
 
+Игрок ~~сдал ЕГЭ и поступил в престижный вуз~~ собрался учиться в школе магов и постепенно начинает постигать её внутреннюю кухню.
 
+![Familiar Travels screenshot](/img/screenshots/FamTravels.jpg "Familiar Travels screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [Steam](https://store.steampowered.com/app/1127070/)*
 
 ---
 
 ### Forbidden Fruit
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Pnp3lQSL)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/Magic_fingers)** | **[F95ZONE](https://f95zone.to/threads/27200/)** | **[MEGA](https://mega.nz/#!bdIRBIxI!M_1MiG_hDkCjuoLuQI1hLrvVN0fkv7HcTLWL4aeDlwA)** (latest) | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Pnp3lQSL)** 
 
+Братец с сестрой решили навестить своих родителей после окончания университета, однако на родном острове их ждёт весьма специфический приём.
 
+![Forbidden Fruit screenshot](/img/screenshots/FFruit.jpg "Forbidden Fruit screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [Patreon](https://www.patreon.com/Magic_fingers/), [F95ZONE](https://f95zone.to/threads/27200/)*
 
 ---
 
 ### Four-Letter Word
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA]()** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/Kho)** | **[Wiki]()** | **[U18Chan](https://u18chan.com/gfur/topic/1098860)** | **MediaFire [Win](https://www.mediafire.com/?9o1z9h2jsbi29bz/) [Mac](https://www.mediafire.com/?749lu7935qat38a/) [Lin](https://www.mediafire.com/?8d14dq2c4an694z/) [APK](https://www.mediafire.com/?29d7jr38gjurs87/) **
 
+Продолжение одноимённого комикса про пару, цветочно-конфетный период отношений у которой уже подошёл к концу, а как и зачем дальше жить вместе – непонятно.
 
+![Four-Letter Word screenshot](/img/screenshots/FLW.jpg "Four-Letter Word screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [FurAffinity](https://www.furaffinity.net/gallery/k-ho/)*
 
 ---
 
 ### Identity
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!zqgzTQpD)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/Identity)** | **[FurAffinity](https://www.furaffinity.net/user/identitygame)** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!zqgzTQpD)** | **[Тред]()** 
 
+Игрок приходит в себя в незнакомом лесу, страдая от ~~похмелья~~ амнезии, и пытается понять что к чему через общение с представившимися "старыми друзьями" ящеркиками.
 
+![Identity screenshot](/img/screenshots/Identity.jpg "Identity screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [FurAffinity](https://www.furaffinity.net/gallery/identitygame)*
 
 ---
 
 ### Lagoon Lounge
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/LagoonLounge)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!GiwX0KiY)** | **[Тред]()** 
+**[Сайт](http://kemono.cc/hidamaru/)** (jp)| **[Сайт](http://www.kaiju09.com/lagoonloungeEnglish/)** (HD Remake) | **[Steam](https://store.steampowered.com/app/857690/)** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/LagoonLounge)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!GiwX0KiY)** | 
 
+Игрок, выгоревший на работе, решает ~~поправить здоровье~~ сменить вид деятельности и устраивается официантом в ресторан курортного городка, где пытается на протяжении трёх игр разобраться в творящейся там мистике.
 
+![Lagoon Lounge screenshot](/img/screenshots/LLounge.jpg "Lagoon Lounge screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [Steam](https://store.steampowered.com/app/857690/), [KAIJYU-09](http://www.kaiju09.com/lagoonloungeEnglish/)*
 
 ---
+
 
 ### Lunar
 **[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!TqhjGSIB)** | **[Тред]()** 
