@@ -398,7 +398,7 @@
 ---
 
 ### Notes from the Cape
-**[Patreon](https://www.patreon.com/WillyBearBeach)**, [список эпизодов](https://www.patreon.com/posts/16349712) | **itch.io: _[S01E01-S01E12](https://artdecade.itch.io/notesseason1)_, _[S02E13-S02E15](https://artdecade.itch.io/notespack5)_** | **[VNDB](https://vndb.org/v23819)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Gn5jiabS)** | **[MEGA](https://mega.nz/#F!qpAgCCrB!M6PxdBjlXUSkb9NWhU5hQQ)
+**[Patreon](https://www.patreon.com/WillyBearBeach)**, [список эпизодов](https://www.patreon.com/posts/16349712) | **itch.io**: _[S01E01...S01E12](https://artdecade.itch.io/notesseason1)_, _[S02E13...S02E15](https://artdecade.itch.io/notespack5)_ | **[VNDB](https://vndb.org/v23819)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Gn5jiabS)** | **[MEGA](https://mega.nz/#F!qpAgCCrB!M6PxdBjlXUSkb9NWhU5hQQ)** (Win&Mac)
 
 Эпизодические игры-интерквелы [другой игры](#willy-bear-beach) про жителей тихого курортного городка, их приключения и отношения друг с другом.
 
@@ -491,7 +491,7 @@
 ---
 
 ### Willy Bear Beach
-**[Patreon](https://www.patreon.com/WillyBearBeach)** | **itch.io**: _[Episode 1](https://artdecade.itch.io/willy-bear-beach)_, [Episode 2](https://artdecade.itch.io/willy-bear-beach-2) | **VNDB**: _[Episode 1](https://vndb.org/v16961)_, _[Episode 2](https://vndb.org/v17838)_** | **[WikiFur](https://en.wikifur.com/wiki/Willy_Bear_Beach)** (en) | | **[Мини-гайд](https://www.mediafire.com/?m2qg2ge16bodgp9)** | **[Demo](https://artdecade.itch.io/will-bear-beach-2-demo)** 
+**[Patreon](https://www.patreon.com/WillyBearBeach)** | **itch.io**: _[Episode 1](https://artdecade.itch.io/willy-bear-beach)_, [Episode 2](https://artdecade.itch.io/willy-bear-beach-2) | **VNDB**: _[Episode 1](https://vndb.org/v16961)_, _[Episode 2](https://vndb.org/v17838)_ | **[WikiFur](https://en.wikifur.com/wiki/Willy_Bear_Beach)** (en) | **[Мини-гайд](https://www.mediafire.com/?m2qg2ge16bodgp9)** | **[Demo](https://artdecade.itch.io/will-bear-beach-2-demo)** 
 
 Повседневные приключения медведа, живущего в тихом куротном городке. 
 
