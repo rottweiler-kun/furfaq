@@ -338,60 +338,76 @@
 
 ---
 
-
 ### Lunar
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!TqhjGSIB)** | **[Тред]()** 
+**[Сайт](https://foofox.furry.nz/Lunar/)** | **[Patreon](https://www.patreon.com/LunarGame)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!TqhjGSIB)** 
 
+Игрок просыпается в теле лиса без малейшего представления, кто он, где он и что происходит.
 
+![Lunar screenshot](/img/screenshots/Lunar.jpg "Lunar screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [Patreon](https://www.patreon.com/LunarGame)*
 
 ---
 
 ### Major\Minor
-**[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/Major%5CMinor)** (en) | **[Торрент]()** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/MajorMinor)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!XyoBjaYR)** | **[Тред]()** 
+**[Kickstarter](https://www.kickstarter.com/projects/klace/major-minor)** | **[VNDB](https://vndb.org/v18747)** (en) | **[Steam](https://store.steampowered.com/app/417990/)** | **[Play Market](https://play.google.com/store/apps/details?id=major.minor.mobile&hl=en_US)** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/MajorMinor)** | **[WikiFur](http://en.wikifur.com/wiki/Major%5CMinor)** (en) | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!XyoBjaYR)** 
 
+Белке-фанату выпала честь сопровождать поп-звезду, приехавшую в Токио, чей визит однако омрачается серией загадочных смертей с мистическим подтекстом.
 
+![Major\Minor screenshot](/img/screenshots/MM.jpg "Major\Minor screenshot")
 
-*Скриншоты: []()*
-
----
-
-### Morenatsu [original]
-**[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/Morenatsu)** (en) | **[Wikia](https://morenatsu.fandom.com/wiki/Main_Page)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Morenatsu)** | **[Инструкция по установке и запуску](https://www.reddit.com/r/MorenatsuGame/comments/4pm6aw/)** (en) | **[GoogleDrive](https://docs.google.com/file/d/0BzjNw8YTUfDtZThNU2xmQkh3S1k)** | **[Тред]()** 
-
-
-
-*Скриншоты: []()*
+*Скриншоты: [Steam](https://store.steampowered.com/app/417990/)*
 
 ---
 
-### Morenatsu Revisited
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!6v4BHKAC)** | **[Тред]()** | **[FurAffinity](https://www.furaffinity.net/view/26153752/)** | **[Ren'Py source code](https://mega.nz/#!dx4n3YRS!bUIgvEOs4jTh_ct_eTkVpDzTmNfMKx3Dd5E-C9WxGpU)**
+### Morenatsu
+**[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/Morenatsu)** (en) | **[Wikia](https://morenatsu.fandom.com/wiki/Main_Page)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Morenatsu)** | **[Инструкция по установке и запуску](https://www.reddit.com/r/MorenatsuGame/comments/4pm6aw/)** (en) | **[GoogleDrive](https://docs.google.com/file/d/0BzjNw8YTUfDtZThNU2xmQkh3S1k)**
 
+Друг детства приглашает игрока посетить родную деревню, где того встречает праздничный пир в компании старых приятелей. Решив ~~ проблему двух стульев~~ с кем рядом сесть во время торжества, игрок затем начинает подкатывать яйца к данному персонажу.
 
+Оригинальная игра после десяти лет разработки была заброшена и осталась незавершённой. Английский перевод клепали любители, другие любители замахнулись на [полноценный ремейк](#homecoming—morenatsu-reivsited).
 
-*Скриншоты: []()*
+![Morenatsu screenshot](/img/screenshots/Morenatsu.jpg "Morenatsu screenshot")
+
+*Скриншоты: [Steam](https://steamcommunity.com/id/Ryanman64/screenshots/?shortcutid=89344)*
+
+---
+
+### Homecoming / Morenatsu Revisited
+**[Сайт](https://stormsingerstudios.itch.io/homecoming-morenatsu-revisited)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!6v4BHKAC)** | **[Тред]()** | **[FurAffinity](https://www.furaffinity.net/view/26153752/)** | **[Ren'Py source code](https://mega.nz/#!dx4n3YRS!bUIgvEOs4jTh_ct_eTkVpDzTmNfMKx3Dd5E-C9WxGpU)**
+
+Фанатский ремейк/доделка [оригинальной игры](#morenatsu) на новом движке (RenPy), с обновлённым графоном и завершёнными сюжетными линиями. Есть также версии под Mac и Linux.
+
+![Homecoming / Morenatsu Revisited screenshot](/img/screenshots/MorenatsuR.jpg "Homecoming / Morenatsu Revisited screenshot")
+
+*Скриншоты: [Stormsinger Studios](https://stormsingerstudios.itch.io/homecoming-morenatsu-revisited)*
 
 ---
 
 ### Nekojishi
-**[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/Nekojishi)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Nekojishi)** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!PjxnmagZ)** | **[Тред]()** 
+**[Сайт](https://www.nekojishi.games/en-index.html)** | **[itch.io](https://ojdog.itch.io/nekojishi)** | **[Steam](https://store.steampowered.com/search/?term=nekojishi)** | **[WikiFur](http://en.wikifur.com/wiki/Nekojishi)** (en) | **[Nekojishi Wiki](https://nekojishi.fandom.com/wiki/Nekojishi)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Nekojishi)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!PjxnmagZ)** 
 
+Паренёк из религиозной семьи решил променять религию на успешную карьеру и уехал в столицу, однако вдовесок натащил из дома ~~домовых~~ призраков и духов, с которыми в один прекрасный момент вошёл в зрительный (а позже и половой) контакт.
 
+Бесплатная версия неполноценна, нужно покупать DLC для того чтобы пройти игру до конца и увидеть хуйцы с жопами.
 
-*Скриншоты: []()*
+![Nekojishi screenshot](/img/screenshots/Nekojishi.jpg "Nekojishi screenshot")
+
+*Скриншоты: [itch.io](https://ojdog.itch.io/nekojishi)*
 
 ---
 
 ### Notes from the Cape
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Gn5jiabS)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/WillyBearBeach)**, [список эпизодов](https://www.patreon.com/posts/16349712) | **itch.io: _[S01E01-S01E12](https://artdecade.itch.io/notesseason1)_, _[S02E13-S02E15](https://artdecade.itch.io/notespack5)_** | **[VNDB](https://vndb.org/v23819)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Gn5jiabS)** | **[MEGA](https://mega.nz/#F!qpAgCCrB!M6PxdBjlXUSkb9NWhU5hQQ)
 
+Эпизодические игры-интерквелы [другой игры](#willy-bear-beach) про жителей тихого курортного городка, их приключения и отношения друг с другом.
 
+![Notes from the Cape screenshot](/img/screenshots/NftC.jpg "Notes from the Cape screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [itch.io](https://artdecade.itch.io/)*
 
 ---
+
 
 ### Occupational Hazards
 **[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!njg3gKDK)** | **[Тред]()** 
@@ -473,6 +489,18 @@
 *Скриншоты: []()*
 
 ---
+
+### Willy Bear Beach
+**[Patreon](https://www.patreon.com/WillyBearBeach)** | **itch.io**: _[Episode 1](https://artdecade.itch.io/willy-bear-beach)_, [Episode 2](https://artdecade.itch.io/willy-bear-beach-2) | **VNDB**: _[Episode 1](https://vndb.org/v16961)_, _[Episode 2](https://vndb.org/v17838)_** | **[WikiFur](https://en.wikifur.com/wiki/Willy_Bear_Beach)** (en) | | **[Мини-гайд](https://www.mediafire.com/?m2qg2ge16bodgp9)** | **[Demo](https://artdecade.itch.io/will-bear-beach-2-demo)** 
+
+Повседневные приключения медведа, живущего в тихом куротном городке. 
+
+![Willy Bear Beach screenshot](/img/screenshots/WBB.jpg "Willy Bear Beach screenshot")
+
+*Скриншоты: [itch.io](https://artdecade.itch.io/)*
+
+---
+
 
 ### Wolfstar: Sins and Paradise
 **[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/Wolfstar_Sins_and_Paradise)** (en) | **[itch.io](https://hyperwolfstar.itch.io/wolfstar-sins-and-paradise)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!KuwTUSLS)** | **[Тред]()** 
