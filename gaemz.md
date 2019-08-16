@@ -284,7 +284,7 @@
 ---
 
 ### Familiar Travels
-**[Kickstarter](https://www.kickstarter.com/projects/manaheim/welcome-to-manaheim-an-adult-furry-visual-novel)** | **[Steam](https://store.steampowered.com/app/1127070/)** (demo) | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!H25jyQTC)** | 
+**[Kickstarter](https://www.kickstarter.com/projects/manaheim/welcome-to-manaheim-an-adult-furry-visual-novel)** | **[Steam](https://store.steampowered.com/app/1127070/)** (demo) | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!H25jyQTC)**
 
 Игрок ~~сдал ЕГЭ и поступил в престижный вуз~~ собрался учиться в школе магов и постепенно начинает постигать её внутреннюю кухню.
 
@@ -350,7 +350,7 @@
 ---
 
 ### Major\Minor
-**[Kickstarter](https://www.kickstarter.com/projects/klace/major-minor)** | **[VNDB](https://vndb.org/v18747)** (en) | **[Steam](https://store.steampowered.com/app/417990/)** | **[Play Market](https://play.google.com/store/apps/details?id=major.minor.mobile&hl=en_US)** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/MajorMinor)** | **[WikiFur](http://en.wikifur.com/wiki/Major%5CMinor)** (en) | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!XyoBjaYR)** 
+**[Kickstarter](https://www.kickstarter.com/projects/klace/major-minor)** | **[VNDB](https://vndb.org/v18747)** | **[Steam](https://store.steampowered.com/app/417990/)** | **[Play Market](https://play.google.com/store/apps/details?id=major.minor.mobile&hl=en_US)** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/MajorMinor)** | **[WikiFur](http://en.wikifur.com/wiki/Major%5CMinor)** (en) | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!XyoBjaYR)** 
 
 Белке-фанату выпала честь сопровождать поп-звезду, приехавшую в Токио, чей визит однако омрачается серией загадочных смертей с мистическим подтекстом.
 
