@@ -527,7 +527,7 @@
 
 ## Прочие игры
 
-**_[Общая информация](#общая-информация-1)_** | *[Akasha's Gate](#akashas-gate)* | *[Anubis and the Buried Bone](#anubis-and-the-buried-bone)* | *[Bare Backstreet](#bare-backstreet)* | *[Bedplay](#bedplay)* | *[Book of Lust](#book-of-lust)* | *[Breeders of the Nephelym](#breeders-of-the-nephelym)* | *[Breeding Season](#breeding-season)* | *[Carnal Coup](#carnal-coup)* | *[Cathouse Tale](#cathouse-tale)* | *[Cloud Meadow](#cloud-meadow)* | *[Corruption of Champions](#corruption-of-champions)* | *[Crowjob in Space](#crowjob-in-space)* | *[Debauchery in Caelia Kingdoms](#debauchery-in-caelia-kingdoms)* | *[Dragon Waifu](#dragon-waifu)* | *[The Forest of Love](#the-forest-of-love)* | *[Furry Girl](#furry-girl)* | *[Future Love Space Machine](#future-love-space-machine)* | *[Happy Heart Hell](#happy-heart-hell)* | *[Happy Heart Panic](#happy-heart-panic)* | *[High Tail Hall](#high-tail-hall)* | *[Hunt and Snare](#hunt-and-snare)* | *[Kincaid](#kincaid)* | *[Knights of a Broken City (Naughty Shinobi)](#knights-of-a-broken-city-naughty-shinobi)* | *[Kobold Garden](#kobold-garden)* | *[Kobold Kare](#kobold-kare)* | *[La Bête](#la-b%C3%AAte)* | *[Leave2gether (Panthea)](#leave2gether-panthea)* | *[Legend of Krystal Rebirth](#legend-of-krystal-rebirth)* | *[Lewd Leaf Land – Maple Tea Ecstasy](#lewd-leaf-land--maple-tea-ecstasy)* | *[Lovers of Aether](#lovers-of-aether)* | *[Midnight Fireworks](#midnight-fireworks)* | *[A Night with Laverne](#a-night-with-laverne)* | *[Pigglet in Mrs Big Bad Wyvern](#pigglet-in-mrs-big-bad-wyvern)* | *[Predation](#predation)* | *[Price for Freedom Avarice](#price-for-freedom-avarice)* | *[RACK](#rack)* | *[RACK 2](#rack-2)* | *[Renapet](#renapet)* | *[Sexy Mad Science](#sexy-mad-science)* | *[Shades of Elysium](#shades-of-elysium)* | *[Something to do with Love](#something-to-do-with-love)* | *[Space Paws](#space-paws)* | *[Stones](#stones)* | *[Teraurge](#teraurge)* | *[Thirstchasm](#thirstchasm)* | *[Tigress + Others](#tigress--others)* | *[Towergirls](#towergirls)* | *[Towergirls Kingdom Conquest (Princess & Conquest)](#towergirls-kingdom-conquest-princess--conquest)* | *[Trials in Tainted Space](#trials-in-tainted-space)* | *[Usagi Star](#usagi-star)* | *[Valor and Glory](#valor-and-glory)* | *[VR Ferals](#vr-ferals)* | *[A Walk Home](#a-walk-home)* | *[Wild Life](#wild-life)* | *[Wolf Girl With You (Liru)](#wolf-girl-with-you-liru)* | *[Yiffalicious](#yiffalicious)*
+**_[Общая информация](#общая-информация-1)_** | *[Akasha's Gate](#akashas-gate)* | *[Anubis and the Buried Bone](#anubis-and-the-buried-bone)* | *[Bare Backstreets](#bare-backstreets)* | *[Bedplay](#bedplay)* | *[Book of Lust](#book-of-lust)* | *[Breeders of the Nephelym](#breeders-of-the-nephelym)* | *[Breeding Season](#breeding-season)* | *[Carnal Coup](#carnal-coup)* | *[Cathouse Tale](#cathouse-tale)* | *[Cloud Meadow](#cloud-meadow)* | *[Corruption of Champions](#corruption-of-champions)* | *[Crowjob in Space](#crowjob-in-space)* | *[Debauchery in Caelia Kingdoms](#debauchery-in-caelia-kingdoms)* | *[Dragon Waifu](#dragon-waifu)* | *[The Forest of Love](#the-forest-of-love)* | *[Furry Girl](#furry-girl)* | *[Future Love Space Machine](#future-love-space-machine)* | *[Happy Heart Hell](#happy-heart-hell)* | *[Happy Heart Panic](#happy-heart-panic)* | *[High Tail Hall](#high-tail-hall)* | *[Hunt and Snare](#hunt-and-snare)* | *[Kincaid](#kincaid)* | *[Knights of a Broken City (Naughty Shinobi)](#knights-of-a-broken-city-naughty-shinobi)* | *[Kobold Garden](#kobold-garden)* | *[Kobold Kare](#kobold-kare)* | *[La Bête](#la-b%C3%AAte)* | *[Leave2gether (Panthea)](#leave2gether-panthea)* | *[Legend of Krystal Rebirth](#legend-of-krystal-rebirth)* | *[Lewd Leaf Land – Maple Tea Ecstasy](#lewd-leaf-land--maple-tea-ecstasy)* | *[Lovers of Aether](#lovers-of-aether)* | *[Midnight Fireworks](#midnight-fireworks)* | *[A Night with Laverne](#a-night-with-laverne)* | *[Pigglet in Mrs Big Bad Wyvern](#pigglet-in-mrs-big-bad-wyvern)* | *[Predation](#predation)* | *[Price for Freedom Avarice](#price-for-freedom-avarice)* | *[RACK](#rack)* | *[RACK 2](#rack-2)* | *[Renapet](#renapet)* | *[Sexy Mad Science](#sexy-mad-science)* | *[Shades of Elysium](#shades-of-elysium)* | *[Something to do with Love](#something-to-do-with-love)* | *[Space Paws](#space-paws)* | *[Stones](#stones)* | *[Teraurge](#teraurge)* | *[Thirstchasm](#thirstchasm)* | *[Tigress + Others](#tigress--others)* | *[Towergirls](#towergirls)* | *[Towergirls Kingdom Conquest (Princess & Conquest)](#towergirls-kingdom-conquest-princess--conquest)* | *[Trials in Tainted Space](#trials-in-tainted-space)* | *[Usagi Star](#usagi-star)* | *[Valor and Glory](#valor-and-glory)* | *[VR Ferals](#vr-ferals)* | *[A Walk Home](#a-walk-home)* | *[Wild Life](#wild-life)* | *[Wolf Girl With You (Liru)](#wolf-girl-with-you-liru)* | *[Yiffalicious](#yiffalicious)*
 
 ### Общая информация
 
@@ -539,38 +539,46 @@
 ---
 
 ### Akasha's Gate
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!pxkwDSLC)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/QuixoticArts)** | **[Демо-версия](https://drive.google.com/drive/folders/1HHP_WbIDFUq1_RedkDnVeHSXjo-mw_tr)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!pxkwDSLC)** 
 
+Фентези-RPG с ~~блэкджеком и шлюхами~~ пошаговыми боями и лолями в открытом мире.
 
+![Akasha's Gate screenshot](/img/screenshots/AkashasGate.jpg "Akasha's Gate screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [Patreon](https://www.patreon.com/QuixoticArts)*
 
 ---
 
 ### Anubis and the Buried Bone
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!w9UTDaBR)** | **[Тред]()** 
+**[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=796787357)** | **[itch.io](https://harmarist.itch.io/anubis)** | **[Tumblr](https://harmarist.tumblr.com/)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!w9UTDaBR)** 
 
+Аракадная метроидвания с олдскульной 8-битной графикой про Анубиса, который шароёбится по лабиринту в поисках ~~пропавших шмоток~~ сбежавших от него душ.
 
+![Anubis and the Buried Bone screenshot](/img/screenshots/AaBB.jpg "Anubis and the Buried Bone screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [itch.io](https://harmarist.itch.io/anubis)*
 
 ---
 
-### Bare Backstreet
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!9llgTSAY)** | **[Тред]()** 
+### Bare Backstreets
+**[itch.io](https://teamamorous.itch.io/bare-backstreets)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!9llgTSAY)** 
 
+Недоделанный файтинг с фурёвыми персонажами, в котором игроку приходится отбиваться от охотников за его задницей.
 
+![Bare Backstreets screenshot](/img/screenshots/BBS.jpg "Bare Backstreets screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [GetcomiXXX](https://getcomixxx.com/index.php?newsid=3948), [YouTube](https://www.youtube.com/watch?v=ouqLu3ocLBo), [F95Zone]( https://f95zone.to/threads/7458/)*
 
 ---
 
 ### Bedplay
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg?okcEQSKZ)** | **[Тред]()** 
+**[Сайт](http://www.fek.onl/)** | **[Сайт](http://www.furaffinity.net/view/18485985/)** (FA) | **[itch.io](https://fek.itch.io/jul2019)** | **[Newgrounds](https://www.newgrounds.com/portal/view/667288)** | **[Patreon](http://www.patreon.com/fek)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg?okcEQSKZ)** 
 
+Дрочильня хорошо обездвиженных фурей самого разного пола и масти с применением физической силы или спецсредств.
 
+![Bedplay screenshot](/img/screenshots/BedPlay.jpg "Bedplay screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [FurAffinity](http://www.furaffinity.net/view/18485985/)*
 
 ---
 
@@ -808,11 +816,13 @@
 ---
 
 ### Midnight Fireworks
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg?0kdhXIYb)** | **[Тред]()** 
+**[Сайт](http://www.fek.onl/)** | **[Сайт](https://www.furaffinity.net/view/18275240/)** (FA) | **[itch.io](https://fek.itch.io/jul2019)** | **[Newgrounds](https://www.newgrounds.com/portal/view/660351)** | **[Patreon](http://www.patreon.com/fek)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg?0kdhXIYb)**
 
+Симулятор совокупления с большим количеством персонажей разных полов. Основная задача – синхронизация ритмов ебли для получения удовольствия обоими партнёрами.
 
+![Midnight Fireworks screenshot](/img/screenshots/MidnightF.jpg "Midnight Fireworks screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [F95Zone](https://f95zone.to/threads/23170/)*
 
 ---
 
@@ -853,20 +863,24 @@
 ---
 
 ### RACK
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg?BgNkQZZJ)** | **[Тред]()** 
+**[Сайт](http://www.fek.onl/)** | **[Сайт](http://www.furaffinity.net/view/18723806/)** (FA) | **[Newgrounds](https://www.newgrounds.com/portal/view/655082)** | **[itch.io](https://fek.itch.io/jul2019)** | **[Patreon](http://www.patreon.com/fek)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg?BgNkQZZJ)** 
 
+Ебалатория для проведения дрочильных экспериментов на субъектах разного пола и биологического вида, с постепенным зарабатыванием денег на новое лабораторное оборудование.
 
+![RACK screenshot](/img/screenshots/Rack.jpg "RACK screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [FurAffinity](http://www.furaffinity.net/view/18723806/)*
 
 ---
 
 ### RACK 2
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!g9lFmYAR)** | **[Тред]()** 
+**[Сайт](http://furry.science/)** | **[Patreon](http://www.patreon.com/fek)** | **[itch.io](https://fek.itch.io/jul2019)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!g9lFmYAR)**
 
+Дальнейшее развитие [ебалатории](#rack) с широчайшими возможностями для знающих толк месье и мадмуазель. Сиквел был проапргрейжен с Flash до честного 3D. Регулярно выходят билды с новыми возможностями и багами.
 
+![RACK2 screenshot](/img/screenshots/Rack2.jpg "RACK2 screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [F95Zone](https://f95zone.to/threads/734/)*
 
 ---
 
@@ -1040,6 +1054,7 @@
 *Скриншоты: []()*
 
 ---
+
 
 *[Ъ-фурёвый игорь](#ъ-фурёвый-игорь)* | *[Моды и аддоны](#моды-и-аддоны)* | *[VN](#vn)* | *[Прочие игры](#прочие-игры)*
 
