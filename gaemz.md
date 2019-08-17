@@ -527,28 +527,14 @@
 
 ## Прочие игры
 
+**_[Общая информация](#общая-информация-1)_** | *[Akasha's Gate](#akashas-gate)* | *[Anubis and the Buried Bone](#anubis-and-the-buried-bone)* | *[Bare Backstreet](#bare-backstreet)* | *[Bedplay](#bedplay)* | *[Book of Lust](#book-of-lust)* | *[Breeders of the Nephelym](#breeders-of-the-nephelym)* | *[Breeding Season](#breeding-season)* | *[Carnal Coup](#carnal-coup)* | *[Cathouse Tale](#cathouse-tale)* | *[Cloud Meadow](#cloud-meadow)* | *[Corruption of Champions](#corruption-of-champions)* | *[Crowjob in Space](#crowjob-in-space)* | *[Debauchery in Caelia Kingdoms](#debauchery-in-caelia-kingdoms)* | *[Dragon Waifu](#dragon-waifu)* | *[The Forest of Love](#the-forest-of-love)* | *[Furry Girl](#furry-girl)* | *[Future Love Space Machine](#future-love-space-machine)* | *[Happy Heart Hell](#happy-heart-hell)* | *[Happy Heart Panic](#happy-heart-panic)* | *[High Tail Hall](#high-tail-hall)* | *[Hunt and Snare](#hunt-and-snare)* | *[Kincaid](#kincaid)* | *[Knights of a Broken City (Naughty Shinobi)](#knights-of-a-broken-city-naughty-shinobi)* | *[Kobold Garden](#kobold-garden)* | *[Kobold Kare](#kobold-kare)* | *[La Bête](#la-b%C3%AAte)* | *[Leave2gether (Panthea)](#leave2gether-panthea)* | *[Legend of Krystal Rebirth](#legend-of-krystal-rebirth)* | *[Lewd Leaf Land – Maple Tea Ecstasy](#lewd-leaf-land--maple-tea-ecstasy)* | *[Lovers of Aether](#lovers-of-aether)* | *[Midnight Fireworks](#midnight-fireworks)* | *[A Night with Laverne](#a-night-with-laverne)* | *[Pigglet in Mrs Big Bad Wyvern](#pigglet-in-mrs-big-bad-wyvern)* | *[Predation](#predation)* | *[Price for Freedom Avarice](#price-for-freedom-avarice)* | *[RACK](#rack)* | *[RACK 2](#rack-2)* | *[Renapet](#renapet)* | *[Sexy Mad Science](#sexy-mad-science)* | *[Shades of Elysium](#shades-of-elysium)* | *[Something to do with Love](#something-to-do-with-love)* | *[Space Paws](#space-paws)* | *[Stones](#stones)* | *[Teraurge](#teraurge)* | *[Thirstchasm](#thirstchasm)* | *[Tigress + Others](#tigress--others)* | *[Towergirls](#towergirls)* | *[Towergirls Kingdom Conquest (Princess & Conquest)](#towergirls-kingdom-conquest-princess--conquest)* | *[Trials in Tainted Space](#trials-in-tainted-space)* | *[Usagi Star](#usagi-star)* | *[Valor and Glory](#valor-and-glory)* | *[VR Ferals](#vr-ferals)* | *[A Walk Home](#a-walk-home)* | *[Wild Life](#wild-life)* | *[Wolf Girl With You (Liru)](#wolf-girl-with-you-liru)* | *[Yiffalicious](#yiffalicious)*
+
+### Общая информация
+
 * **[Wiki: Video games featuring anthropomorphic characters](https://en.wikipedia.org/wiki/Category:Video_games_featuring_anthropomorphic_characters)** (*en*) –
 * **[WikiFur: Список оригинальных видеоигр про антропоморфов]( https://ru.wikifur.com/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BE%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80_%D0%BF%D1%80%D0%BE_%D0%B0%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%BE%D0%B2)** – 
 * [MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg) – архив игр разных жанров, собранный и регулярно обновляемый ОПом игротреда на */fur*, за что ему респект.
   * За редкими исключениями, большая часть нижеуказанных игр взята именно из этого архива.
-
----
-
-### A Night with Laverne
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!BplATAYB)** | **[Тред]()** 
-
-
-
-*Скриншоты: []()*
-
----
-
-### A Walk Home
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!5pFCmBRL)** | **[Тред]()** 
-
-
-
-*Скриншоты: []()*
 
 ---
 
@@ -677,7 +663,7 @@
 *Скриншоты: []()*
 
 ---
-### Forest of Love, the
+### The Forest of Love
 **[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/The_Forest_of_Love)** (en) | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!V9FjxCQI)** | **[Тред]()** 
 
 
@@ -823,6 +809,15 @@
 
 ### Midnight Fireworks
 **[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg?0kdhXIYb)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### A Night with Laverne
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!BplATAYB)** | **[Тред]()** 
 
 
 
@@ -1003,6 +998,15 @@
 
 ### VR Ferals
 **[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!s4tnHLZR)** | **[Тред]()** 
+
+
+
+*Скриншоты: []()*
+
+---
+
+### A Walk Home
+**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!5pFCmBRL)** | **[Тред]()** 
 
 
 
