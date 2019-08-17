@@ -12,10 +12,12 @@
 
 ## Ъ-фурёвый игорь
 
+*[Armello](#armello)* | *[Brutal: Paws of Fury]( #brutal-paws-of-fury)* | *[Conker's Bad Fur Day]( #conkers-bad-fur-day)*, *[Conker: Live & Reloaded](#conker-live--reloaded)* | *[Ghost of a Tale](#ghost-of-a-tale)* | *[Inherit the Earth: Quest for Orb](#inherit-the-earth-quest-for-orb)* | *[Lugaru, Lugaru HD](#lugaru--lugaru-hd)* | *[Night in the Woods](#night-in-the-woods)* | *[Overgrowth](#overgrowth)* | *[Seasons after Fall](#seasons-after-fall)* | *[Shelter 1, 2, 3](#shelter--shelter-2--shelter-3)* | *[Tooth & Tail](#tooth--tail)*
+
 ---
 
 ### Armello
-**[Сайт](https://armello.com)** | **[Wiki](https://ru.wikipedia.org/wiki/Armello)** | **[Торрент]( https://rutracker.org/forum/tracker.php?nm=Armello)**
+**[Сайт](https://armello.com)** | **[Wiki](https://ru.wikipedia.org/wiki/Armello)** | **[RuTracker](https://rutracker.org/forum/tracker.php?nm=Armello)**
 
 ![Armello screenshot](/img/screenshots/Armello.jpg "Armello screenshot") 
 
@@ -23,7 +25,7 @@
 
 ---
 
-### Brutal: Paws of Fury [DOS / Amiga / SMD / SNES]
+### Brutal: Paws of Fury
 **[Wiki](https://ru.wikipedia.org/wiki/Brutal:_Paws_of_Fury)** | **[WikiFur](https://ru.wikifur.com/wiki/Brutal:_Paws_of_Fury)** | **[OGRU](https://www.old-games.ru/game/944.html)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!wg1DHYga)**
 
 ![Brutal: Paws of Fury screenshot](/img/screenshots/BPoF.gif "Brutal: Paws of Fury ")
@@ -32,7 +34,7 @@
 
 ---
 
-### Conker's Bad Fur Day [Nintendo 64]
+### Conker's Bad Fur Day
 **[Wiki](https://ru.wikipedia.org/wiki/Conker%E2%80%99s_Bad_Fur_Day)** | **[WikiFur](https://ru.wikifur.com/wiki/Conker%27s_Bad_Fur_Day)** | **[ROM](http://www.emu-land.net/consoles/n64/roms?act=showonly&id=65)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!Y8FEmAgS)**
 
 
@@ -42,8 +44,8 @@
 
 ---
 
-### Conker: Live & Reloaded [XBOX]
-**[XBOX Live](https://www.microsoft.com/ru-ru/p/conker-live-and-reloaded/bvfb8cbs75r6)** | **[Wiki]( https://en.wikipedia.org/wiki/Conker:_Live_%26_Reloaded)** (en) | **[Торрент](https://rutracker.org/forum/tracker.php?f=510,887&nm=Conker)** 
+### Conker: Live & Reloaded
+**[XBOX Live](https://www.microsoft.com/ru-ru/p/conker-live-and-reloaded/bvfb8cbs75r6)** | **[Wiki]( https://en.wikipedia.org/wiki/Conker:_Live_%26_Reloaded)** (en) | **[RuTracker](https://rutracker.org/forum/tracker.php?f=510,887&nm=Conker)** 
 
 ![Conker: Live & Reloaded screenshot](/img/screenshots/CLnR.jpg "Conker: Live & Reloaded screenshot") 
 
@@ -52,7 +54,7 @@
 ---
 
 ### Ghost of a Tale
-**[Сайт](https://www.ghostofatale.com)** | **[Wiki](https://en.wikipedia.org/wiki/Ghost_of_a_Tale)** *(en)* | **[Торрент](https://rutracker.org/forum/viewtopic.php?t=5370300)**
+**[Сайт](https://www.ghostofatale.com)** | **[Wiki](https://en.wikipedia.org/wiki/Ghost_of_a_Tale)** *(en)* | **[RuTracker](https://rutracker.org/forum/viewtopic.php?t=5370300)**
 
 ![Ghost of a Tale screenshot](/img/screenshots/GOAT.jpg "Ghost of a Tale screenshot")
 
@@ -60,7 +62,7 @@
 
 ---
 
-### Inherit the Earth: Quest for Orb [DOS / AMIGA] [SCUMMVM]
+### Inherit the Earth: Quest for Orb
 **[Сайт](http://www.wyrmkeep.com/ite/)** | **[Steam](https://store.steampowered.com/app/257260/Inherit_the_Earth_Quest_for_the_Orb/)** | **[Wiki](https://ru.wikipedia.org/wiki/Inherit_the_Earth:_Quest_for_the_Orb)** | **[WikiFur](https://ru.wikifur.com/wiki/Inherit_the_Earth:_Quest_for_the_Orb)** | **[OGRU](https://www.old-games.ru/game/2547.html)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!8kkA0JDI)**
 
 ![Inherit the Earth: Quest for Orb screenshot](/img/screenshots/ITE.jpg "Inherit the Earth: Quest for Orb screenshot") 
@@ -70,7 +72,7 @@
 ---
 
 ### Lugaru / Lugaru HD
-**[Сайт](https://www.wolfire.com/lugaru)** | **[Wiki](https://ru.wikipedia.org/wiki/Lugaru)** | **[Торрент](https://rutracker.org/forum/tracker.php?f=1992,646&nm=Lugaru)**
+**[Сайт](https://www.wolfire.com/lugaru)** | **[Wiki](https://ru.wikipedia.org/wiki/Lugaru)** | **[RuTracker](https://rutracker.org/forum/tracker.php?f=1992,646&nm=Lugaru)**
 
 ![Lugaru HD screenshot](/img/screenshots/Lug.jpg "Lugaru HD screenshot") 
 
@@ -79,7 +81,7 @@
 ---
 
 ### Night in the Woods
-**[Сайт](http://www.nightinthewoods.com)** | **[Wiki](https://ru.wikipedia.org/wiki/Night_in_the_Woods)** | **[Торрент](https://rutracker.org/forum/tracker.php?f=1992,53,537&nm=woods)** 
+**[Сайт](http://www.nightinthewoods.com)** | **[Wiki](https://ru.wikipedia.org/wiki/Night_in_the_Woods)** | **[RuTracker](https://rutracker.org/forum/tracker.php?f=1992,53,537&nm=woods)** 
 
 ![Night in the Woods screenshot](/img/screenshots/NITW.jpg "Night in the Woods screenshot") 
 
@@ -88,7 +90,7 @@
 ---
 
 ### Overgrowth
-**[Сайт](https://www.wolfire.com/overgrowth)** | **[Wiki](https://ru.wikipedia.org/wiki/Overgrowth)** | **[Торрент](https://rutracker.org/forum/tracker.php?f=1992,646&nm=Overgrowth)**
+**[Сайт](https://www.wolfire.com/overgrowth)** | **[Wiki](https://ru.wikipedia.org/wiki/Overgrowth)** | **[RuTracker](https://rutracker.org/forum/tracker.php?f=1992,646&nm=Overgrowth)**
 
 ![Overgrowth screenshot](/img/screenshots/Ovg.jpg "Overgrowth screenshot") 
 
@@ -97,7 +99,7 @@
 ---
 
 ### Seasons after Fall
-**[Сайт](http://www.seasonsafterfall.com)** | **[Wiki](https://en.wikipedia.org/wiki/Seasons_After_Fall)** (en) | **[Торрент](https://rutracker.org/forum/viewtopic.php?t=5747739)**
+**[Сайт](http://www.seasonsafterfall.com)** | **[Wiki](https://en.wikipedia.org/wiki/Seasons_After_Fall)** (en) | **[RuTracker](https://rutracker.org/forum/viewtopic.php?t=5747739)**
 
 ![Seasons after Fall screenshot](/img/screenshots/SAF.jpg "Seasons after Fall screenshot") 
 
@@ -105,8 +107,8 @@
 
 ---
 
-### Shelter / Shelter 2
-**[Сайт](https://mightanddelight.com/projects)** | **[Wiki](https://en.wikipedia.org/wiki/Shelter_(video_game))** (en) | **[Торрент](https://rutracker.org/forum/tracker.php?f=1992,53,537&nm=Shelter)**
+### Shelter / Shelter 2 / Shelter 3
+**[Сайт](https://mightanddelight.com/projects)** | **[Wiki](https://en.wikipedia.org/wiki/Shelter_(video_game))** (en) | **[RuTracker](https://rutracker.org/forum/tracker.php?f=1992,53,537&nm=Shelter)**
 
 ![Shelter & Shelter 2 screenshot](/img/screenshots/Shelt.jpg "Shelter & Shelter 2 screenshot") 
 
@@ -115,7 +117,7 @@
 ---
 
 ### Tooth & Tail
-**[Сайт]( http://www.toothandtailgame.com)** | **[Wiki](https://ru.wikipedia.org/wiki/Tooth_and_Tail)** | **[Торрент](https://rutracker.org/forum/viewtopic.php?t=5452689)** 
+**[Сайт]( http://www.toothandtailgame.com)** | **[Wiki](https://ru.wikipedia.org/wiki/Tooth_and_Tail)** | **[RuTracker](https://rutracker.org/forum/viewtopic.php?t=5452689)** 
 
 ![Tooth & Tail screenshot](/img/screenshots/TnT.jpg "Tooth & Tail screenshot") 
 
@@ -123,11 +125,14 @@
 
 ---
 
+
 ## Моды и аддоны
 
 ---
 
 ## VN
+
+**_[Общая информация](#общая-информация)_** | *[AdAstra](#adastra)* | *[Amorous](#amorous)* | *[Angels with Scaly Wings](#angels-with-scaly-wings)* | *[Blackgate](#blackgate)* | *[Changeling Tale](#changeling-tale)* | *[The Crown of Leaves / Корона из листьев](#the-crown-of-leaves-%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B8%D1%81%D1%82%D1%8C%D0%B5%D0%B2)* | *[Date a Mink](#date-a-mink)* | *[DragonDate](#dragondate)* | *[Dream Molder](#dream-molder)* | *[Drifting in Circles](#drifting-in-circles)* | *[Dungeon Tail](#dungeon-tail)* | *[Echo](#echo)* | *[Extracurricular Activities](#extracurricular-activities)* | *[Familiar Travels](#familiar-travels)* | *[Forbidden Fruit](#forbidden-fruit)* | *[Four-Letter Word](#four-letter-word)* | *[Identity](#identity)* | *[Lagoon Lounge](#lagoon-lounge)* | *[Lunar](#lunar)* | *[Major\Minor](#majorminor)* | *[Morenatsu](#morenatsu)*, *[Homecoming: Morenatsu Revisited](#homecoming--morenatsu-revisited)* | *[Nekojishi](#nekojishi)* | *[Notes from the Cape](#notes-from-the-cape)* | *[Occupational Hazards](#occupational-hazards)* | *[Peach Syrup!](#peach-syrup)* | *[Project Aego](#project-aego)* | *[Repeat](#repeat)* | *[Second Chance](#second-chance)* | *[Stardust Kids / Дети звёздной пыли](#stardust-kids-%D0%B4%D0%B5%D1%82%D0%B8-%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D0%BE%D0%B9-%D0%BF%D1%8B%D0%BB%D0%B8)* | *[Tennis Ace](#tennis-ace)* | *[Uncommon Breed](#uncommon-breed)* | *[Willy Bear Beach](#willy-bear-beach)* | *[Wolfstar: Sins and Paradise](#wolfstar-sins-and-paradise)* 
 
 ### Общая информация
 
@@ -151,7 +156,7 @@
 ---
 
 ### Amorous
-**[Сайт](https://www.amorousgame.com)** | **[WikiFur](http://en.wikifur.com/wiki/Amorous)** (en) | **[Steam](https://store.steampowered.com/app/778700/)** | | **[itch.io](https://teamamorous.itch.io/amorous)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Oih13aBJ)** | 
+**[Сайт](https://www.amorousgame.com)** | **[WikiFur](http://en.wikifur.com/wiki/Amorous)** (en) | **[Steam](https://store.steampowered.com/app/778700/)** | **[itch.io](https://teamamorous.itch.io/amorous)** | **[VNDB](https://vndb.org/v22849)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Oih13aBJ)**
 
 Симулятор свиданий в ночном клубе с конструктором персонажей, девятью ебабельными персонажами всех мастей и полов и разнообразными мини-играми.
 
@@ -162,7 +167,7 @@
 ---
 
 ### Angels with Scaly Wings
-**[Сайт](http://angelswithscalywings.com)** | **[WikiFur](http://en.wikifur.com/wiki/Angels_with_Scaly_Wings)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/AngelsWithScalyWings)** | **[GamePedia](https://angelswithscalywings.gamepedia.com/Angels_with_Scaly_Wings_Wiki)** (en) | **[Humble Bundle](https://www.humblebundle.com/store/angels-with-scaly-wings-digital-deluxe-edition)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!HyhzBQ7Z)** 
+**[Сайт](http://angelswithscalywings.com)** | **[WikiFur](http://en.wikifur.com/wiki/Angels_with_Scaly_Wings)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/AngelsWithScalyWings)** | **[GamePedia](https://angelswithscalywings.gamepedia.com/Angels_with_Scaly_Wings_Wiki)** (en) | **[VNDB](https://vndb.org/v20104)** | **[Humble Bundle](https://www.humblebundle.com/store/angels-with-scaly-wings-digital-deluxe-edition)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!HyhzBQ7Z)** 
 
 После открытия портала из мира людишек в мир дроконов игрок, которого назначают послом, потихоньку обвыкается с тамошним бытом и пытается разобраться со странными недомолвками, за которыми скрывается ~~жоподраконский~~ заговор.
 
@@ -173,7 +178,7 @@
 ---
 
 ### Blackgate
-**[Сайт](https://www.patreon.com/blackgategame)** | **[Blackgate Wiki](https://blackgate.fandom.com/wiki/Blackgate_Wiki)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Blackgate)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!f6gxVCTK)** 
+**[Сайт](https://www.patreon.com/blackgategame)** | **[Blackgate Wiki](https://blackgate.fandom.com/wiki/Blackgate_Wiki)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Blackgate)** | **[VNDB](https://vndb.org/v16171)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!f6gxVCTK)** 
 
 Однажды ночью на пустынной дороге у игрока ломается машина, после чего его арестовывает неизвестно откуда взявшийся полицейский и препровождает в ~~Зверополис~~ город, заселённый исключительно фурями и монстрами.
 
@@ -184,7 +189,7 @@
 ---
 
 ### Changeling Tale
-**[Patreon](https://www.patreon.com/LittleNapoleon)** | **[itch.io](https://littlenapoleon.itch.io/changelingtale)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Xz5xUKJR)** | 
+**[Patreon](https://www.patreon.com/LittleNapoleon)** | **[itch.io](https://littlenapoleon.itch.io/changelingtale)** | **[VNDB](https://vndb.org/v21616)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Xz5xUKJR)**
 
 Вернувшись с войны на гражданку и занявшись сельским хозяйством, игрок случайно узнаёт страшную тайну девок с соседской фермы, которые умеют превращаются в тёлочек, кобылочек, сучечек и далее по списку.
 
@@ -194,8 +199,8 @@
 
 ---
 
-### Crown of Leaves, the (Корона из листьев)
-**[Steam](https://store.steampowered.com/app/604330/)** | **[itch.io](https://the-broken-horn.itch.io/the-crown-of-leaves)** | **[VK](https://vk.com/the_crown_of_leaves)** **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!q74VxALL)** 
+### The Crown of Leaves (Корона из листьев)
+**[Steam](https://store.steampowered.com/app/604330/)** | **[itch.io](https://the-broken-horn.itch.io/the-crown-of-leaves)** | **[VK](https://vk.com/the_crown_of_leaves)** | **[VNDB](https://vndb.org/v24743)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!q74VxALL)** 
 
 
 У игрока, зарабатывающего ювелирными подработками, некий злой дух спиздил почти готовый заказ, и тому ничего другого не остаётся как заняться поисками, заодно раскрывая странности родного Мухосранска.
@@ -207,7 +212,7 @@
 ---
 
 ### Date a Mink
-**[Patreon](https://www.patreon.com/furrgroup)** | **[itch.io](https://furrgroup.itch.io/date-a-mink)** | **[WikiFur](http://en.wikifur.com/wiki/Date_a_Mink)** (en) | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!b25DQCxb)**
+**[Patreon](https://www.patreon.com/furrgroup)** | **[itch.io](https://furrgroup.itch.io/date-a-mink)** | **[WikiFur](http://en.wikifur.com/wiki/Date_a_Mink)** (en) | **[VNDB](https://vndb.org/v20960)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!b25DQCxb)**
 
 Игра про ~~кассира в Макдональдсе~~ баристу, который дрочит на зачастившую в кофейню норочку и пытается развести её на потрахушки.
 
@@ -218,7 +223,7 @@
 ---
 
 ### DragonDate
-**[Сайт](https://www.akemari.com/)** | **[Kickstarter](https://www.kickstarter.com/projects/2032174474/dragon-date-adult-visual-novel)** | **[Patreon](https://www.patreon.com/akemari)** | **[Демоверсия](https://drive.google.com/drive/folders/0B7oGzS46c4wTUXdKd0NDRUw0enc)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!DmgzASZK)** 
+**[Сайт](https://www.akemari.com/)** | **[Kickstarter](https://www.kickstarter.com/projects/2032174474/dragon-date-adult-visual-novel)** | **[Patreon](https://www.patreon.com/akemari)** | **[VNDB](https://vndb.org/v19970)** | **[Демоверсия](https://drive.google.com/drive/folders/0B7oGzS46c4wTUXdKd0NDRUw0enc)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!DmgzASZK)** 
 
 Симулятор свиданий, в котором главный герой вызвался *приручить дроконов*, но все вверенные ему экземпляры на поверку обернулись ящеродевочками.
 
@@ -229,7 +234,7 @@
 ---
 
 ### Dream Molder
-**[Сайт](https://indarkwaters.com/games/dream-molder.html)** | **[Patreon](https://www.patreon.com/InDarkWaters)** | **[Blogspot](https://in-dark-waters.blogspot.com/p/dream-molder-h-scene-demos.html)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!36gBhIBa)** | 
+**[Сайт](https://indarkwaters.com/games/dream-molder.html)** | **[Patreon](https://www.patreon.com/InDarkWaters)** | **[Blogspot](https://in-dark-waters.blogspot.com/p/dream-molder-h-scene-demos.html)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!36gBhIBa)**
 
 Игрок, когда-то подобравший и выходивший покемона, спустя много лет вновь сталкивается с уже подросшей и эволюционировавшей тварью.
 
@@ -240,9 +245,9 @@
 ---
 
 ### Drifting in Circles
-**[Patreon](https://www.patreon.com/littanana)** | **[itch.io](https://nadianova.itch.io/drifting-in-circles)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!qqwh1CYK)** | 
+**[Patreon](https://www.patreon.com/littanana)** | **[itch.io](https://nadianova.itch.io/drifting-in-circles)** | **[VNDB](https://vndb.org/v25644)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!qqwh1CYK)**
 
-Молодой человек собрался было покорять своим художественным талантом, но обломался, так что пришлось вернуться обратно к мамке в хату, но уже как молодой девушке.
+Молодой человек собрался было покорять своим художественным талантом, но обломался, так что пришлось вернуться обратно к мамке в хату – но уже в виде молодой девушки.
 
 ![Drifting in Circles screenshot](/img/screenshots/DiC.jpg "Drifting in Circles screenshot")
 
@@ -251,7 +256,7 @@
 ---
 
 ### Dungeon Tail
-**[Patreon](https://www.patreon.com/omegaozone)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!quwjSSBZ)** | 
+**[Patreon](https://www.patreon.com/omegaozone)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!quwjSSBZ)**
 
 Волк-воин и зайка-маг шароёбятся по подземельям, разгадывая загадки и предаваясь непотребствам.
 
@@ -262,7 +267,7 @@
 ---
 
 ### Echo
-**[Patreon](https://www.patreon.com/EchoGame)** | **[WikiFur](http://en.wikifur.com/wiki/Echo_(game))** (en) | **[itch.io](https://echoproject.itch.io/echo)** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Echo)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!2mgBQKQS)** 
+**[Patreon](https://www.patreon.com/EchoGame)** | **[WikiFur](http://en.wikifur.com/wiki/Echo_(game))** (en) | **[itch.io](https://echoproject.itch.io/echo)** | **[VNDB](https://vndb.org/v18157)** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Echo)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!2mgBQKQS)** 
 
 Студент-журналист во время каникул решает встретиться со старыми друзьями в родном городе, что запускает цепочку странных событий в духе Дэвида Линча.
 
@@ -273,7 +278,7 @@
 ---
 
 ### Extracurricular Activities
-**[Patreon](https://www.patreon.com/dk999)** | **[itch.io](https://dynewulf.itch.io/extracurricular-activities)** | **[Extracurricular Activities Wikia](https://extracurricular-activities-game.fandom.com/wiki/Extracurricular_Activities)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/ExtracurricularActivities)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Hmw1WQLS)** | 
+**[Patreon](https://www.patreon.com/dk999)** | **[itch.io](https://dynewulf.itch.io/extracurricular-activities)** | **[VNDB](https://vndb.org/v19543)** | **[Extracurricular Activities Wikia](https://extracurricular-activities-game.fandom.com/wiki/Extracurricular_Activities)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/ExtracurricularActivities)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Hmw1WQLS)**
 
 В теннисном клубе игрок пытается подкатить ~~мячики~~ шары к одному из пяти других игроков его команды (которые, судя по внешнему облику, перешли в лёгкую атлетику из тяжёлой).
 
@@ -284,7 +289,7 @@
 ---
 
 ### Familiar Travels
-**[Kickstarter](https://www.kickstarter.com/projects/manaheim/welcome-to-manaheim-an-adult-furry-visual-novel)** | **[Steam](https://store.steampowered.com/app/1127070/)** (demo) | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!H25jyQTC)**
+**[Kickstarter](https://www.kickstarter.com/projects/manaheim/welcome-to-manaheim-an-adult-furry-visual-novel)** | **[Steam](https://store.steampowered.com/app/1127070/)** (demo) | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!H25jyQTC)** 
 
 Игрок ~~сдал ЕГЭ и поступил в престижный вуз~~ собрался учиться в школе магов и постепенно начинает постигать её внутреннюю кухню.
 
@@ -317,9 +322,9 @@
 ---
 
 ### Identity
-**[Patreon](https://www.patreon.com/Identity)** | **[FurAffinity](https://www.furaffinity.net/user/identitygame)** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!zqgzTQpD)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/Identity)** | **[FurAffinity](https://www.furaffinity.net/user/identitygame)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!zqgzTQpD)**
 
-Игрок приходит в себя в незнакомом лесу, страдая от ~~похмелья~~ амнезии, и пытается понять что к чему через общение с представившимися "старыми друзьями" ящеркиками.
+Игрок приходит в себя в незнакомом лесу, страдая от ~~похмелья~~ амнезии, и пытается понять, что к чему, через общение с ящериками, представляющимися "старыми друзьями".
 
 ![Identity screenshot](/img/screenshots/Identity.jpg "Identity screenshot")
 
@@ -328,7 +333,7 @@
 ---
 
 ### Lagoon Lounge
-**[Сайт](http://kemono.cc/hidamaru/)** (jp) | **[Сайт](http://www.kaiju09.com/lagoonloungeEnglish/)** (HD Remake) | **[Steam](https://store.steampowered.com/app/857690/)** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/LagoonLounge)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!GiwX0KiY)** | 
+**[Сайт](http://kemono.cc/hidamaru/)** (jp) | **[Сайт](http://www.kaiju09.com/lagoonloungeEnglish/)** (HD Remake) | **[Steam](https://store.steampowered.com/app/857690/)** | **[VNDB](https://vndb.org/v12099)** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/LagoonLounge)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!GiwX0KiY)**
 
 Игрок, выгоревший на работе, решает ~~поправить здоровье~~ сменить вид деятельности и устраивается официантом в ресторан курортного городка, где пытается на протяжении трёх игр разобраться в творящейся там мистике.
 
@@ -350,7 +355,7 @@
 ---
 
 ### Major\Minor
-**[Kickstarter](https://www.kickstarter.com/projects/klace/major-minor)** | **[VNDB](https://vndb.org/v18747)** | **[Steam](https://store.steampowered.com/app/417990/)** | **[Play Market](https://play.google.com/store/apps/details?id=major.minor.mobile&hl=en_US)** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/MajorMinor)** | **[WikiFur](http://en.wikifur.com/wiki/Major%5CMinor)** (en) | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!XyoBjaYR)** 
+**[Kickstarter](https://www.kickstarter.com/projects/klace/major-minor)** | **[Steam](https://store.steampowered.com/app/417990/)** | **[VNDB](https://vndb.org/v18747)** | **[Play Market](https://play.google.com/store/apps/details?id=major.minor.mobile&hl=en_US)** | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/MajorMinor)** | **[WikiFur](http://en.wikifur.com/wiki/Major%5CMinor)** (en) | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!XyoBjaYR)** 
 
 Белке-фанату выпала честь сопровождать поп-звезду, приехавшую в Токио, чей визит однако омрачается серией загадочных смертей с мистическим подтекстом.
 
@@ -361,7 +366,7 @@
 ---
 
 ### Morenatsu
-**[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/Morenatsu)** (en) | **[Wikia](https://morenatsu.fandom.com/wiki/Main_Page)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Morenatsu)** | **[Инструкция по установке и запуску](https://www.reddit.com/r/MorenatsuGame/comments/4pm6aw/)** (en) | **[GoogleDrive](https://docs.google.com/file/d/0BzjNw8YTUfDtZThNU2xmQkh3S1k)**
+**[VNDB](https://vndb.org/v6487)** | **[WikiFur](http://en.wikifur.com/wiki/Morenatsu)** (en) | **[Wikia](https://morenatsu.fandom.com/wiki/Main_Page)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Morenatsu)** | **[Инструкция по установке и запуску](https://www.reddit.com/r/MorenatsuGame/comments/4pm6aw/)** (en) | **[GoogleDrive](https://docs.google.com/file/d/0BzjNw8YTUfDtZThNU2xmQkh3S1k)**
 
 Друг детства приглашает игрока посетить родную деревню, где того встречает праздничный пир в компании старых приятелей. Решив ~~ проблему двух стульев~~ с кем рядом сесть во время торжества, игрок затем начинает подкатывать яйца к данному персонажу.
 
@@ -374,7 +379,7 @@
 ---
 
 ### Homecoming / Morenatsu Revisited
-**[Сайт](https://stormsingerstudios.itch.io/homecoming-morenatsu-revisited)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!6v4BHKAC)** | **[Тред]()** | **[FurAffinity](https://www.furaffinity.net/view/26153752/)** | **[Ren'Py source code](https://mega.nz/#!dx4n3YRS!bUIgvEOs4jTh_ct_eTkVpDzTmNfMKx3Dd5E-C9WxGpU)**
+**[Сайт](https://stormsingerstudios.itch.io/homecoming-morenatsu-revisited)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!6v4BHKAC)** | **[VNDB](https://vndb.org/r62644)** | **[FurAffinity](https://www.furaffinity.net/view/26153752/)** | **[Source code](https://mega.nz/#!dx4n3YRS!bUIgvEOs4jTh_ct_eTkVpDzTmNfMKx3Dd5E-C9WxGpU)** (Ren'Py)
 
 Фанатский ремейк/доделка [оригинальной игры](#morenatsu) на новом движке (RenPy), с обновлённым графоном и завершёнными сюжетными линиями. Есть также версии под Mac и Linux.
 
@@ -385,7 +390,7 @@
 ---
 
 ### Nekojishi
-**[Сайт](https://www.nekojishi.games/en-index.html)** | **[itch.io](https://ojdog.itch.io/nekojishi)** | **[Steam](https://store.steampowered.com/search/?term=nekojishi)** | **[WikiFur](http://en.wikifur.com/wiki/Nekojishi)** (en) | **[Nekojishi Wiki](https://nekojishi.fandom.com/wiki/Nekojishi)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Nekojishi)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!PjxnmagZ)** 
+**[Сайт](https://www.nekojishi.games/en-index.html)** | **[itch.io](https://ojdog.itch.io/nekojishi)** | **[Steam](https://store.steampowered.com/search/?term=nekojishi)** | **[VNDB](https://vndb.org/v22149)** | **[WikiFur](http://en.wikifur.com/wiki/Nekojishi)** (en) | **[Nekojishi Wiki](https://nekojishi.fandom.com/wiki/Nekojishi)** (en) | **[TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Nekojishi)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!PjxnmagZ)** 
 
 Паренёк из религиозной семьи решил променять религию на успешную карьеру и уехал в столицу, однако вдовесок натащил из дома ~~домовых~~ призраков и духов, с которыми в один прекрасный момент вошёл в зрительный (а позже и половой) контакт.
 
@@ -398,7 +403,7 @@
 ---
 
 ### Notes from the Cape
-**[Patreon](https://www.patreon.com/WillyBearBeach)**, [список эпизодов](https://www.patreon.com/posts/16349712) | **itch.io**: _[S01E01...S01E12](https://artdecade.itch.io/notesseason1)_, _[S02E13...S02E15](https://artdecade.itch.io/notespack5)_ | **[VNDB](https://vndb.org/v23819)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Gn5jiabS)** | **[MEGA](https://mega.nz/#F!qpAgCCrB!M6PxdBjlXUSkb9NWhU5hQQ)** (Win&Mac)
+**[Patreon](https://www.patreon.com/WillyBearBeach)**, _[список эпизодов](https://www.patreon.com/posts/16349712)_ | **[itch.io](https://artdecade.itch.io/notesseason1)** | **[VNDB](https://vndb.org/v23819)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Gn5jiabS)** | **[MEGA](https://mega.nz/#F!qpAgCCrB!M6PxdBjlXUSkb9NWhU5hQQ)** (Win & Mac)
 
 Эпизодические игры-интерквелы [другой игры](#willy-bear-beach) про жителей тихого курортного городка, их приключения и отношения друг с другом.
 
@@ -408,90 +413,98 @@
 
 ---
 
-
 ### Occupational Hazards
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!njg3gKDK)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/SamanthaSnow)** | **Newgrounds**: _[E01](https://www.newgrounds.com/portal/view/710671)_, _[E02](https://www.newgrounds.com/portal/view/730829)_ | **[Wallkthrough](https://docs.google.com/document/d/15x0YKD0OQehiTNZxzN_rCE98s58mzYlK1IM2UjHc1FI/edit)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!njg3gKDK)**
 
+Космическая дальнобойщица выполняет профессиональное задание, попутно попадая во всяческие весёлые ситуации.
 
+Вся графика в игре неоригинальная, позаимствованная у разных художников якобы с их согласия.
 
-*Скриншоты: []()*
+![Occupational Hazards screenshot](/img/screenshots/OccupHaz.jpg "Occupational Hazards screenshot")
+
+*Скриншоты: [FapNation](https://fap-nation.com/occupational-hazards/), [Patreon](https://www.patreon.com/SamanthaSnow)*
 
 ---
 
 ### Peach Syrup!
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!L74zmA7A)** | **[Тред]()** 
+**[Сайт](https://payhip.com/b/xNkP)** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!L74zmA7A)** 
 
+Пока мама-зайка на работе, игрок нянькается с шотазаем и лолизаечкой. В наличиии кабота с обнажёнкой, но без сексуального контента. `лолщито?`
 
+![Peach Syrup! screenshot](/img/screenshots/PeachS.jpg "Peach Syrup! screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [F95Zone]( https://f95zone.to/threads/17050/)*
 
 ---
 
 ### Project Aego
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!rqhXTaYC)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/aego)** | **[F95Zone](https://f95zone.to/threads/12688/)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!rqhXTaYC)** 
 
+После трагического происшествия в семье двое юношей-близнецов оказываются в городе, погрязшем в коррупции и взяточничестве, и пытаются разобраться в происходящем и происшедшем.
 
+![Project Aego screenshot](/img/screenshots/PrAego.jpg "Project Aego screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [Twitter](https://twitter.com/ProjectAego/media), [Patreon](https://www.patreon.com/aego), [F95Zone](https://f95zone.to/threads/12688/)*
 
 ---
 
 ### Repeat
-**[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/Repeat)** (en) | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!n6pTTC5I)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/shirokoi)** | **[WikiFur](http://en.wikifur.com/wiki/Repeat)** (en) | **[Wikia](https://repeat.fandom.com/wiki/Repeat_Wikia)** (en) | **[VNDB](https://vndb.org/v20147)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!n6pTTC5I)** 
 
+В летней школе для одарённых подростков к одному из учеников заявляется призрак и впутывает его в странные отношения с другими учениками и потусторонними силами.
 
+![Repeat screenshot](/img/screenshots/Repeat.jpg "Repeat screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [Patreon](https://www.patreon.com/shirokoi)*
 
 ---
 
 ### Second Chance
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!7nghlApL)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/sc)** | **[itch.io](https://coman.itch.io/second-chance)** | **[Steam](https://store.steampowered.com/app/958720/)** | **[VNDB](https://vndb.org/v20146)** | **[VK](https://vk.com/sc_thegame)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!7nghlApL)**
 
+Страдающей от амнезии игрок оказывается на вокзале в компании драконши, уверяющей, что он приехал по программе обмена в местный университет.
 
+![Second Chance screenshot](/img/screenshots/SChance.jpg "Second Chance screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [itch.io](https://coman.itch.io/second-chance)*
 
 ---
 
 ### Stardust Kids (Дети звёздной пыли)
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!O7wxhKSQ)** | **[Тред]()** 
+**[Сайт](https://anivisual.net/stuff/2-1-0-1350)** | **[VK](https://vk.com/stardustkids)** | **[VNDB](https://vndb.org/v23306)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!O7wxhKSQ)** 
 
+Главный герой обнаруживает ~~кражу~~ пропажу инвентаря в школьном астрономическом клубе и приступает к поискам.
 
+![Stardust Kids (Дети звёздной пыли) screenshot](/img/screenshots/SDK.jpg "Stardust Kids (Дети звёздной пыли) screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [AniVisual.net](https://anivisual.net/stuff/2-1-0-1350)*
 
 ---
 
 ### Tennis Ace
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!PjwxAQzI)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/tennisace)** | **[itch.io](https://wotbasket.itch.io/tennis-ace)** | **[Tennis Ace Wiki](https://tennis-ace.fandom.com/wiki/Tennis_Ace_Wiki)** (en) | **[VNDB](https://vndb.org/v22837)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!PjwxAQzI)**
 
+Ученик спортивной школы, долгое время пинавший хуи, внезапно понял, что в большой спорт не так-то просто пробиться, решил поднапрячься и стать _the best ~~penis~~ tennis player_.
 
+![Tennis Ace screenshot](/img/screenshots/TAce.jpg "Tennis Ace screenshot")
 
-*Скриншоты: []()*
-
----
-
-### Stardust Kids (Дети звёздной пыли)
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!KuwTUSLS)** | **[Тред]()** 
-
-
-
-*Скриншоты: []()*
+*Скриншоты: [itch.io](https://wotbasket.itch.io/tennis-ace)*
 
 ---
 
 ### Uncommon Breed
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Gr5VVChI)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/UncommonBreedVn)** | **[itch.io](https://uncommonbreedvn.itch.io/)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!Gr5VVChI)**
 
+Симулятор свиданий с элементами RPG, где для наведения общественного порядка в городе игрок собирает ~~отряд казаков~~ шайку бандитов, разными способами уговаривая персонажей присоединиться ~~к оргии~~.
 
+![Uncommon Breed screenshot](/img/screenshots/UCB.jpg "Uncommon Breed screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [Twitter](https://twitter.com/UncommonBreedVN), [Patreon](https://www.patreon.com/UncommonBreedVn)*
 
 ---
 
 ### Willy Bear Beach
-**[Patreon](https://www.patreon.com/WillyBearBeach)** | **itch.io**: _[Episode 1](https://artdecade.itch.io/willy-bear-beach)_, [Episode 2](https://artdecade.itch.io/willy-bear-beach-2) | **VNDB**: _[Episode 1](https://vndb.org/v16961)_, _[Episode 2](https://vndb.org/v17838)_ | **[WikiFur](https://en.wikifur.com/wiki/Willy_Bear_Beach)** (en) | **[Мини-гайд](https://www.mediafire.com/?m2qg2ge16bodgp9)** | **[Demo](https://artdecade.itch.io/will-bear-beach-2-demo)** 
+**[Patreon](https://www.patreon.com/WillyBearBeach)** | **itch.io**: _[E01](https://artdecade.itch.io/willy-bear-beach)_, _[E02](https://artdecade.itch.io/willy-bear-beach-2)_ | **VNDB**: _[E01](https://vndb.org/v16961)_, _[E02](https://vndb.org/v17838)_ | **[WikiFur](https://en.wikifur.com/wiki/Willy_Bear_Beach)** (en) | **[Мини-гайд](https://www.mediafire.com/?m2qg2ge16bodgp9)** | **[Demo](https://artdecade.itch.io/will-bear-beach-2-demo)** 
 
 Повседневные приключения медведа, живущего в тихом куротном городке. 
 
@@ -501,9 +514,10 @@
 
 ---
 
-
 ### Wolfstar: Sins and Paradise
-**[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/Wolfstar_Sins_and_Paradise)** (en) | **[itch.io](https://hyperwolfstar.itch.io/wolfstar-sins-and-paradise)** | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!KuwTUSLS)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/Wolfstar)** | **[itch.io](https://hyperwolfstar.itch.io/wolfstar-sins-and-paradise)** | **[WikiFur](http://en.wikifur.com/wiki/Wolfstar_Sins_and_Paradise)** (en) | **[MEGA](https://mega.nz/#F!2yxllKjC!iMu4_e1wHzkkAXODYKJoIw!KuwTUSLS)** 
+
+Свежепреставившийся герой вместе с другом оказываются в ~~Чистилище~~ загробном мегаполисе, где ради спасения ~~души~~ ~~жопы~~ от местных рэкетиров вынуждены зарабатывать в сфере секс-индустрии.
 
 ![Wolfstar: Sins and Paradise screenshot](/img/screenshots/WSnP.jpg " Wolfstar: Sins and Paradise screenshot")
 
