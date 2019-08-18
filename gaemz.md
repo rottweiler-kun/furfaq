@@ -631,7 +631,7 @@
 ### Cathouse Tale
 **[Сайт](https://cathousetale.com/game/)** | **[Patreon](https://www.patreon.com/thecathousetale)** | **[Discord](https://discord.gg/a5nDtFt)** | **[WikiFur](https://en.wikifur.com/wiki/The_Cathouse_Tale)** (en) | **[Reddit](https://www.reddit.com/r/yiff/comments/5a0bs2/)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!gktnHZQZ)** 
 
-История успеха скромного работника борделя: работай с нужными клиентами, прокачивай ебальные навыки, ~~подсиживай~~ взаимодействуй с более опытными коллегами и взлетай по карьерной лестнице вплоть до ~~директора~~ владельца.
+История успеха скромного работника борделя: работай с нужными клиентами, прокачивай ебальные навыки, ~~подсиживай~~ взаимодействуй с более опытными коллегами и взлетай по карьерной лестнице вплоть до ~~директора~~ владельца публичного дома.
 
 ![Cathouse Tale screenshot](/img/screenshots/CHT.jpg "Cathouse Tale screenshot")
 
@@ -642,7 +642,7 @@
 ### Cloud Meadow
 **[Сайт](http://cloudmeadowgame.com/)** | **[Patreon](https://www.patreon.com/CloudMeadow)** | **[Cloud Meadow Wiki](https://cloud-meadow.fandom.com/wiki/Cloud_Meadow_Wiki)** | **[Discord](https://discord.gg/6ASAxDF)** | **[Reddit](https://www.reddit.com/r/CloudMeadowGame)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!d1kFQK7Z)** | **[Тред]()** 
 
-Очередная игра про зверозаводчиков, отличающаяся от других клонов Весёлой Фермы наличием двух режимов: либо спокойное ~~копание грядок~~ занятие фермерским хозяйством и поёбывание монстриков, либо шароёбство по подземельям в компании специально надроченных зверюг с выбиванием очков экспы из врагов и сундучков. 
+Очередная игра про зверозаводчиков, отличающаяся от других клонов Весёлой Фермы наличием двух режимов: либо спокойное ~~копание грядок~~ занятие фермерским хозяйством и поёбывание монстриков, либо шароёбство по руинам в компании специально надроченных зверюг с выбиванием очков экспы из врагов и сундучков. 
 
 ![Cloud Meadow screenshot](/img/screenshots/CloudM.jpg "Cloud Meadow screenshot")
 
