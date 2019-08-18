@@ -583,58 +583,73 @@
 ---
 
 ### Book of Lust
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!10MwCK4D)** | **[Тред]()** 
+**[Сайт](https://kanashiipanda.com/games/book-of-lust/)** | **[Patreon](https://www.patreon.com/kanashiipanda)** | **[TFGames](https://tfgames.site/index.php?module=viewgame&id=1370)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!10MwCK4D)**
 
+Неосторожно обращаясь с волшебной книгой, игрок случайно выпускает на волю суккуба, после чего начинается оргия с семьёй и соседями, включающая насылание чар, обмен телами и прочее читерство, почерпнутое героем из книги.
 
+![Book of Lust screenshot](/img/screenshots/BoL.jpg "Book of Lust screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [F95Zone](https://f95zone.to/threads/4283/), [U18Chan](https://u18chan.com/a/topic/1325095), [TFGames](https://tfgames.site/index.php?module=viewgame&id=1370)*
 
 ---
 
 ### Breeders of the Nephelym
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!VlE1FCAJ)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/BreedersOfTheNephelym)** | **[Discord](https://discordapp.com/invite/6DpR6sb)** | **[Breeders of the Nephelym Wiki](https://breedersofthenephelym.miraheze.org/wiki/Main_Page)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!VlE1FCAJ)**
 
+~~DLC к Spore~~ Получаем очки экспы за отлов, одомашнивание и разведение антропоморфнымх монстров с целью получения новых гибридов. С любым вуглускром можно ебаться в эстетических, воспитательных или романтических целях. Доктор Моро одобряэ.
 
+![Breeders of the Nephelym screenshot](/img/screenshots/BotN.jpg "Breeders of the Nephelym screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [F95Zone](https://f95zone.to/threads/2483/)*
 
 ---
 
 ### Breeding Season
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!x49QhYaD)** | **[Тред]()** 
+**[Blogspot](https://breedingseasongame.blogspot.com/)** | **[Newgrounds](https://www.newgrounds.com/portal/view/638898)** | **[Breeding Season Wikia](https://breeding-season.fandom.com/wiki/Breeding_Season_Wikia)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!x49QhYaD)**
 
+Весёлая ферма с еблёй, где которой можно строить загоны для ~~фурфагов~~ монстров, прокачивать их путём скрещивания и разводить на продажу. 
 
+Благодаря щедрым спонсорам с Патреона деньги к разработчикам текли рекой, пока в один прекрасный момент те не [разосрались](https://vamers.com/2016/07/22/patreon-most-funded-game-breeding-season-cancelled/) из-за того, что художник решил клепать [похожую игру с еблёй и подземельями](#cloud-meadow), оставив команду ~~хуй без соли доедать~~ без прав использования в игре своей графики.
 
-*Скриншоты: []()*
+![Breeding Season screenshot](/img/screenshots/BreedingS.jpg "Breeding Season screenshot")
+
+*Скриншоты: [Breeding Season Wikia](https://breeding-season.fandom.com/wiki/Special:Images)*
 
 ---
 
 ### Carnal Coup
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!UlER0YRB)** | **[Тред]()** 
+**[Сайт](https://carnalcoup.blogspot.com/)** | **[Patreon](https://www.patreon.com/CarnalCoup)** | **[itch.io](https://dascoot.itch.io/coup)** | **[Newgrounds](https://www.newgrounds.com/portal/view/732329)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!UlER0YRB)**
 
+Текстовый квест по алиена, пытающегося противостоять гуманитарной ~~бомбардировке~~ интервенции. Проникнув глубоко в тыл врага и используя умение принимать чужой облик, он готов ~~жопой~~ грудью встать на защиту родной планеты. 
 
+![Carnal Coup screenshot](/img/screenshots/CarnalC.jpg "Carnal Coup screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [F95Zone](https://f95zone.to/threads/3489), [Patreon](https://www.patreon.com/CarnalCoup)*
 
 ---
 
 ### Cathouse Tale
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!gktnHZQZ)** | **[Тред]()** 
+**[Сайт](https://cathousetale.com/game/)** | **[Patreon](https://www.patreon.com/thecathousetale)** | **[Discord](https://discord.gg/a5nDtFt)** | **[WikiFur](https://en.wikifur.com/wiki/The_Cathouse_Tale)** (en) | **[Reddit](https://www.reddit.com/r/yiff/comments/5a0bs2/)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!gktnHZQZ)** 
 
+История успеха скромного работника борделя: работай с нужными клиентами, прокачивай ебальные навыки, ~~подсиживай~~ взаимодействуй с более опытными коллегами и взлетай по карьерной лестнице вплоть до ~~директора~~ владельца.
 
+![Cathouse Tale screenshot](/img/screenshots/CHT.jpg "Cathouse Tale screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [F95Zone](https://f95zone.to/threads/641/), [Imgur](https://imgur.com/a/YTQEm)*
 
 ---
 
 ### Cloud Meadow
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!d1kFQK7Z)** | **[Тред]()** 
+**[Сайт](http://cloudmeadowgame.com/)** | **[Patreon](https://www.patreon.com/CloudMeadow)** | **[Cloud Meadow Wiki](https://cloud-meadow.fandom.com/wiki/Cloud_Meadow_Wiki)** | **[Discord](https://discord.gg/6ASAxDF)** | **[Reddit](https://www.reddit.com/r/CloudMeadowGame)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!d1kFQK7Z)** | **[Тред]()** 
 
+Очередная игра про зверозаводчиков, отличающаяся от других клонов Весёлой Фермы наличием двух режимов: либо спокойное ~~копание грядок~~ занятие фермерским хозяйством и поёбывание монстриков, либо шароёбство по подземельям в компании специально надроченных зверюг с выбиванием очков экспы из врагов и сундучков. 
 
+![Cloud Meadow screenshot](/img/screenshots/CloudM.jpg "Cloud Meadow screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [F95Zone](https://f95zone.to/threads/30/), [Small-Games](https://small-games.info/?go=game&c=79&i=26133)*
 
 ---
+
 
 ### Corruption of Champions
 **[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!cgVWlQ6K)** | **[Тред]()** 
