@@ -527,7 +527,7 @@
 
 ## Прочие игры
 
-**_[Общая информация](#общая-информация-1)_** | *[Akasha's Gate](#akashas-gate)* | *[Anubis and the Buried Bone](#anubis-and-the-buried-bone)* | *[Bare Backstreets](#bare-backstreets)* | *[Bedplay](#bedplay)* | *[Book of Lust](#book-of-lust)* | *[Breeders of the Nephelym](#breeders-of-the-nephelym)* | *[Breeding Season](#breeding-season)* | *[Carnal Coup](#carnal-coup)* | *[Cathouse Tale](#cathouse-tale)* | *[Cloud Meadow](#cloud-meadow)* | *[Corruption of Champions](#corruption-of-champions)* | *[Crowjob in Space](#crowjob-in-space)* | *[Debauchery in Caelia Kingdoms](#debauchery-in-caelia-kingdoms)* | *[Dragon Waifu](#dragon-waifu)* | *[The Forest of Love](#the-forest-of-love)* | *[Furry Girl](#furry-girl)* | *[Future Love Space Machine](#future-love-space-machine)* | *[Happy Heart Hell](#happy-heart-hell)* | *[Happy Heart Panic](#happy-heart-panic)* | *[High Tail Hall](#high-tail-hall)* | *[Hunt and Snare](#hunt-and-snare)* | *[Kincaid](#kincaid)* | *[Knights of a Broken City (Naughty Shinobi)](#knights-of-a-broken-city-naughty-shinobi)* | *[Kobold Garden](#kobold-garden)* | *[Kobold Kare](#kobold-kare)* | *[La Bête](#la-b%C3%AAte)* | *[Leave2gether (Panthea)](#leave2gether-panthea)* | *[Legend of Krystal Rebirth](#legend-of-krystal-rebirth)* | *[Lewd Leaf Land – Maple Tea Ecstasy](#lewd-leaf-land--maple-tea-ecstasy)* | *[Lovers of Aether](#lovers-of-aether)* | *[Midnight Fireworks](#midnight-fireworks)* | *[A Night with Laverne](#a-night-with-laverne)* | *[Pigglet in Mrs Big Bad Wyvern](#pigglet-in-mrs-big-bad-wyvern)* | *[Predation](#predation)* | *[Price for Freedom Avarice](#price-for-freedom-avarice)* | *[RACK](#rack)* | *[RACK 2](#rack-2)* | *[Renapet](#renapet)* | *[Sexy Mad Science](#sexy-mad-science)* | *[Shades of Elysium](#shades-of-elysium)* | *[Something to do with Love](#something-to-do-with-love)* | *[Space Paws](#space-paws)* | *[Stones](#stones)* | *[Teraurge](#teraurge)* | *[Thirstchasm](#thirstchasm)* | *[Tigress + Others](#tigress--others)* | *[Towergirls](#towergirls)* | *[Towergirls Kingdom Conquest (Princess & Conquest)](#towergirls-kingdom-conquest-princess--conquest)* | *[Trials in Tainted Space](#trials-in-tainted-space)* | *[Usagi Star](#usagi-star)* | *[Valor and Glory](#valor-and-glory)* | *[VR Ferals](#vr-ferals)* | *[A Walk Home](#a-walk-home)* | *[Wild Life](#wild-life)* | *[Wolf Girl With You (Liru)](#wolf-girl-with-you-liru)* | *[Yiffalicious](#yiffalicious)*
+**_[Общая информация](#общая-информация-1)_** | *[Akasha's Gate](#akashas-gate)* | *[Anubis and the Buried Bone](#anubis-and-the-buried-bone)* | *[Bare Backstreets](#bare-backstreets)* | *[Bedplay](#bedplay)* | *[Book of Lust](#book-of-lust)* | *[Breeders of the Nephelym](#breeders-of-the-nephelym)* | *[Breeding Season](#breeding-season)* | *[Carnal Coup](#carnal-coup)* | *[Cathouse Tale](#cathouse-tale)* | *[Cloud Meadow](#cloud-meadow)* | *[Corruption of Champions / Corruption of Champions 2](#corruption-of-champions--corruption-of-champions-2)* | *[Crowjob in Space](#crowjob-in-space)* | *[Debauchery in Caelia Kingdoms](#debauchery-in-caelia-kingdoms)* | *[Dragon Waifu](#dragon-waifu)* | *[The Forest of Love](#the-forest-of-love)* | *[Furry Girl](#furry-girl)* | *[Future Love Space Machine](#future-love-space-machine)* | *[Happy Heart Hell](#happy-heart-hell)* | *[Happy Heart Panic](#happy-heart-panic)* | *[High Tail Hall](#high-tail-hall)* | *[Hunt and Snare](#hunt-and-snare)* | *[Kincaid](#kincaid)* | *[Knights of a Broken City (Naughty Shinobi)](#knights-of-a-broken-city-naughty-shinobi)* | *[Kobold Garden](#kobold-garden)* | *[Kobold Kare](#kobold-kare)* | *[La Bête](#la-b%C3%AAte)* | *[Leave2gether (Panthea)](#leave2gether-panthea)* | *[Legend of Krystal Rebirth](#legend-of-krystal-rebirth)* | *[Lewd Leaf Land – Maple Tea Ecstasy](#lewd-leaf-land--maple-tea-ecstasy)* | *[Lovers of Aether](#lovers-of-aether)* | *[Midnight Fireworks](#midnight-fireworks)* | *[A Night with Laverne](#a-night-with-laverne)* | *[Pigglet in Mrs Big Bad Wyvern](#pigglet-in-mrs-big-bad-wyvern)* | *[Predation](#predation)* | *[Price for Freedom Avarice](#price-for-freedom-avarice)* | *[RACK](#rack)* | *[RACK 2](#rack-2)* | *[Renapet](#renapet)* | *[Sexy Mad Science](#sexy-mad-science)* | *[Shades of Elysium](#shades-of-elysium)* | *[Something to do with Love](#something-to-do-with-love)* | *[Space Paws](#space-paws)* | *[Stones](#stones)* | *[Teraurge](#teraurge)* | *[Thirstchasm](#thirstchasm)* | *[Tigress + Others](#tigress--others)* | *[Towergirls](#towergirls)* | *[Towergirls Kingdom Conquest (Princess & Conquest)](#towergirls-kingdom-conquest-princess--conquest)* | *[Trials in Tainted Space](#trials-in-tainted-space)* | *[Usagi Star](#usagi-star)* | *[Valor and Glory](#valor-and-glory)* | *[VR Ferals](#vr-ferals)* | *[A Walk Home](#a-walk-home)* | *[Wild Life](#wild-life)* | *[Wolf Girl With You (Liru)](#wolf-girl-with-you-liru)* | *[Yiffalicious](#yiffalicious)*
 
 ### Общая информация
 
@@ -650,86 +650,105 @@
 
 ---
 
+### Corruption of Champions / Corruption of Champions 2
+**[Сайт](https://www.fenoxo.com/play-games/)** | **[Patreon](https://www.patreon.com/Savinmander)** | **Wiki**: _[CoC1](https://wiki.smutosaur.us/CoC/Main_Page)_, _[CoC2](https://wiki.smutosaur.us/CoC2/Main_Page)_ | **[Mod](https://github.com/Kitteh6660/Corruption-of-Champions-Mod)**, **[Android Mod](https://github.com/Hexxah/CoC-MOD-Android-Build)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!cgVWlQ6K)**
 
-### Corruption of Champions
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!cgVWlQ6K)** | **[Тред]()** 
+Жители тихой деревеньки, опасаясь гнева ебливых демонов, тренируют и ежегодно отправляют к ним специально обученного ~~агента~~ персонажа.
 
+![Corruption of Champions screenshot](/img/screenshots/CoC.jpg "Corruption of Champions screenshot")
 
-
-*Скриншоты: []()*
+*Скриншоты: [Kiwi Farms](https://kiwifarms.net/threads/21301), [Smutosaur Game Wikis](https://wiki.smutosaur.us/)*
 
 ---
 
 ### Crowjob in Space
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!t5UWnaBD)** | **[Тред]()** 
+**[Сайт](http://spacelzrd.org/wp/)** | **[Patreon](https://www.patreon.com/crowjobinspace)** | **[Old version](http://www.spacelzrd.org/spacelewds/disclaimer.html)** | **[Demo](https://www.patreon.com/posts/19498864)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!t5UWnaBD)** 
 
+Линейный point'n'click квест про ворону, работающего ~~грузчиком~~ курьером на межзвёздных перевозках и сопутствующих его работе контактах сексуального рода.
 
+![Crowjob in Space screenshot](/img/screenshots/CJiS.jpg "Crowjob in Space screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [2ch](https://2ch.hk/fur/), [GetComiXXX](https://getcomixxx.com/index.php?newsid=9210)*
 
 ---
 
 ### Debauchery in Caelia Kingdoms
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!Z4FVRSzJ)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/DuoDevelopers)** | **[itch.io](https://maratduodev.itch.io/debauchery-in-caelia-kingdoms)** | **[Old version](https://mega.nz/#!ERBhzDha!rve8cDtIlpAxmyUi6QOkNgE1RJbQWaQXDT_JFDCd6sA)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!Z4FVRSzJ)**
 
+Игрок получил в наследство королевство, население которого не так давно переболело чумой и превратилось в невиданных чудищ, и на пути к почётной должности встречается с разными жителями, убеждая их в своей власти кнутом и/или пряником.
 
+![Debauchery in Caelia Kingdoms screenshot](/img/screenshots/DiCK.jpg "Debauchery in Caelia Kingdoms screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [itch.io](https://maratduodev.itch.io/debauchery-in-caelia-kingdoms), [Patreon](https://www.patreon.com/DuoDevelopers), [F95Zone](https://f95zone.to/threads/1553)*
 
 ---
 
 ### Dragon Waifu
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!o0UUUYTA)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/toto)** | **[FA](https://www.furaffinity.net/full/24293181/)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!o0UUUYTA)**
 
+Небольшая игра про рыцаря и сисястую драконшу.
 
+![Dragon Waifu screenshot](/img/screenshots/DWaifu.jpg "Dragon Waifu screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [F95Zone](https://f95zone.to/threads/6955/), [FurAffinty](https://www.furaffinity.net/full/24293181/)*
 
 ---
+
 ### The Forest of Love
-**[Сайт]()** | **[WikiFur](http://en.wikifur.com/wiki/The_Forest_of_Love)** (en) | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!V9FjxCQI)** | **[Тред]()** 
+**[Сайт](https://www.theforestoflove.com)** | **[WikiFur](http://en.wikifur.com/wiki/The_Forest_of_Love)** (en) | **[Patreon](https://www.patreon.com/CarrotsCritters)** | **[itch.io](https://carrotscritters.itch.io/the-forest-of-love)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!V9FjxCQI)**
 
+Квест про похождения ~~енота~~ рыжей панды в Лесу Любви, включающие знакомства с местными обитателями, изучение самого леса и его легенды о Божестве Похоти.
 
+![The Forest of Love screenshot](/img/screenshots/ForestOL.jpg "The Forest of Love screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [F95Zone](https://f95zone.to/threads/30032/)*
 
 ---
 
 ### Furry Girl
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!JtU1WIra)** | **[Тред]()** 
+**[Steam](https://steamcommunity.com/app/1045050/)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!JtU1WIra)**
 
+Играем в мини-игры, решаем простые головоломки и открываем картинки с пушистыми самочками.
 
+![Furry Girl screenshot](/img/screenshots/FurryGirl.jpg "Furry Girl screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [Steam](https://steamcommunity.com/app/1045050/)*
 
 ---
 
 ### Future Love Space Machine
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!wg0jGBKJ)** | **[Тред]()** 
+**[Сайт](http://futurelovespacemachine.com/)** | **[Patreon](https://www.patreon.com/ripenedpeach)** | **[itch.io](https://ripenedpeach.itch.io/future-love-space-machine)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!wg0jGBKJ)** 
 
+Песочница для ебли с представителями разных видов. Если выбор покажется бедным, можно в редакторе персонажей сляпать пушистого членоробота или хвостатого пиздоалиена на свой собственный вкус.
 
+![Future Love Space Machine screenshot](/img/screenshots/FLSM.jpg "Future Love Space Machine screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [официальный сайт](http://futurelovespacemachine.com), [itch.io](https://ripenedpeach.itch.io/future-love-space-machine)*
 
 ---
 
 ### Happy Heart Hell
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!8pdxAI6Z)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/Doggie_Bones)** | **[Discord](https://discordapp.com/invite/pFMfgqt)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!8pdxAI6Z)**
 
+Эроге/JRPG про няшного готишного лисика, которого отправили ~~лечиться от гейства~~ на перевоспитание в специализированное заведение.
 
+![Happy Heart Hell screenshot](/img/screenshots/HHH.jpg "Happy Heart Hell screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [F95Zone](https://f95zone.to/threads/22208/), [ULMF](https://ulmf.org/threads/12158/)*
 
 ---
 
 ### Happy Heart Panic
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!J0tWUS5L)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/Doggie_Bones)** | **[Discord](https://discord.gg/WH2rCcG)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!J0tWUS5L)** 
 
+Скролл-файтинг про готишного лисика из [предыдущей игры](#happy-heart-hell), который на этот раз спасает мир от злых сил. 
 
+![Happy Heart Panic screenshot](/img/screenshots/HHP.jpg "Happy Heart Panic screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [F95Zone](https://f95zone.to/threads/28022/)*
 
 ---
+
 
 ### High Tail Hall
 **[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!BkMByI5S)** | **[Тред]()** 
