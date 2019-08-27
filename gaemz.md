@@ -527,7 +527,7 @@
 
 ## Прочие игры
 
-**_[Общая информация](#общая-информация-1)_** | *[Akasha's Gate](#akashas-gate)* | *[Anubis and the Buried Bone](#anubis-and-the-buried-bone)* | *[Bare Backstreets](#bare-backstreets)* | *[Bedplay](#bedplay)* | *[Book of Lust](#book-of-lust)* | *[Breeders of the Nephelym](#breeders-of-the-nephelym)* | *[Breeding Season](#breeding-season)* | *[Carnal Coup](#carnal-coup)* | *[Cathouse Tale](#cathouse-tale)* | *[Cloud Meadow](#cloud-meadow)* | *[Corruption of Champions / Corruption of Champions 2](#corruption-of-champions--corruption-of-champions-2)* | *[Crowjob in Space](#crowjob-in-space)* | *[Debauchery in Caelia Kingdoms](#debauchery-in-caelia-kingdoms)* | *[Dragon Waifu](#dragon-waifu)* | *[The Forest of Love](#the-forest-of-love)* | *[Furry Girl](#furry-girl)* | *[Future Love Space Machine](#future-love-space-machine)* | *[Happy Heart Hell](#happy-heart-hell)* | *[Happy Heart Panic](#happy-heart-panic)* | *[High Tail Hall](#high-tail-hall)* | *[Hunt and Snare](#hunt-and-snare)* | *[Kincaid](#kincaid)* | *[Knights of a Broken City (Naughty Shinobi)](#knights-of-a-broken-city-naughty-shinobi)* | *[Kobold Garden](#kobold-garden)* | *[Kobold Kare](#kobold-kare)* | *[La Bête](#la-b%C3%AAte)* | *[Leave2gether (Panthea)](#leave2gether-panthea)* | *[Legend of Krystal Rebirth](#legend-of-krystal-rebirth)* | *[Lewd Leaf Land – Maple Tea Ecstasy](#lewd-leaf-land--maple-tea-ecstasy)* | *[Lovers of Aether](#lovers-of-aether)* | *[Midnight Fireworks](#midnight-fireworks)* | *[A Night with Laverne](#a-night-with-laverne)* | *[Pigglet in Mrs Big Bad Wyvern](#pigglet-in-mrs-big-bad-wyvern)* | *[Predation](#predation)* | *[Price for Freedom Avarice](#price-for-freedom-avarice)* | *[RACK](#rack)* | *[RACK 2](#rack-2)* | *[Renapet](#renapet)* | *[Sexy Mad Science](#sexy-mad-science)* | *[Shades of Elysium](#shades-of-elysium)* | *[Something to do with Love](#something-to-do-with-love)* | *[Space Paws](#space-paws)* | *[Stones](#stones)* | *[Teraurge](#teraurge)* | *[Thirstchasm](#thirstchasm)* | *[Tigress + Others](#tigress--others)* | *[Towergirls](#towergirls)* | *[Towergirls Kingdom Conquest (Princess & Conquest)](#towergirls-kingdom-conquest-princess--conquest)* | *[Trials in Tainted Space](#trials-in-tainted-space)* | *[Usagi Star](#usagi-star)* | *[Valor and Glory](#valor-and-glory)* | *[VR Ferals](#vr-ferals)* | *[A Walk Home](#a-walk-home)* | *[Wild Life](#wild-life)* | *[Wolf Girl With You (Liru)](#wolf-girl-with-you-liru)* | *[Yiffalicious](#yiffalicious)*
+**_[Общая информация](#общая-информация-1)_** | *[Akasha's Gate](#akashas-gate)* | *[Anubis and the Buried Bone](#anubis-and-the-buried-bone)* | *[Bare Backstreets](#bare-backstreets)* | *[Bedplay](#bedplay)* | *[Book of Lust](#book-of-lust)* | *[Breeders of the Nephelym](#breeders-of-the-nephelym)* | *[Breeding Season](#breeding-season)* | *[Carnal Coup](#carnal-coup)* | *[Cathouse Tale](#cathouse-tale)* | *[Cloud Meadow](#cloud-meadow)* | *[Corruption of Champions / Corruption of Champions 2](#corruption-of-champions--corruption-of-champions-2)* | *[Crowjob in Space](#crowjob-in-space)* | *[Debauchery in Caelia Kingdoms](#debauchery-in-caelia-kingdoms)* | *[Dragon Waifu](#dragon-waifu)* | *[The Forest of Love](#the-forest-of-love)* | *[Furry Girl](#furry-girl)* | *[Future Love Space Machine](#future-love-space-machine)* | *[Happy Heart Hell](#happy-heart-hell)* | *[Happy Heart Panic](#happy-heart-panic)* | *[High Tail Hall](#high-tail-hall)* | *[Hunt and Snare](#hunt-and-snare)* | *[Kincaid](#kincaid)* | *[Knights of a Broken City)](#knights-of-a-broken)* | *[Kobold Garden](#kobold-garden)* | *[KoboldKare](#koboldkare)* | *[La Bête](#la-b%C3%AAte)* | *[Leave2gether (Panthea)](#leave2gether-panthea)* | *[Legend of Krystal Rebirth](#legend-of-krystal-rebirth)* | *[Lewd Leaf Land – Maple Tea Ecstasy](#lewd-leaf-land--maple-tea-ecstasy)* | *[Lovers of Aether](#lovers-of-aether)* | *[Midnight Fireworks](#midnight-fireworks)* | *[A Night with Laverne](#a-night-with-laverne)* | *[Pigglet in Mrs Big Bad Wyvern](#pigglet-in-mrs-big-bad-wyvern)* | *[Predation](#predation)* | *[Price for Freedom Avarice](#price-for-freedom-avarice)* | *[RACK](#rack)* | *[RACK 2](#rack-2)* | *[Renapet](#renapet)* | *[Sexy Mad Science](#sexy-mad-science)* | *[Shades of Elysium](#shades-of-elysium)* | *[Something to do with Love](#something-to-do-with-love)* | *[Space Paws](#space-paws)* | *[Stones](#stones)* | *[Teraurge](#teraurge)* | *[Thirstchasm](#thirstchasm)* | *[Tigress + Others](#tigress--others)* | *[Towergirls](#towergirls)* | *[Towergirls Kingdom Conquest (Princess & Conquest)](#towergirls-kingdom-conquest-princess--conquest)* | *[Trials in Tainted Space](#trials-in-tainted-space)* | *[Usagi Star](#usagi-star)* | *[Valor and Glory](#valor-and-glory)* | *[VR Ferals](#vr-ferals)* | *[A Walk Home](#a-walk-home)* | *[Wild Life](#wild-life)* | *[Wolf Girl With You (Liru)](#wolf-girl-with-you-liru)* | *[Yiffalicious](#yiffalicious)*
 
 ### Общая информация
 
@@ -749,67 +749,83 @@
 
 ---
 
-
 ### High Tail Hall
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!BkMByI5S)** | **[Тред]()** 
+**[Сайт](https://hthstudios.com/)** | **[Patreon](https://www.patreon.com/HTHStudios)** | **[WikiFur](https://en.wikifur.com/wiki/High_Tail_Hall)** (en) | **[High Tail Hall Wiki](https://hth.fandom.com/wiki/Main_Page)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!BkMByI5S)** 
+
+Эротическая RPG с длинной историей про попытки съёма работников развлекательных заведений. Зародившись в мохнатых годах как flash-игра, пережила несколько ребутов, в настоящее время допиливается на движке Unity.
+
+![High Tail Hall screenshot](/img/screenshots/HTH.jpg "High Tail Hall screenshot")
 
 
-
-*Скриншоты: []()*
+*Скриншоты: [HTH Wiki](https://hth.fandom.com/wiki/Special:Images), [F95Zone](https://f95zone.to/threads/8251/), [WikiFur](https://en.wikifur.com/wiki/High_Tail_Hall)*
 
 ---
 
 ### Hunt and Snare
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!cllTCagS)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/rufflenecks)** | **[itch.io](https://ruffleneck.itch.io/hunt-and-snare)** | **[Steam](https://store.steampowered.com/app/944330/)** | **[Hunt and Snare Wiki](https://hunt-and-snare-wiki.fandom.com/wiki/Hunt_and_Snare_Wiki)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!cllTCagS)**
+
+TPS про жизнь ловцов диких зверей, которых можно продавать (зверей) и ебать (других охотников).
+
+![Hunt and Snare screenshot](/img/screenshots/HnS.jpg "Hunt and Snare screenshot")
 
 
-
-*Скриншоты: []()*
+*Скриншоты: [Patreon](https://www.patreon.com/rufflenecks), [itch.io](https://ruffleneck.itch.io/hunt-and-snare)*
 
 ---
 
 ### Kincaid
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!J41CzIZR)** | **[Тред]()** 
+**[Pateron](https://www.patreon.com/cookiedraggy)** | **[itch.io](https://cookiedraggy.itch.io/kincaid)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!J41CzIZR)**  
+
+Метроидвания про ебливую ~~Лару Крофт~~ волчицу-археолога и её приключения на неизведанных планетах.
+
+![Kincaid screenshot](/img/screenshots/Kincaid.jpg "Kincaid screenshot")
 
 
-
-*Скриншоты: []()*
+*Скриншоты: [itch.io](https://cookiedraggy.itch.io/kincaid), [F95Zone](https://f95zone.to/threads/27547/)*
 
 ---
 
-### Knights of a Broken City (Naughty Shinobi)
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!pgtyWLiL)** | **[Тред]()** 
+### Knights of a Broken City
+**[Сайт](https://web.archive.org/web/20160322090029/naughtyshinobi.com/game/knights-of-a-broken-city/)** (Archived) | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!pgtyWLiL)** 
 
+Демоверсия киберпанковского квеста от первого лица про подпольных борцов-освободителей от гнёта совсем уже охуевшей диктатуры, которая запретила жителям ебать ~~гусей~~ фурей.
 
+![Knights of a Broken City screenshot](/img/screenshots/KBC.jpg "Knights of a Broken City screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [YouTube](https://www.youtube.com/watch?v=OxBdu-b6z1E)*
 
 ---
 
 ### Kobold Garden
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!M8skBCDK)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/uwusoft)** | **[itch.io](https://uwusoft.itch.io/kobold-garden)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!M8skBCDK)** 
 
+Добрый рыцарь холит и лелеет няшных ящериков, охраняя от врагов и собирая ресурсы для роста и развития их деревеньки.
 
+![Kobold Garden screenshot](/img/screenshots/KGarden.jpg "Kobold Garden screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [Tumblr](https://uwusoft.tumblr.com), [itch.io](https://uwusoft.itch.io/kobold-garden)*
 
 ---
 
-### Kobold Kare
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!U4EyUSyS)** | **[Тред]()** 
+### KoboldKare
+**[Patreon](https://www.patreon.com/naelstrof)** | **[Discord](https://discord.gg/nmNxBAH)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!U4EyUSyS)** 
 
+Весёлая кобольтовая ферма, которых можно покупать, выращивать до нужно уровня сисястости и ~~пускать на мясо~~ продавать.
 
+![KoboldKare screenshot](/img/screenshots/KKare.jpg "KoboldKare screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [F95Zone](https://f95zone.to/threads/31115/)*
 
 ---
 
 ### La Bête
-**[Сайт]()** | **[Wiki]()** | **[Торрент]()** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!klVBlACD)** | **[Тред]()** 
+**[Patreon](https://www.patreon.com/Bnbigus)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!klVBlACD)** | **[MEGA](https://mega.nz/#F!Lb5zXazK!lj8rmLEnQOtJo_G8upIJrA)** (latest)
 
+Симулятор менеджера ~~борделя~~ ночного клуба, в котором тусуются ~~нагло спижженые~~ невесть как туда попавшие герои самых разных франшиз.
 
+![La Bête screenshot](/img/screenshots/LaBete.jpg "La Bête screenshot")
 
-*Скриншоты: []()*
+*Скриншоты: [F95Zone](https://f95zone.to/threads/20932/), [Patreon](https://www.patreon.com/Bnbigus)*
 
 ---
 
