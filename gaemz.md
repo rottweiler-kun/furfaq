@@ -834,6 +834,8 @@ TPS про жизнь ловцов диких зверей, которых мо�
 
 Девка свалила на другую планету, чтобы начать жизнь с чистого листа, и первым шагом к этому стали близкие контакты ~~третьего рода~~ с коллегами и сослуживцами на новом месте работы.
 
+![Leave2gether screenshot](/img/screenshots/L2G.jpg "Leave2gether screenshot")
+
 *Скриншоты: [Leave2Gether](https://leave2gether.com), [F95Zone](https://f95zone.to/threads/960), [Twitter](https://twitter.com/leave2gether)*
 
 ---
@@ -842,6 +844,8 @@ TPS про жизнь ловцов диких зверей, которых мо�
 **[Patreon](https://www.patreon.com/kuja)** | **[LoK Rebirth Wiki](https://lokrebirth.fandom.com/wiki/LOK_Rebirth_Wiki)** | **[Discord](https://discord.gg/naT4hZf)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!9xkHgL6D)** | **[Old original Flash version](https://legendofkrystal.com)**
 
 Лисичка из SEGAвселенной в погоне за преступницей-суккубом разъебала космический корабль и вынуждена ловить её в деревне разумных ящериков.
+
+![Legend of Krystal Rebirth screenshot](/img/screenshots/LoKR.jpg "Legend of Krystal Rebirth screenshot")
 
 *Скриншоты: [F95Zone](https://f95zone.to/threads/3783), [Patreon](https://www.patreon.com/kuja)*
 
@@ -852,6 +856,8 @@ TPS про жизнь ловцов диких зверей, которых мо�
 
 Мини-игра про мающуюся бессонницей героиню, которой посреди ночи приспичило отправиться в лес ~~по грибы~~ собирать листья для чая, и ВНЕЗАПНЫЕ встречи с ночными его обитателями.
 
+![Lewd Leaf Land screenshot](/img/screenshots/LLLand.jpg "Lewd Leaf Land screenshot")
+
 *Скриншоты: [itch.io](https://ahegames.itch.io/lewd-leaf-land)*
 
 ---
@@ -860,6 +866,8 @@ TPS про жизнь ловцов диких зверей, которых мо�
 **[Steam](https://store.steampowered.com/app/1043180/)** | **[WikiFur](http://en.wikifur.com/wiki/Lovers_of_Aether)** (en) | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!0l9ClKTD)** 
 
 Симулятор свиданий с колоритными персонажами, позаимствованными из [пиксельной аркады/файтинга](https://store.steampowered.com/app/383980) от того же разработчика.
+
+![Lovers of Aether screenshot](/img/screenshots/LoversOfAether.jpg "Lovers of Aether screenshot")
 
 *Скриншоты: [Steam](https://steamcommunity.com/app/1043180/screenshots/)*
 
@@ -881,7 +889,9 @@ TPS про жизнь ловцов диких зверей, которых мо�
 
 Развод фигуристой монахини на грехопадение и разные непотребства.
 
-*Скриншоты: [F95Zone](https://f95zone.to/threads/ 30949/), [Twitter](https://twitter.com/ss2sonic/)*
+![A Night with Laverne screenshot](/img/screenshots/NWL.jpg "A Night with Laverne screenshot")
+
+*Скриншоты: [F95Zone](https://f95zone.to/threads/30949/), [Twitter](https://twitter.com/ss2sonic/)*
 
 ---
 
@@ -890,23 +900,29 @@ TPS про жизнь ловцов диких зверей, которых мо�
 
 Пятачок решает головоломки и спасает друзей от драконши, ~~теребя~~ удовлетворяя её драконьи потребности.
 
-*Скриншоты: Patreon](https://www.patreon.com/peninja), **[itch.io](https://teamtailnut.itch.io/pigglet-in-mrs-big-bad-wyvern)*
+![Pigglet in Mrs Big Bad Wyvern screenshot](/img/screenshots/PiggletMBBW.jpg "Pigglet in Mrs Big Bad Wyvern screenshot")
+
+*Скриншоты: [Patreon](https://www.patreon.com/peninja), *[itch.io](https://teamtailnut.itch.io/pigglet-in-mrs-big-bad-wyvern)*
 
 ---
 
 ### Predation
-**[Patreon](https://www.patreon.com/HornedLizardStudios)** | **[FurAffinity](https://www.furaffinity.net/user/sephra)** | **[Тред](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!9h0wCL7Z)** 
+**[Patreon](https://www.patreon.com/HornedLizardStudios)** | **[FurAffinity](https://www.furaffinity.net/user/sephra)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!9h0wCL7Z)** 
 
 Платформер про возвращающуюся с ~~блядок~~ вечеринки волчицу, которую карантинная бригада случайно заперла в метро вместе с подозрительными личностями.
+
+![Predation screenshot](/img/screenshots/Predation.jpg "Predation screenshot")
 
 *Скриншоты: [FurAffinity](https://www.furaffinity.net/user/sephra)*
 
 ---
 
 ### Price for Freedom: Avarice
-**[Сайт](http://priceforfreedom.net/#avarice-download)** | **[Patreon](https://www.patreon.com/PriceForFreedom)** | **[itch.io](https://teamdeaddeer.itch.io/priceforfreedom)** | **[Тред](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!9h0wCL7Z)** 
+**[Сайт](http://priceforfreedom.net/#avarice-download)** | **[Patreon](https://www.patreon.com/PriceForFreedom)** | **[itch.io](https://teamdeaddeer.itch.io/priceforfreedom)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!9h0wCL7Z)** 
 
 Классическая изометрическая RPG по мотивам [одноимённого комикса](http://priceforfreedom.net/) со всеми необходимыми элементами: прокачка, битвы, килобайты диалогов и ебля NPC.
+
+![Price for Freedom: Avarice screenshot](/img/screenshots/PFFA.jpg "Price for Freedom: Avarice screenshot")
 
 *Скриншоты: [itch.io](https://teamdeaddeer.itch.io/priceforfreedom)*
 
@@ -939,6 +955,8 @@ TPS про жизнь ловцов диких зверей, которых мо�
 
 Тагамочи про воспитание и дрессировку Ренамоночки.
 
+![Renapet screenshot](/img/screenshots/Renapet.jpg "Renapet screenshot")
+
 *Скриншоты: [itch.io](https://countmoxi.itch.io/renapet)*
 
 ---
@@ -947,6 +965,8 @@ TPS про жизнь ловцов диких зверей, которых мо�
 **[HTML5](http://sms.furry.science/)** (web-версия игры) | **[Patreon](https://www.patreon.com/posts/sexy-mad-science-12448118)** | **[FurAffinity](https://www.furaffinity.net/gallery/draite/folder/110045/)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!YtVxiJZJ)** | **[MEGA](https://mega.nz/#!eExSnbqJ!_I6igeUSR1ER3BILLpP28aZdfZpqLZ0-22gFs0DRkqU)** (latest) 
 
 Бордер-колли проводит ебалаторные эксперименты над прочно зафиксированным старшим братом.
+
+![Sexy Mad Science screenshot](/img/screenshots/SMS.jpg "Sexy Mad Science screenshot")
 
 *Скриншоты: [FurAffinity](https://www.furaffinity.net/gallery/draite/folder/110045/)*
 
@@ -957,6 +977,8 @@ TPS про жизнь ловцов диких зверей, которых мо�
 
 RPG / симулятор ~~свиданий~~ ебли с разными персонажами, каждый из которых имеет свои фетиши и своих тараканов в голове. 
 
+![Shades of Elysium screenshot](/img/screenshots/SoE.jpg "Shades of Elysium screenshot")
+
 *Скриншоты: [F95Zone](https://f95zone.to/threads/2484/), [Twitter](https://twitter.com/khralzar/media)*
 
 ---
@@ -965,6 +987,8 @@ RPG / симулятор ~~свиданий~~ ебли с разными пер�
 **[Steam](https://store.steampowered.com/app/603730)** | **[itch.io](https://kabangeh.itch.io/something-to-do-with-love)** | **[WikiFur](https://en.wikifur.com/wiki/Something_To_Do_With_Love)** (en) | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!85UwAQqb)**
 
 Point-'n-click социоблядский квест про повседневную жизнь тигропаренька, пытающегося найти свою любовь в небольшом городишке.
+
+![Something to do with Love screenshot](/img/screenshots/StDwL.jpg "Something to do with Love screenshot")
 
 *Скриншоты: [Steam](https://store.steampowered.com/app/603730), [itch.io](https://kabangeh.itch.io/something-to-do-with-love)*
 
@@ -975,6 +999,8 @@ Point-'n-click социоблядский квест про повседневн
 
 Эроге про исследование различных планет с возможностью ненавязчиво подкатывать и соблазнять тамошних антропоморфных обитательниц.
 
+![Space Paws screenshot](/img/screenshots/SpacePaws.jpg "Space Paws screenshot")
+
 *Скриншоты: [F95Zone](https://f95zone.to/threads/625/), [YouTube](https://www.youtube.com/watch?v=OuTABZVqDdg)*
 
 ---
@@ -984,6 +1010,8 @@ Point-'n-click социоблядский квест про повседневн
 
 Садистская игра про прицельное метание камнями в гениталии врагов, с возможностью захватить чужаков в плен и продолжить изощрённые пытки.
 
+![Stones screenshot](/img/screenshots/Stones.jpg "Stones screenshot")
+
 *Скриншоты: [F95Zone](https://f95zone.to/threads/23591/)*
 
 ---
@@ -991,8 +1019,9 @@ Point-'n-click социоблядский квест про повседневн
 ### Teraurge
 **[Сайт](https://teraurge.blogspot.com/)** (блог) | **[Patreon](https://www.patreon.com/meandraco)** | **[Teraurge Wiki](http://teraurge.shoutwiki.com/wiki/Main_Page)** | **[VNDB](https://vndb.org/v22875)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!I0NUjZgZ)** | **[MEGA](https://mega.nz/#!8bhF2KiK!LGUtCZLb8MuDR3g7Nevh86E8cae5qLG0jh6ZYe5kK1g)** (latest)
 
-
 Попаданец/попаданка в параллельное измерение, населённое неведомыми зверушками, пытается вернуться обратно.
+
+![Teraurge screenshot](/img/screenshots/Teraurge.jpg "Teraurge screenshot")
 
 *Скриншоты: [VNDB](https://vndb.org/v22875)*
 
@@ -1003,6 +1032,8 @@ Point-'n-click социоблядский квест про повседневн
 
 Незавершённый зельдаподобный рогалик с фурями.
 
+![Thirstchasm screenshot](/img/screenshots/Thirstchasm.jpg "Thirstchasm screenshot")
+
 *Скриншоты: [itch.io](https://carpetwurm.itch.io/thirstchasm)*
 
 ---
@@ -1012,6 +1043,8 @@ Point-'n-click социоблядский квест про повседневн
 
 Трёхмерная RPG на Unity с Тигрицой-Мастерицой в главной роли, которая умеет ебаться (и даже может залететь, лол).
 
+![Tigress + Others screenshot](/img/screenshots/Tigress.jpg "Tigress + Others screenshot")
+
 *Скриншоты: [F95Zone](https://f95zone.to/threads/11271), [FurAffinity](https://www.furaffinity.net/gallery/90sprinter/folder/192140/)*
 
 ---
@@ -1020,6 +1053,8 @@ Point-'n-click социоблядский квест про повседневн
 **[Форум](https://towergirls.boards.net/)** | **[Patreon](https://www.patreon.com/Towergirls)** | **[Discord](https://discord.gg/tJeUBxn)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!ExFRwC7Q)** | **[MediaFire](http://www.mediafire.com/file/7diougjr3didp1u/Towergirls.zip)**
 
 JRPG / стратегия про спасение заточённых в башнях и подземельях принцесс с последующими вариантами развития отношений.
+
+![Towergirls screenshot](/img/screenshots/TowerGirls.jpg "Towergirls screenshot")
 
 *Скриншоты: [Patreon](https://www.patreon.com/Towergirls), [Bay 12 Games Forum](http://www.bay12forums.com/smf/index.php?topic=157263)*
 
@@ -1031,6 +1066,8 @@ JRPG / стратегия про спасение заточённых в баш
 Развитие [предыдущей игры](#towergirls), в которой рыцарю придётся расхлёбывать последствия исчезновения могущественного дракона и разразившегося вследствие этого в королевстве политического кризиса.
 Для запуска игры требуются установленные в систему [библиотеки](https://s3.amazonaws.com/degica-downloads/RPGVXAce_RTP.zip).
 
+![Towergirls Princess & Conquest screenshot](/img/screenshots/TowerGirlsPC.jpg "Towergirls Princess & Conquest screenshot")
+
 *Скриншоты: [F95Zone](https://f95zone.to/threads/602/), [itch.io](https://towerfag.itch.io/pnc)*
 
 ---
@@ -1039,6 +1076,8 @@ JRPG / стратегия про спасение заточённых в баш
 **[Сайт](https://www.fenoxo.com/play-games/)** | **[Patreon](https://www.patreon.com/user?u=121401)** | **[TiTS Wiki](https://wiki.smutosaur.us/TiTS/Main_Page)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!cgVWlQ6K)** 
 
 Текстовая игра про без пяти минут наследника/наследницу трансгалактической компании, которму(-ой) добрый папаша устроил проверочный квест с мотанием от планеты к планете, населёнными сексуально озабоченными существами.
+
+![Trials in Tainted Space screenshot](/img/screenshots/TiTS.jpg "Trials in Tainted Space screenshot")
 
 *Скриншоты: [YouTube](https://www.youtube.com/playlist?list=PLgfhx2Mfccjnh_lChNde74WB-zTf2UIAx)*
 
@@ -1049,6 +1088,8 @@ JRPG / стратегия про спасение заточённых в баш
 
 Горизонтального космический скролл-шутер с зайкой ~~верхом на дилдо~~ в главной роли.
 
+![Usagi Star screenshot](/img/screenshots/UsagiStar.jpg "Usagi Star screenshot")
+
 *Скриншоты: [itch.io](https://countmoxi.itch.io/usagi-star)*
 
 ---
@@ -1057,6 +1098,8 @@ JRPG / стратегия про спасение заточённых в баш
 **[Сайт](http://www.valorandglory.com)** | **[Patreon](https://www.patreon.com/valorandglory)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!woVRCSSS)** 
 
 Прокачиваем утраченный было авторитет путём квесторства, лутинга и разборок с досаждающими жителям фентезийного края ~~пьяными фурсьютерами~~ монстрами.
+
+![Valor and Glory screenshot](/img/screenshots/VaG.jpg "Valor and Glory screenshot")
 
 *Скриншоты: [F95Zone](https://f95zone.to/threads/2514/)*
 
@@ -1067,6 +1110,8 @@ JRPG / стратегия про спасение заточённых в баш
 
 3D-песочница с ебущимися феральными зверюгами с поддержкой VR.
 
+![VR Ferals screenshot](/img/screenshots/VRFerals.jpg "VR Ferals screenshot")
+
 *Скриншоты: [FurAffinity](https://www.furaffinity.net/user/ryandunn/)*
 
 ---
@@ -1075,6 +1120,8 @@ JRPG / стратегия про спасение заточённых в баш
 **[Patreon](https://www.patreon.com/kemonokun)** | **[SoFurry](https://kemonokun.sofurry.com)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!5pFCmBRL)**
 
 Во время полнолуния, когда у городских жителей ~~начинается обострение~~ повышается похотливость, один беспечный лис на свой страх и риск решил пойти домой пешком.
+
+![A Walk Home poster](/img/screenshots/WalkHome.jpg "A Walk Home poster")
 
 *Скриншоты: [SoFurry](https://www.sofurry.com/view/1273465)*
 
@@ -1085,6 +1132,8 @@ JRPG / стратегия про спасение заточённых в баш
 
 Набор хорошо сделанных моделек и анимаций ебущихся персонажей, которые маскируются под RPG с практически отсутствующим сюжетом.
 
+![Wild Life screenshot](/img/screenshots/WildLife.jpg "Wild Life screenshot")
+
 *Скриншоты: [Twitter](https://twitter.com/AdeptusSteve/)*
 
 ---
@@ -1093,6 +1142,8 @@ JRPG / стратегия про спасение заточённых в баш
 **[Сайт](http://seismicxcharge.com/seismicEng/seismic_eng.html)** | **[VNDB](https://vndb.org/v20378)** | **[Торрент](https://fapforfun.net/archives/2256)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!lgdl0YjD)**
 
 Игрок, накануне подобравший бездомного щеночка, поутру обнаруживает, что тот превратился в кавайную волкодевочку.
+
+![Wolf Girl With You screenshot](/img/screenshots/WolfGirl.jpg "Wolf Girl With You screenshot")
 
 *Скриншоты: [Steam Unlocked](https://steamunlocked.net/wolf-girl-with-you-free-download/), [MediaVidia](https://www.mediavida.com/foro/juegos/wolf-girl-with-you-ho-561921), [World of PC Games](https://worldofpcgames.co/wolf-girl-with-you-free-download/)*
 
@@ -1103,10 +1154,11 @@ JRPG / стратегия про спасение заточённых в баш
 
 Приложение для создания трёхмерных персонажей и ебли их друг с другом по заранее написанному ~~сценарию~~ скрипту, эдакий оффлайновый аналог [SecondLife](https://secondlife.com/).
 
+![Yiffalicious screenshot](/img/screenshots/Yiffalicious.jpg "Yiffalicious screenshot")
+
 *Скриншоты: [yiffalicious.com](http://www.yiffalicious.com/), [FurAffinity](https://www.furaffinity.net/search/@keywords%20Yiffalicious)*
 
 ---
-
 
 *[Ъ-фурёвый игорь](#ъ-фурёвый-игорь)* | *[Моды и аддоны](#моды-и-аддоны)* | *[VN](#vn)* | *[Прочие игры](#прочие-игры)*
 
