@@ -902,7 +902,7 @@ TPS про жизнь ловцов диких зверей, которых мо�
 
 ![Pigglet in Mrs Big Bad Wyvern screenshot](/img/screenshots/PiggletMBBW.jpg "Pigglet in Mrs Big Bad Wyvern screenshot")
 
-*Скриншоты: [Patreon](https://www.patreon.com/peninja), *[itch.io](https://teamtailnut.itch.io/pigglet-in-mrs-big-bad-wyvern)*
+*Скриншоты: [Patreon](https://www.patreon.com/peninja), [itch.io](https://teamtailnut.itch.io/pigglet-in-mrs-big-bad-wyvern)*
 
 ---
 
