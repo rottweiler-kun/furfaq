@@ -968,7 +968,7 @@ TPS про жизнь ловцов диких зверей, которых мо�
 
 ![Sexy Mad Science screenshot](/img/screenshots/SMS.jpg "Sexy Mad Science screenshot")
 
-*Скриншоты: [FurAffinity](https://www.furaffinity.net/gallery/draite/folder/110045/)*
+*Скриншоты: [FurAffinity](https://www.furaffinity.net/gallery/draite/folder/110045/), [U18Chan](https://u18chan.com/a/)*
 
 ---
 
@@ -1123,7 +1123,7 @@ JRPG / стратегия про спасение заточённых в баш
 
 ![A Walk Home poster](/img/screenshots/WalkHome.jpg "A Walk Home poster")
 
-*Скриншоты: [SoFurry](https://www.sofurry.com/view/1273465)*
+*Скриншоты: [SoFurry](https://www.sofurry.com/view/1273465), [2ch](https://2ch.hk/fur)*
 
 ---
 
