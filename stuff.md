@@ -69,6 +69,7 @@
 * **[Yiffy Toys](https://yiffy.toys/shop2/?___store=en)** - разные производители, в Россию ***отправляют***.
 * **[Sidewinder Creations](https://www.sw-creations.de/en/index.html)** - в Россию ***отправляют***.
 * **[Bad Wolf](https://www.bad-wolf.com.pl)** - в Россию не отправляют. `пруфы?`
+* **[WereDog](http://www.weredog.co.uk)** ([аккаунт на FurAffinity][https://www.furaffinity.net/user/weredoguk]) - британский магазин со скромным ассортиментом дилд, но киллер-продуктом для фут-фетишистов: [драконьими лапками](https://weredog.co.uk/product/masons-hindpaws/). В Россию не отправляют.
 
 ### Россия
 * **[Эра Секса](http://erasexa.com)** - судя по всему, оригинальные модели только "стаффорд" и "чарли" (найти прототипы этих моделей на зарубежных сайтах не удалось), остальные - копии вышеперечисленных изготовителей, но сделанные грубее, мелкие детали сильно упрощены и изменены. Есть претензии по качеству изготовления и материалу:
@@ -80,6 +81,7 @@
 
 ### Прочее
 * Тематический раздел на [Reddit](https://www.reddit.com/r/fantasysextoys/).
+* **[Silicone Fantasy Toy Maker Masterlist](https://www.reddit.com/r/BadDragon/comments/ec2new/new_silicone_fantasy_toy_maker_masterlist/)** - большой список ссылок на силиконовых дилдолитейщиков с рейтингами и категориямию. Что иронично, сам список запилен в реддит-разделе BadDragon и рекламирует их прямих конкурентов.
 * **[Fantasy Toy Silicone Firmness Comparison](https://docs.google.com/spreadsheets/d/1Ds_HN5UDMKCdWkJrm6qYC5MCIhBlLpp61ISwxM-kc6c)** - сравнительная таблица жёсткости материала игрушек разных производителей.
 * **[Squirrelmunk](https://squirrelmunk.com)** - блог с обзорами секс-игрушек разных производителей и каталогом магазинов. [Много](https://squirrelmunk.com/2017/10/09/list-of-fantasy-toy-makers) [всякой](https://squirrelmunk.com/2017/10/12/list-of-indie-glass-toy-makers) [разной](https://squirrelmunk.com/2017/10/12/list-of-wood-toy-makers) [спискоты](https://squirrelmunk.com/2017/10/12/list-of-ceramic-toy-makers).
 * **[The Dicktionary](https://fantasytoymasterlist.tumblr.com)** - блог ~~сказочного дилдоёба~~ виртуального коллекционера необычных дилд. Есть [список магазинов](https://fantasytoymasterlist.tumblr.com/masterlist) , включая [чёрный список](https://fantasytoymasterlist.tumblr.com/blacklist) продавцов.
