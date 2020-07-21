@@ -69,7 +69,7 @@
 * **[Yiffy Toys](https://yiffy.toys/shop2/?___store=en)** - разные производители, в Россию ***отправляют***.
 * **[Sidewinder Creations](https://www.sw-creations.de/en/index.html)** - в Россию ***отправляют***.
 * **[Bad Wolf](https://www.bad-wolf.com.pl)** - в Россию не отправляют. `пруфы?`
-* **[WereDog](http://www.weredog.co.uk)** ([аккаунт на FurAffinity][https://www.furaffinity.net/user/weredoguk]) - британский магазин со скромным ассортиментом дилд, но киллер-продуктом для фут-фетишистов: [драконьими лапками](https://weredog.co.uk/product/masons-hindpaws/). В Россию не отправляют.
+* **[WereDog](http://www.weredog.co.uk)** ([аккаунт на FurAffinity](https://www.furaffinity.net/user/weredoguk)) - британский магазин со скромным ассортиментом дилд, но киллер-продуктом для фут-фетишистов: [драконьими лапками](https://weredog.co.uk/product/masons-hindpaws/). В Россию не отправляют.
 
 ### Россия
 * **[Эра Секса](http://erasexa.com)** - судя по всему, оригинальные модели только "стаффорд" и "чарли" (найти прототипы этих моделей на зарубежных сайтах не удалось), остальные - копии вышеперечисленных изготовителей, но сделанные грубее, мелкие детали сильно упрощены и изменены. Есть претензии по качеству изготовления и материалу:
