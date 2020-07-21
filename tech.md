@@ -84,7 +84,7 @@
 
 Не всегда обладают богатым функционалом и иногда неспособны пережить очередной редизайн сайтов.
 
-* **RaccoonyWebEx [FF/Chrome](https://github.com/Simon-Tesla/RaccoonyWebEx)** – расширение для туевой хучи фурёвых (и не только) сайтов, добавляющее хоткеи, массовое скачивание и прочий функционал. Написан под движки современных браузеров и регулярно обновляется.
+* **RaccoonyWebEx [FF/Chrome](https://raccoony.thornvalley.com)** – расширение для туевой хучи фурёвых (и не только) сайтов, добавляющее хоткеи, массовое скачивание и прочий функционал. Написан под движки современных браузеров и регулярно обновляется.
 * **FurAffiniy Extender [FF/Chrome](https://cheeplusplus.github.io/faextender-chrome)** – обогащает FA новыми функциями, такими как хоткеи, сохранение оригналов картинок и открытие всех файлов галереи в отдельных вкладках (чем может запросто отправить браузер в нокаут).
 * **FurAffinity Downloader [Chrome](https://chrome.google.com/webstore/detail/furaffinity-downloader/nmcffcaebiikdmiklndccpkagmllckkh/)** – примитивный граббер, поочерёдно открывающий каждую страницу и добавляющий изображения в zip-файл.
 * **Weasyl Enhancer [FF](https://addons.mozilla.org/firefox/addon/weasyl-enhancer/) [Chrome](https://chrome.google.com/webstore/detail/weasyl-enhancer/cebpdikfnkboikhaeoeniojhhkondccl)** – всплывающие превьюшки а-ля *SoFurry*, мелкие фиксы и твики интерфейса.
@@ -107,6 +107,9 @@
 * **[Nitter](https://nitter.net)** – альтернативный frontend для чтения блогов и просмотра галерей в Twitter-е с упором на приватность, который работает с космической скоростью за счёт отказа от использования JS и ~~внедрения MitM~~ парсинга страниц на стороне сервера.
   * Технические детали работы в [статье на Хабре](https://habr.com/ru/post/469249).
   * На [сайте проекта](https://github.com/zedeus/nitter) есть [перечень действующих серверов](https://github.com/zedeus/nitter/wiki/Instances) с различной степенью функциональности на тот случай, если основной сайт не работает.
+* **[FurryDownloader](https://github.com/recallfuture/FurryDownloader)** – китайский граббер FA, который умеет подхватывать cookies с логином/паролём из браузера и обходить таким образом капчу Cloudflare. 
+
+
 
 
 #### Мобильные клиенты
@@ -118,6 +121,7 @@
   * iOS: **[Kochan](https://testflight.apple.com/join/s7ILWqYT)**.
   * Windows 10: **[2ch4you]( https://www.microsoft.com/ru-ru/p/2ch4you/9nzft4ns8t79)** или **[2ch4ever]( https://www.microsoft.com/ru-ru/p/2ch4ever/9nmfh0wm5d8m)**.
 * На форуме e621 есть целая [ветка с поделками разной степени работоспособности](https://e621.net/forum?category=9), из них наиболее функциональный на данный момент **[m621](https://e621.net/forum/show/257629)** от *ErrorFerret*.
+* **[NOC for FA](https://furaffrate.net)** - неофициальный Android-клиент для FurAffinity. Имеющийся в [Google Play](https://play.google.com/store/apps/details?id=com.net.furaffrate.furaffinity) клиент не отображает NSFW-контент, так что качайте APK с сайте. `Хранит пароль на устройстве в plaintext`
 * **[SoFurry App beta ](https://www.sofurry.com/static/app/android/app.apk) ([зеркало](http://rga.la/sfapp))** – официальная бета-версия Android-клиента для *SoFurry*.
 * **[FlexBooru](https://github.com/flexbooru/flexbooru)** – буровой клиент под Android (**[Google Play](https://play.google.com/store/apps/details?id=onlymash.flexbooru.play)**).
 
