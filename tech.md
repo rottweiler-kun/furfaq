@@ -87,7 +87,6 @@
 
 * **RaccoonyWebEx [FF/Chrome](https://raccoony.thornvalley.com)** – расширение для туевой хучи фурёвых (и не только) сайтов, добавляющее хоткеи, массовое скачивание и прочий функционал. Написан под движки современных браузеров и регулярно обновляется.
 * **FurAffiniy Extender [FF/Chrome](https://cheeplusplus.github.io/faextender-chrome)** – обогащает FA новыми функциями, такими как хоткеи, сохранение оригналов картинок и открытие всех файлов галереи в отдельных вкладках (чем может запросто отправить браузер в нокаут).
-* **FurAffinity Downloader [Chrome](https://chrome.google.com/webstore/detail/furaffinity-downloader/nmcffcaebiikdmiklndccpkagmllckkh/)** – примитивный граббер, поочерёдно открывающий каждую страницу и добавляющий изображения в zip-файл.
 * **Weasyl Enhancer [FF](https://addons.mozilla.org/firefox/addon/weasyl-enhancer/) [Chrome](https://chrome.google.com/webstore/detail/weasyl-enhancer/cebpdikfnkboikhaeoeniojhhkondccl)** – всплывающие превьюшки а-ля *SoFurry*, мелкие фиксы и твики интерфейса.
 * **Ank Pixiv Tool [FF](https://addons.mozilla.org/firefox/addon/ank-pixiv-tool/)** – сохранение картинок с *Pixiv* в максимальном (исходном) разрешении, с возможностью автоматической замены имени файла по шаблону.
 * **Mini Pixiv [FF](https://addons.mozilla.org/en-US/firefox/addon/mini-pixiv/)** – облегчённый интерфейс, убирающий лишние элементы и отключающий тяжеловесные скрипты.
