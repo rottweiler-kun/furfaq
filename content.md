@@ -30,7 +30,7 @@
 >6. FUKKEN SAVED!
 
 **tl;dr**: Хочется найти все творения **somefurryartist**? Открываем [страницу поиска](https://www.furaffinity.net/search/) и вписываем в строку поиска: _(**somefurryartist** | icon**somefurryartist** | **somefurryartist**icon | link**somefurryartist**)_. Если интересуют только те арты, которых нет у него в галерее (комишшны, гифты), то дописываем в конец ещё _-(@lower **somefurryartist**)_. Не забываем указывать режим сортировки (*Sort by*: **Date**, *in the*: **Descending order**/**Ascending order**), не гнушаемся чтением справки с примерами на той же самой странице поиска, шлём лучи поноса Dragoneer-у за лимит в 2000 результатов поисковой выдачи.
-Пример: *[(zaush | iconzaush | zaushicon | linkzaush) -@lower zaush](https://www.furaffinity.net/search/%28zaush%20%7C%20iconzaush%20%7C%20zaushicon%20%7C%20linkzaush%29%20-@lower%20zaush?&order-by=date&order-direction=desc&type-art=0&type-flash=0&type-photo=0&type-music=0&type-poetry=0&type-story=0&mode=extended)* (как видно, помимо искомого находится куча левой поебени).
+Пример: *[(zaush | iconzaush | zaushicon | linkzaush) -@lower zaush](https://www.furaffinity.net/search/%28zaush%20%7C%20iconzaush%20%7C%20zaushicon%20%7C%20linkzaush%29%20-@lower%20zaush?&order-by=date&order-direction=desc&type-art=0&type-flash=0&type-photo=0&type-music=0&type-poetry=0&type-story=0&mode=extended)* - как видно, помимо искомого находится куча левой поебени.
 
 ### SoFurry
 Поиск на SF осуществляется по тегам, коих два вида: официальные (определённый стандартный перечень, описывающий кто, где, когда, кого, куда, как и зачем) и неофициальные (всякая ерунда, которую добавляет автор). Со временем неофициальные теги переводят в статус официальных - например, если появляется много правила 34 [по очередной франшизе](https://www.sofurry.com/browse/search?search=Zootopia).
@@ -45,6 +45,7 @@
 * Теги иерархичны, т.е. работы с тегом **_Rottweiler_** можно найти также по запросам **_Dog_** и **_Canine_**, однако работает эта иерархичность далеко не всегда, в том числе из-за гендерно-специфических тегов: **_Equine_** включает в себя и **_Stallion_**, и **_Mare_**. Так что не ленись расширять или сужать поисковые запросы, анон.
 * Хорошей идеей будет указание в настройках профиля во вкладке "[Account](https://www.sofurry.com/user/preferences?mode=advanced#1)" ~~степени своей ебанутости~~ максимального уровня допустимого контента (_Content Level_). Так можно лицам с тонкой душевной организацией отключить показ гуро, а любители гурятины наоборот смогут-таки её отыскать.
 * Если ищется контент с каким-то специфическим содержанием, имеет смысл проверить так называемые [группы](https://www.sofurry.com/groups/) - сообщества пользователей по интересам - на страницах которых часто собрана коллекция работ соответствующей тематики.
+* Можно воспользоваться [сторонним зеркалом](https://sofurry.anthro.fr), где, например, есть поиск по названию работы. 
 
 ### e621
 
