@@ -49,67 +49,69 @@
 
 ### e621
 
-На специальной [странице](http://e621.net/help/cheatsheet) приведены примеры поисковых запросов. Можно использовать как сами теги, так и специализированные метатеги для изменения параметров поиска (режим сортировки) и отбора лишь определённых изображений (с учётом рейтинга, числа фавов, из определённого сета, с определённым размером картинки и весом файла). Можно также искать по MD5-хешу файла, что бывает удобно при поиске автора, для ленивых можно воспользоваться сторонним [реверсивным поиском](https://iqdb.harry.lu). Тегов очень много (есть даже специальный [поисковик для тегов](https://e621.net/tag/index) и [подробная вики](https://e621.net/wiki/show/tag_group:index)), они хорошо иерархизированы, при поиске происходит автоматическая подстановка синонимов и родительских тегов. Есть ложка дёгтя: в строку поиска можно внести лишь 6 тегов. Для регулярного поиска есть смысл завести аккаунт, т.к. некоторые изображения незарегистрированным пользователям не показываются.
+На специальной [странице](http://e621.net/help/cheatsheet) приведены примеры поисковых запросов. Можно использовать как сами теги, так и специализированные метатеги для изменения параметров поиска (режим сортировки) и отбора лишь определённых изображений (с учётом рейтинга, числа фавов, из определённого сета, с определённым размером картинки и весом файла). Можно также искать по MD5-хешу файла, что бывает удобно при поиске автора, для ленивых можно воспользоваться сторонним [реверсивным поиском](https://iqdb.harry.lu). Тегов очень много (есть даже специальный [поисковик для тегов](https://e621.net/tag/index) и [подробная вики](https://e621.net/wiki/show/tag_group:index)), они хорошо иерархизированы, при поиске происходит автоматическая подстановка синонимов и родительских тегов. Есть ложка дёгтя: в строку поиска можно внести лишь ~~6~~ 40 тегов. Для регулярного поиска есть смысл завести аккаунт, т.к. часть изображений незарегистрированным пользователям по умолчанию не показываются из-за специфических тегов.
 
 #### Пример 1
 * Хочу картинку с ротвейлером!
-  * **[Rottweiler](https://e621.net/post?tags=rottweiler)**
+  * **[Rottweiler](https://e621.net/posts?tags=rottweiler)**
 * Причём хочу именно кобеля!
-  * **[Rottweiler Male](https://e621.net/post/index/1/rottweiler%20male)**
+  * **[Rottweiler Male](https://e621.net/posts?tags=rottweiler+male)**
 * Нее, кобелей ебущихся с сучками не надо, уберите сучек!
-  * **[Rottweiler Male –Female](https://e621.net/post/index/1/rottweiler%20male%20-female)**
+  * **[Rottweiler Male -Female](https://e621.net/posts?tags=rottweiler+male+-female)**
 * Всяких пиздомальчиков и членодевок тоже нахуй и в пизду!
-  * **[Rottweiler Male –Female –Intersex](https://e621.net/post/index/1/rottweiler%20male%20-female%20-intersex)**
+  * **[Rottweiler Male -Female -Intersex](https://e621.net/posts?tags=rottweiler+male+-female+-intersex)**
 * Ещё было хорошо, чтобы на картинке вместе с собакеном другие виды тоже засветились!
-  * **[Rottweiler Male –Female –Intersex Interspecies](https://e621.net/post/index/1/rottweiler%20male%20-female%20-intersex%20interspecies)**
+  * **[Rottweiler Male -Female -Intersex Interspecies](https://e621.net/posts?tags=rottweiler+male+-female+-intersex+interspecies)**
 * И чтоб в поиске выходили хорошие, красивые картинки, а не мазня говном в пейнте!
-  * **[Rottweiler Male –Female –Intersex Interspecies order:favcount](https://e621.net/post/index/1/rottweiler%20male%20-female%20-intersex%20interspecies%20order:favcount)**
+  * **[Rottweiler Male -Female -Intersex Interspecies order:favcount](https://e621.net/posts?tags=rottweiler+male+-female+-intersex+interspecies+order%3Afavcount)**
 * Годно!
 
 #### Пример 2
 * Хочу ротвейлера!
-  * **[Rottweiler](https://e621.net/post?tags=rottweiler)**
+  * **[Rottweiler](https://e621.net/posts?tags=rottweiler)**
 * В принципе, можно не обязательно ротвейлера, доберман тоже сойдёт – один хуй их одинаково рисуют...
-  * **[~Rottweiler ~Doberman](https://e621.net/post/index/1/~rottweiler%20~doberman)**
+  * **[~Rottweiler ~Dobermann](https://e621.net/posts?tags=%7ERottweiler+%7EDobermann)**
 * И чтобы он с другим самцом няшился!
-  * **[~Rottweiler ~Doberman male/male](https://e621.net/post/index/1/~Rottweiler%20~Doberman%20male%25-2Fmale)**
+  * **[~Rottweiler ~Dobermann male/male](https://e621.net/posts?tags=%7ERottweiler+%7EDobermann+male%2Fmale)**
 * Но только чтоб без связывания, порки и всего такого!
-  * **[~Rottweiler ~Doberman male/male -BDSM](https://e621.net/post/index/1/~Rottweiler%20~Doberman%20male%25-2Fmale%20-BDSM)**
+  * **[~Rottweiler ~Dobermann male/male -BDSM](https://e621.net/posts?tags=%7ERottweiler+%7EDobermann+male%2Fmale+-BDSM)**
 * Да, и хуец чтоб был собачий!
-  * **[~Rottweiler ~Doberman male/male -BDSM canine_penis](https://e621.net/post/index/1/~Rottweiler%20~Doberman%20male%25-2Fmale%20-BDSM%20canine_penis)**
+  * **[~Rottweiler ~Dobermann male/male -BDSM canine_penis](https://e621.net/posts?tags=%7ERottweiler+%7EDobermann+male%2Fmale+-BDSM+canine_penis)**
 * Хм... конь нашёлся тоже с собачьим хуйцом, ну да ладно... Только вот что делают в результатах поиска обоссывающиеся ~~от няшности~~ пидорасы? Таких не надо!
-  * **[~Rottweiler ~Doberman male/male -BDSM canine_penis -watersports](https://e621.net/post/index/1/~Rottweiler%20~Doberman%20male%25-2Fmale%20-BDSM%20canine_penis%20-watersports)**
+  * **[~Rottweiler ~Dobermann male/male -BDSM canine_penis -watersports](https://e621.net/posts?tags=%7ERottweiler+%7EDobermann+male%2Fmale+-BDSM+canine_penis+-watersports)**
  * Вот теперь заебись!
 
 #### Пример 3
 * Хочу ~~ротвейлера~~ рандомного собакена!
-  * **[canine](https://e621.net/post?tags=canine)**
-* Собакена – это значит кобеля, если что...
-  * **[canine male](https://e621.net/post/index/1/canine%20male)**
+  * **[canine](https://e621.net/posts?tags=canine)**
+* Эй, я же сказал "собакена", мне дикие звери не нужны.
+  * **[canine domestic_dog](https://e621.net/posts?tags=canine+domestic_dog)**
+* Собакена – это значит кобеля, если что...  
+  * **[canine domestic_dog male](https://e621.net/posts?tags=canine+domestic_dog+male)**
 * И чтоб на картинке он только один был, без посторонних!
-  * **[canine male solo](https://e621.net/post/index/1/canine%20male%20solo)**
+  * **[canine domestic_dog male solo](https://e621.net/posts?tags=canine+domestic_dog+male+solo)**
 * Это будут обои на моём новом FullHD-монике, поэтому картинка нужна в хайрезе!
-  * **[canine male solo width:>=1920 height:>=1080](https://e621.net/post/index/1/canine%20male%20solo%20width:%3E=1920%20height:%3E=1080)**
+  * **[canine domestic_dog male solo width:>=1920 height:>=1080](https://e621.net/posts?tags=canine+domestic_dog+male+solo+width%3A%3E%3D1920+height%3A%3E%3D1080)**
 * Э, моник вообще-то ~~тру-фурёвую~~ альбомную ориентацию имеет!
-  * **[canine male solo width:>=1920 height:>=1080 ratio:>=1.78](https://e621.net/post/index/1/canine%20male%20solo%20width:%3E=1920%20height:%3E=1080%20ratio:%3E=1.78)**
-* Эх, мне надо ещё один тег добавить, а их уже шесть. Можно как-то выйти из положения?
-  * **[canine male solo width:>=1920 ratio:>=1.78](https://e621.net/post/index/1/canine%20male%20solo%20width:%3E=1920%20ratio:%3E=1.78)**
-* А что, так тоже можно было? Короче, для полного счастья мне нужно, чтобы на этой обоине собакен был бы на поводке!
-  * **[canine male solo width:>=1920 ratio:>=1.78 leash](https://e621.net/post/index/1/canine%20male%20solo%20width:%3E=1920%20ratio:%3E=1.78%20leash)**
+  * **[canine domestic_dog male solo width:>=1920 height:>=1080 ratio:>=1.78](https://e621.net/posts?tags=canine+domestic_dog+male+solo+width%3A%3E%3D1920+height%3A%3E%3D1080+ratio%3A%3E%3D1.78)**
+* Можно ли как-то упростить поисковый запрос, убрав лишние теги? ~~А то тут в синтаксисе уже назревает какой-то матан...~~
+  * **[domestic_dog male solo width:>=1920 ratio:>=1.78](https://e621.net/posts?tags=domestic_dog+male+solo+width%3A%3E%3D1920+ratio%3A%3E%3D1.78)**
+* А что, так тоже можно было? Ну, теперь для полного счастья мне нужно, чтобы на этой обоине собакен был на поводке!
+  * **[domestic_dog male solo width:>=1920 ratio:>=1.78 leash](https://e621.net/posts?tags=domestic_dog+male+solo+width%3A%3E%3D1920+ratio%3A%3E%3D1.78+leash)**
 * То, что надо!
 
 #### Пример 4
 * Короче, я ищу анимацию, про которую мало что помню...
-  * **[animated](https://e621.net/post/index/1/animated)**
+  * **[animated](https://e621.net/posts?tags=animated)**
 * Там были два самца, и один другому отсасывал...
-  * **[animated male/male oral](https://e621.net/post/index/1/animated%20male%25-2Fmale%20oral)**
-* И точно не было ящериков, это хорошо запомнил.
-  * **[animated male/male oral –scalie](https://e621.net/post/index/1/animated%20male%25-2Fmale%20oral%20-scalie)**
+  * **[animated male/male oral](https://e621.net/posts?tags=animated+male%2Fmale+oral)**
+* Но точно не было ящериков, это я хорошо помню.
+  * **[animated male/male oral -scalie](https://e621.net/posts?tags=animated+male%2Fmale+oral+-scalie)**
 * Один из них был лисом...
-  * **[animated male/male oral –scalie fox](https://e621.net/post/index/1/fox%20animated%20male%25-2Fmale%20oral%20-scalie)**
+  * **[animated male/male oral -scalie fox](https://e621.net/posts?tags=animated+male%2Fmale+oral+-scalie+fox)**
 * ...и у него вся спина была в спущенке...
-  * **[fox animated male/male oral –scalie cum_on_back](https://e621.net/post/index/1/fox%20animated%20male%25-2Fmale%20oral%20-scalie%20cum_on_back)**
-* ...О, нашлось!
+  * **[animated male/male oral -scalie fox cum_on_back](https://e621.net/posts?tags=animated+male%2Fmale+oral+-scalie+fox+cum_on_back)**
+* ...О, вот она!
 
 ### InkBunny
 
