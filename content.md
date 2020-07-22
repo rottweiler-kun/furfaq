@@ -127,7 +127,7 @@
 
 ### Pixiv
 
-Тащемта основы предельно ясно описаны в [хелпе](https://www.pixiv.help/hc/en-us#3-3) и не отличаются от поиска на любой пикчепомойке.
+Тащемта основы предельно ясно описаны в [хелпе](https://www.pixiv.help/hc/en-us/articles/235646387) и не отличаются от поиска на любой пикчепомойке.
 Засада в том, что гордые самураи практически не используют англоязычные теги, поэтому залогом успеха является знание мунспика. Если выучить что "**ケモノ**" это [фурри](https://en-dic.pixiv.net/a/furry) ещё как-то можно, то для других тегов придётся прибегать к специальным словарям навроде [такого](https://naughtyjester.tumblr.com/post/119904403350/list-of-pixiv-tags), [эдакого](https://graphicsexualhorror.tumblr.com/post/51023977906/ref-list-of-kinknsfw-related-pixiv-tags) или [разэдакого](https://www.reddit.com/r/LearnJapanese/comments/6vog8a/list_of_sexual_terms_and_fetishes/), и даже [с картинками](https://ohnoanime.moe/blog/2018/8/13/hentai-terminology-101-extremely-nsfw) как в букваре.
 Стоит также снять запрет на отображение adult-контента в [настойках аккаунта](https://www.pixiv.net/setting_user.php).
 
@@ -142,8 +142,8 @@
 * [TinEye](http://tineye.com) – жалкое подобие вышеуказанных сервисов.
 * Для поиска виабушных авторов анон рекомендует использовать [SauceNao](https://saucenao.com)
 * [Internet Wayback Machine](https://archive.org/web) – машина времени, позволяющая посмотреть что было по тому или иному адресу много лет назад. Не все сайты индексируются, периодичность индексации тоже разная, большая часть мультимедиа (картинки и прочее) не сохраняется. Удобен для ознакомления с бывшим содержимым сдохших ныне ссылок и чтения проёбаных тредов двача.
-* [Архивач](https://arhivach.ng/?tags=1331) ([зеркало в TOR](http://arhivachovtj2jrp.onion/?tags=1331) ([гейт](http://arhivachovtj2jrp.tor2web.xyz/?tags=1331))) – архиватор тредов для двача. Поможет в том случае, если нужно отыскать нужную картинку в старом утонувшем треде. Треды добавляются в архив вручную, так что найти можно далеко не всё – но ты [можешь помочь, анон](https://arhivach.ng/add/).
-  * Аналогичные архивы для [4chan](https://desuarchive.org/trash) и [8chan](https://8ch.net/fur/archive/index.html).
+* [Архивач](https://arhivach.ng/?tags=1331) ([зеркало в TOR](http://arhivachovtj2jrp.onion/?tags=1331) ([гейт](http://arhivachovtj2jrp.onion.ws/?tags=1331))) – архиватор тредов для двача. Поможет в том случае, если нужно отыскать нужную картинку в старом утонувшем треде. Треды добавляются в архив вручную, так что найти можно далеко не всё – но ты [можешь помочь, анон](https://arhivach.ng/add/).
+  * [Desu Archive](https://desuarchive.org/trash) – аналогичный архив для [4chan](https://boards.4chan.org/trash). Есть и ряд других архивов пожиже, например [Archived.Moe](https://archived.moe/trash).
 
 ---
 
