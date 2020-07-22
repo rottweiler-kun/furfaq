@@ -81,6 +81,8 @@
   * В качестве более простой альтернативы данным скриптам можно воспользоваться _[Nitter](tech.md#грабберы)_.
 * **[Image Glutton](https://greasyfork.org/ru/scripts/4713-eza-s-image-glutton)** – переход сразу к полноразмерной картинке, минуя страницу с превьюшкой, комментариями и прочим (работает для множества разных галерей и бур, включая фурёвые).
 * **[eSix Extend](http://baoh.ddns.net)** – дополнительные твики интерфейса _**621.net**_. Прямые ссылки на [классический](http://baoh.ddns.net/userjs/eSixExtendClassic/eSixExtendClassic.user.js) и [чуть более допиленный](http://baoh.ddns.net/userjs/eSixExtend/eSixExtend.user.js) скрипты.
+* **[e621, Reimagined](https://re621.github.io/)** – ещё один твикер _**621.net**_, добавляющий много полезных фич, таких как кастомные фильтры, массовое скачивание постов и хоткеи.
+* **[e621-userscript](https://github.com/Yusifx1/e621-userscript-and-extension)** – простенький граббер отдельных постов и сетов/пулов с _**621.net**_.
 
 #### Расширения для браузеров
 
@@ -117,12 +119,14 @@
 Клиенты для разных сайтов, облегчают жизнь владельцам мобильных устройств.
 
 * Капчевание:
-  * Android: **[Dashchan](https://github.com/Mishiranu/Dashchan)**, **[2ch Browser](https://vortexwolf.github.io/)**, **[Overchan](https://github.com/AliceCA/Overchan-Android)**, **[Clover](https://github.com/chandevel/Clover)** или **[Kuroba](https://github.com/Adamantcheese/Kuroba)**.
+  * Android: **[Dashchan](https://github.com/Mishiranu/Dashchan)** / **[Dashchan Continued](https://github.com/f77/Dashchan)**, **[2ch Browser](https://vortexwolf.github.io/)**, **[Overchan](https://github.com/AliceCA/Overchan-Android)**, **[Clover](https://github.com/chandevel/Clover)** или **[Kuroba](https://github.com/Adamantcheese/Kuroba)**.
   * iOS: **[Kochan](https://testflight.apple.com/join/s7ILWqYT)**.
   * Windows 10: **[2ch4you]( https://www.microsoft.com/ru-ru/p/2ch4you/9nzft4ns8t79)** или **[2ch4ever]( https://www.microsoft.com/ru-ru/p/2ch4ever/9nmfh0wm5d8m)**.
-* На форуме e621 есть целая [ветка с поделками разной степени работоспособности](https://e621.net/forum_topics?search%5Bcategory_id%5D=9), из них наиболее функциональные на данный момент **[Yiffur!](https://play.google.com/store/apps/details?id=com.ugf0.yiffur)** и **[The Wolf's Stash](https://play.google.com/store/apps/details?id=se.zepiwolf.tws.play)**, от которых несколько отстают **[m621](https://e621.net/forum_topics/25037)**, **[e305](https://play.google.com/store/apps/details?id=archimedes.com.e305)** и **[e1547](https://github.com/clragon/e1547)**.
+  * ~~Windows Mobile: **[Dvach Browser](https://www.microsoft.com/ru-ru/p/dvach-browser/9nblggh080h4)**.~~
+* На форуме e621 есть целая [ветка с поделками разной степени работоспособности](https://e621.net/forum_topics?search%5Bcategory_id%5D=9), из них наиболее функциональные на данный момент **[Yiffur!](https://play.google.com/store/apps/details?id=com.ugf0.yiffur)** и **[The Wolf's Stash](https://play.google.com/store/apps/details?id=se.zepiwolf.tws.play)**, от которых несколько отстают **[m621](https://e621.net/forum_topics/25037)**, **[e305](https://drive.google.com/drive/folders/12Z65-BSSjZO40w_yBtywm1spU3gkP5un)** и **[e1547](https://github.com/clragon/e1547)**.
 * **[NOC for FA](https://furaffrate.net)** - неофициальный Android-клиент для FurAffinity. Имеющийся в [Google Play](https://play.google.com/store/apps/details?id=com.net.furaffrate.furaffinity) клиент не отображает NSFW-контент, так что качайте APK с сайте. `Хранит пароль на устройстве в plaintext`
 * **[SoFurry App beta ](https://www.sofurry.com/static/app/android/app.apk) ([зеркало](http://rga.la/sfapp))** – официальная бета-версия Android-клиента для *SoFurry*.
+* **[Tails](https://tails.safo.fi/)** – неофициальный клиент для _**621.net**_ под **iOS**.
 * **[FlexBooru](https://github.com/flexbooru/flexbooru)** – буровой клиент под Android (**[Google Play](https://play.google.com/store/apps/details?id=onlymash.flexbooru.play)**).
 
 #### Для творцов
