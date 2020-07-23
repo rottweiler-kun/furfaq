@@ -48,7 +48,7 @@
 
 ### США:
 * **[Bad Dragon](https://bad-dragon.com)** - в Россию не отправляют.
-  * [Обсуждение](https://forums.bad-dragon.com/viewtopic.php?f=126&t=32438) продуктов конкурентов на форуме BD.
+  * [Обсуждение](https://forums.bad-dragon.com/viewtopic.php?f=126&t=32438) продуктов конкурентов.
   * [Реддит BD](https://www.reddit.com/r/BadDragon) с отзывами внештатных хуековбоев и жалобами порвавших жопу торопыг.
 * **[ZooFur](http://www.zoofur.com)** - в Россию ***отправляют***.
 * **[Twin Tail Creations](https://www.twintailcreations.com)** - в Россию ***отправляют***.
@@ -82,7 +82,7 @@
 * Тематический раздел на [Reddit](https://www.reddit.com/r/fantasysextoys/).
 * **[Silicone Fantasy Toy Maker Masterlist](https://www.reddit.com/r/BadDragon/comments/ec2new/new_silicone_fantasy_toy_maker_masterlist/)** - большой список ссылок на силиконовых дилдолитейщиков с рейтингами и категориямию. Что иронично, сам список запилен в реддит-разделе BadDragon и рекламирует их прямих конкурентов.
 * **[Fantasy Toy Silicone Firmness Comparison](https://docs.google.com/spreadsheets/d/1Ds_HN5UDMKCdWkJrm6qYC5MCIhBlLpp61ISwxM-kc6c)** - сравнительная таблица жёсткости материала игрушек разных производителей.
-* **[Squirrelmunk](https://squirrelmunk.com)** - блог с обзорами секс-игрушек разных производителей и каталогом магазинов. [Много](https://squirrelmunk.com/2017/10/09/list-of-fantasy-toy-makers) [всякой](https://squirrelmunk.com/2017/10/12/list-of-indie-glass-toy-makers) [разной](https://squirrelmunk.com/2017/10/12/list-of-wood-toy-makers) [спискоты](https://squirrelmunk.com/2017/10/12/list-of-ceramic-toy-makers).
+* **[Squirrelmunk](https://squirrelmunk.com)** - блог с обзорами секс-игрушек разных производителей и каталогом магазинов. [Много](https://squirrelmunk.com/2017/10/09/list-of-fantasy-toy-makers) [всякой](https://squirrelmunk.com/2017/10/12/list-of-indie-glass-toy-makers) [разной](https://squirrelmunk.com/2017/10/12/list-of-wood-toy-makers) [спискоты](https://squirrelmunk.com/2017/10/12/list-of-ceramic-toy-makers), правда слегка устаревшей.
 * **[The Dicktionary](https://fantasytoymasterlist.tumblr.com)** - блог ~~сказочного дилдоёба~~ виртуального коллекционера необычных дилд. Есть [список магазинов](https://fantasytoymasterlist.tumblr.com/masterlist) , включая [чёрный список](https://fantasytoymasterlist.tumblr.com/blacklist) продавцов.
 * **[Sex Toy Safety Information](https://dangerouslilly.com/toxictoys)** - небольшой список проверенных производителей, у которых с материалами (силиконом) всё в порядке.
 * Несколько англоязычных гайдов по покупке и юзанию от анонов с 4chan: _[Fantasy toy thread guide](https://pastebin.com/fcZzua9K)_, _[Toucan's Guide](https://pastebin.com/hwhGL66a)_.
