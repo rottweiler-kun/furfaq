@@ -35,10 +35,9 @@
 > Собрал тут ссылок, которые могут быть полезны желающим приобрести фурсьют.
 
 * [Список профи мейкеров](https://docs.google.com/spreadsheets/d/1Up_uD5CWzD8FhZG6c-F7xUglB0DMmr7yCEcz9-lQ59U/edit#gid=0). В этом листе только те, кто имеет не менее 10 выполненных работ.
-* [Еще один лист](https://forums.furaffinity.net/threads/list-of-fursuit-makers.1373068/). Здесь преимущественно мейкеры из США.
-* [Список мейкеров из России и стран СНГ](http://fursuit.ru/i-want-fursuit/fursuit-makers-list). Сам по себе [сайт](https://fursuit.ru) так же содержит много ответов на простые вопросы
-* [Довольно большой список с тегами и фотками работ](https://makersdatabase.tumblr.com/).
-* [Книга жалоб и предложений](https://www.furaffinity.net/user/fursuitcritique/)
+* [Еще один лист](https://forums.furaffinity.net/threads/list-of-fursuit-makers.1373068/). Здесь преимущественно мейкеры из США. **Не обновляется**.
+* [Список мейкеров из России и стран СНГ](http://fursuit.ru/i-want-fursuit/fursuit-makers-list). Сам по себе [сайт](http://fursuit.ru) так же содержит много ответов на простые вопросы
+* [Довольно большой список с тегами и фотками работ](https://makersdatabase.tumblr.com/). **Не обновляется**.
 * [База данных отзывов о фурсьютах и мейкерах](http://fursuitreview.com/) со скрупулёзным перечислением всех деталей (включая стоимость, ощущения от ~~ебли~~ носки и вежливости общения с заказчиком) и лаконичным итоговым резюме "годно"/"данунах".
 * [Группа самоделкиных ВК](https://vk.com/moonclanfur).
 
