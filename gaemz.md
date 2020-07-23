@@ -843,7 +843,7 @@ TPS про жизнь ловцов диких зверей, которых мо�
 ### Legend of Krystal Rebirth
 **[Patreon](https://www.patreon.com/kuja)** | **[LoK Rebirth Wiki](https://lokrebirth.fandom.com/wiki/LOK_Rebirth_Wiki)** | **[Discord](https://discord.gg/naT4hZf)** | **[MEGA](https://mega.nz/#F!4gE1EZaQ!bmtFIJbpDALOOymT3xgytg!9xkHgL6D)** | **[Old original Flash version](https://legendofkrystal.com)**
 
-Лисичка из SEGAвселенной в погоне за преступницей-суккубом разъебала космический корабль и вынуждена ловить её в деревне разумных ящериков.
+Знаменитая Нинтендолисичка разъебала космический корабль в погоне за преступницей-суккубом и вынуждена ловить её в деревне разумных ящериков.
 
 ![Legend of Krystal Rebirth screenshot](/img/screenshots/LoKR.jpg "Legend of Krystal Rebirth screenshot")
 
