@@ -312,7 +312,7 @@
 ---
 
 ### Four-Letter Word
-**[Patreon](https://www.patreon.com/Kho)** | **[U18Chan](https://u18chan.com/gfur/topic/1098860)** | **MediaFire**: _[Windows](https://www.mediafire.com/?9o1z9h2jsbi29bz/)_, _[Mac](https://www.mediafire.com/?749lu7935qat38a/)_, _[Linux](https://www.mediafire.com/?8d14dq2c4an694z/)_, _[Android](https://www.mediafire.com/?29d7jr38gjurs87/)_
+**[Patreon](https://www.patreon.com/Kho)** | **[itch.io](https://kho.itch.io/four-letter-word)**  | **[U18Chan](https://u18chan.com/gfur/topic/1098860)** | **MediaFire (old builds)**: _[Windows](https://www.mediafire.com/?9o1z9h2jsbi29bz/)_, _[Mac](https://www.mediafire.com/?749lu7935qat38a/)_, _[Linux](https://www.mediafire.com/?8d14dq2c4an694z/)_, _[Android](https://www.mediafire.com/?29d7jr38gjurs87/)_
 
 Продолжение одноимённого комикса про пару, цветочно-конфетный период отношений у которой уже подошёл к концу, а как и зачем дальше жить вместе – непонятно.
 
