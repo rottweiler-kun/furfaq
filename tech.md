@@ -119,8 +119,8 @@
 Клиенты для разных сайтов, облегчают жизнь владельцам мобильных устройств.
 
 * Капчевание:
-  * Android: **[Dashchan](https://github.com/Mishiranu/Dashchan)** / **[Dashchan Continued](https://github.com/f77/Dashchan)**, **[2ch Browser](https://vortexwolf.github.io/)**, **[Overchan](https://github.com/AliceCA/Overchan-Android)**, **[Clover](https://github.com/chandevel/Clover)** или **[Kuroba](https://github.com/Adamantcheese/Kuroba)**.
-  * iOS: **[Kochan](https://testflight.apple.com/join/s7ILWqYT)**.
+  * Android: **[Dashchan](https://github.com/Mishiranu/Dashchan)** / **[Dashchan Continued](https://github.com/f77/Dashchan)**, **[2ch Browser](https://vortexwolf.github.io/)**, **[Overchan](https://github.com/AliceCA/Overchan-Android)**, **[Clover](https://github.com/chandevel/Clover)**, **[Kuroba](https://github.com/Adamantcheese/Kuroba)** или **[iChan](https://play.google.com/store/apps/details?id=com.zchandev.iChan)**.
+  * iOS: **[Kochan](https://testflight.apple.com/join/s7ILWqYT)** или **[iChan](https://github.com/Zchandev/iChan)**.
   * Windows 10: **[2ch4you]( https://www.microsoft.com/ru-ru/p/2ch4you/9nzft4ns8t79)** или **[2ch4ever]( https://www.microsoft.com/ru-ru/p/2ch4ever/9nmfh0wm5d8m)**.
   * ~~Windows Mobile: **[Dvach Browser](https://www.microsoft.com/ru-ru/p/dvach-browser/9nblggh080h4)**.~~
 * На форуме e621 есть целая [ветка с поделками разной степени работоспособности](https://e621.net/forum_topics?search%5Bcategory_id%5D=9), из них наиболее функциональные на данный момент **[Yiffur!](https://play.google.com/store/apps/details?id=com.ugf0.yiffur)** и **[The Wolf's Stash](https://play.google.com/store/apps/details?id=se.zepiwolf.tws.play)**, от которых несколько отстают **[m621](https://e621.net/forum_topics/25037)**, **[e305](https://drive.google.com/drive/folders/12Z65-BSSjZO40w_yBtywm1spU3gkP5un)** и **[e1547](https://github.com/clragon/e1547)**.
