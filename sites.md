@@ -43,7 +43,7 @@
 * ~~Yiff.party – рипы рака, убивающего фурри-арт аккаунтов попрошаек с [Patreon](https://www.patreon.com).~~
   * Выпилен ~~кровавой гебнёй~~ истеричным админом в ноябре 2020 года без явных причин.
     * [Чей-то бэкап галерей пары десятков художников](http://n6wfjrozexrtnim2lrbxqek4mmucpsf7hsj7xtab7nrb3s44ez6hhqid.onion)
-    * [Ещё больший по объёму бэкап](https://cloudflare-ipfs.com/ipns/QmPc9yqAV3J69puyh7vTz4gKtsNyWDVQUnfY6hrthtK1SV/) в [IPFS](https://ru.wikipedia.org/wiki/IPFS)
+    * Yiff.Party Archive – Ещё больший по объёму распределённый бэкап: [IPFS](http://127.0.0.1:8080/ipfs/bafybeib4d6lcahwsi4o3jd655w7nvfvegh5rpu2tvfefrxfckyg3ycu2ba) ([гейт ipfs.io](https://gateway.ipfs.io/ipfs/bafybeib4d6lcahwsi4o3jd655w7nvfvegh5rpu2tvfefrxfckyg3ycu2ba/) / [гейт CloudFlare](https://cloudflare-ipfs.com/ipfs/bafybeib4d6lcahwsi4o3jd655w7nvfvegh5rpu2tvfefrxfckyg3ycu2ba/)) и [IPNS](http://127.0.0.1:8080/ipns/QmPc9yqAV3J69puyh7vTz4gKtsNyWDVQUnfY6hrthtK1SV/) ([гейт ipfs.io](https://gateway.ipfs.io/ipns/QmPc9yqAV3J69puyh7vTz4gKtsNyWDVQUnfY6hrthtK1SV/) / [гейт CloudFlare](https://cloudflare-ipfs.com/ipns/QmPc9yqAV3J69puyh7vTz4gKtsNyWDVQUnfY6hrthtK1SV/)).
 * [Kemono.party](https://kemono.party) – духовный наследник усопшего yiff.party и продолжатель славного дела оного. В настоящее время можно юзать как частичный статичный архив, однако при этом активно допиливается ~~и клянчит донаты~~.
 
 #### Исторический музей
