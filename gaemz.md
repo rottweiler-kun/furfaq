@@ -140,6 +140,7 @@
 * [List of furry visual novels](http://en.wikifur.com/wiki/List_of_furry_visual_novels) – спискота на WikiFur.
 * [Visual Novel - TvTropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/VisualNovel) – статья на со спискотой, в том числе с выделением игр в типичные и нетипичные Троповские подкатегории, коих тут с полсотни.
 * [Furry Games Index](https://furrygamesindex.github.io/en/) – неплохая попытка китайцев сделать аналог VNDB, но по фурёвым играм. При этом границами VNок дело не ограничивается: в списке есть и RPG, и пошаговые стратегии, и парочка относительно мейнстримовых игр.
+* [Furry Porn Games List](https://rentry.co/furrygames) – nuff said. Минималистичный, отсоритрованный по жанрам список с кратким описанием и тегами для тех, кто не хочет тратить время на парсинг рекламных синопсисов.
 * [Архивы игр и VN-ок](https://docs.google.com/spreadsheets/d/1JS5Fup5P1dfiOnmEYB0-SR3Ea2Z0DkS23XXlAueUfCA), собранный и регулярно обновляемый ОПом игротреда на */fur*, за что ему респект: [Архив #1](https://mega.nz/folder/4gE1EZaQ#bmtFIJbpDALOOymT3xgytg), [Архив #2](https://mega.nz/folder/2yxllKjC#iMu4_e1wHzkkAXODYKJoIw), [Архив #3](https://mega.nz/folder/z0pH0BbR#BzMhauvDz-rvQTdyGJds_g), [Архив #4](https://mega.nz/folder/xuxyhZjY#_DF_d4LznXGilkRLv7Pphg).
   * За редкими исключениями, большая часть нижеуказанных игр взята именно из этого архива.
 
